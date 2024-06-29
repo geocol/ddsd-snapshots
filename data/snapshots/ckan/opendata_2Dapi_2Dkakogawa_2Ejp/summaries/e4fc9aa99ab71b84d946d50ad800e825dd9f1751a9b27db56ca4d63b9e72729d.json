@@ -1,0 +1,116 @@
+{
+   "broken" : 1,
+   "files" : {
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 37232,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f6841d7bccaabd99b062cb3dee1b7187d9d2e2ab6527b90b351de68d43f950d2",
+         "time" : 1719664343,
+         "title" : "",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/landslidehazardmap"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 39391,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "efedc1626db4ea5c1b1d28efbb0a211498a7d5b541cacc493b7a77e8d907e7d8",
+         "time" : 1702952328.91515,
+         "title" : "土砂災害ハザードマップ（土砂）",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=landslidehazardmap"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "土砂災害ハザードマップ（土砂）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/landslidehazardmap"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=landslidehazardmap",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 76623,
+   "mirrorzip" : {
+      "length" : 13455,
+      "set" : "free",
+      "sha256" : "40e1283c97f0cc7e2d4451bb370185d457e705c8ba4043d9ced25b1694e3fce0"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=landslidehazardmap",
+      "desc" : "土砂災害ハザードマップ（土砂）情報APIです。\u000D\u000A（出典：兵庫県ＣＧハザードマップ）",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/landslidehazardmap",
+      "tags" : [
+         "兵庫県",
+         "加古川市",
+         "防災･安全",
+         "ハザード",
+         "土砂",
+         "土砂災害"
+      ],
+      "time" : 1702952328.91515,
+      "title" : "土砂災害ハザードマップ（土砂）"
+   }
+}

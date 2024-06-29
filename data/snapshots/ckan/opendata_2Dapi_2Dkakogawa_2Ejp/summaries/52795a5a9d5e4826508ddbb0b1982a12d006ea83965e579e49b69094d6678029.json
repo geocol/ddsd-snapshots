@@ -1,0 +1,124 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:8930eab4-e08e-4aa1-a686-802e51ee0cd0" : {
+         "desc" : "",
+         "file_name" : "_2Ezip",
+         "length" : 21219,
+         "mime" : "application/octet-stream",
+         "sha256" : "327ceff54e286656e3af57ecd7f2eae062835a43bfceb77f34151d547435d1d2",
+         "time" : 1719664353,
+         "title" : " 通学路危険箇所",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/a4c70cd2-7a9e-4235-8a9f-89a902ee1ce0/resource/8930eab4-e08e-4aa1-a686-802e51ee0cd0/download/.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 24685,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9e547dfcf3077f614f1f2a787e5aed4716d9006e34bc8419772b2a94f29f9be9",
+         "time" : 1719664354,
+         "title" : "",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/schoolroad"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7444,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2fc2f6a3f981e1c7b3239f5fac40b38888618eb00e0e33d336213e71950e32dc",
+         "time" : 1702961226.52353,
+         "title" : "通学路危険箇所",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=schoolroad"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "通学路危険箇所",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/schoolroad"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=schoolroad",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 53348,
+   "mirrorzip" : {
+      "length" : 33425,
+      "set" : "free",
+      "sha256" : "82836a3208fc4555a6588c2696bde8f768ff321a45d6afe2f2b849a8e2ea5845"
+   },
+   "package" : {
+      "author" : "加古川市",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=schoolroad",
+      "desc" : "加古川市内の通学路の危険箇所に関する情報です。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/schoolroad",
+      "tags" : [
+         "加古川市",
+         "子育て・教育",
+         "危険箇所",
+         "通学路"
+      ],
+      "time" : 1702961226.52353,
+      "title" : "通学路危険箇所"
+   }
+}
