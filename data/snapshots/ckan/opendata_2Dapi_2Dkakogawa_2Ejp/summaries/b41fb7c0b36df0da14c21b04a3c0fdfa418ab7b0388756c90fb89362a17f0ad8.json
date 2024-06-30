@@ -1,0 +1,114 @@
+{
+   "files" : {
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 36900,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "978288ce66dc8bdf1c04b33da3a57c68b15a6ed9048adf2cdc5b732071199cdc",
+         "time" : 1719752111,
+         "title" : "",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/floodhazardmap"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 64881,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "98b8099148d3d65616aa97305a5797d693e33e8a789e4d7bdf24224b27cc8140",
+         "time" : 1705475960.2473,
+         "title" : "洪水ハザードマップ",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=floodhazardmap"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "洪水ハザードマップ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/floodhazardmap"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=floodhazardmap",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 101781,
+   "mirrorzip" : {
+      "length" : 14215,
+      "set" : "free",
+      "sha256" : "1ac82badfbf300ac9bda907e38bff69b5855ce5ebfa83d17de50080ef4c34909"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=floodhazardmap",
+      "desc" : "洪水ハザードマップ情報APIです。\u000D\u000A（出典：兵庫県ＣＧハザードマップ）",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/floodhazardmap",
+      "tags" : [
+         "兵庫県",
+         "加古川市",
+         "防災･安全",
+         "ハザード",
+         "洪水"
+      ],
+      "time" : 1705475960.2473,
+      "title" : "洪水ハザードマップ"
+   }
+}

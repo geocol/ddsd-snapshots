@@ -1,0 +1,155 @@
+{
+   "files" : {
+      "file:id:a76dbfb8-78ba-4b99-9048-a731e6c72ec4" : {
+         "desc" : "",
+         "file_name" : "_2Ecsv",
+         "length" : 2246,
+         "mime" : "text/csv",
+         "sha256" : "c2a17424002174134efabba8e96541959b2f8418ee118f35d560c1fa076f05d6",
+         "time" : 1719750990,
+         "title" : "児童遊園.csv",
+         "url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/583137e7-a310-4e64-9f71-d05a9bf49e14/resource/a76dbfb8-78ba-4b99-9048-a731e6c72ec4/download/.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 16371,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "991cd56b50ee4d2fe446f1d0cc4b83896a1857a253d57c7cd93832a30fc99ed4",
+         "time" : 1719750989,
+         "title" : "",
+         "url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/activity/jidoyuen"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2339,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "141e0c7d122dc7312d403c0d6dd508230b90fad1c10cbb00bcc2bc9353d57666",
+         "time" : 1710484160.16283,
+         "title" : "児童遊園一覧（こども・若者支援課）",
+         "url" : "https://opendata.city.sagamihara.kanagawa.jp/api/action/package_show?id=jidoyuen"
+      }
+   },
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://opendata.city.sagamihara.kanagawa.jp/api/action/package_show?id=jidoyuen",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "相模原市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（http://creativecommons.org/licenses/by/4.0）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（http://creativecommons.org/licenses/by/4.0）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "児童遊園一覧（こども・若者支援課）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/jidoyuen"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf",
+            "insecure" : 1,
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.city.sagamihara.kanagawa.jp",
+            "label" : "相模原市オープンデータ利用規約（最終更新日：平成30年3月28日）",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "http://www.city.sagamihara.kanagawa.jp/shisei/opendata/index.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 20956,
+   "mirrorzip" : {
+      "length" : 12962,
+      "set" : "nonfree",
+      "sha256" : "6367976a0722c06c67ddff4ea7c31a7f4c72f537932816caf46cb40c212e4e26"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata.city.sagamihara.kanagawa.jp/api/action/package_show?id=jidoyuen",
+      "desc" : "",
+      "org" : "こども・若者支援課",
+      "page_url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/jidoyuen",
+      "tags" : [
+         "こども・若者支援課",
+         "施設",
+         "児童遊園"
+      ],
+      "time" : 1710484160.16283,
+      "title" : "児童遊園一覧（こども・若者支援課）"
+   }
+}

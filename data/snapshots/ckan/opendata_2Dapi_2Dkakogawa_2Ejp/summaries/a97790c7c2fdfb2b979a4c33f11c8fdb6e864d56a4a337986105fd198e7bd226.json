@@ -1,0 +1,111 @@
+{
+   "files" : {
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 22259,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "aea3cce72731464859d216366c197c2b39582246fb1f4939209272939d4a91c0",
+         "time" : 1719752103,
+         "title" : "",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/busroute"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 44851,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "7c9e6e2dda55efb440d74813866427e93c6ab2ef0ed8e665adeb983470a76046",
+         "time" : 1705567413.72041,
+         "title" : "バス路線",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=busroute"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "バス路線",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/busroute"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=busroute",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 67110,
+   "mirrorzip" : {
+      "length" : 12419,
+      "set" : "free",
+      "sha256" : "71ef53286999416bba32af24341baa31b573e141416f99d7bb4ad6cf36facff3"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=busroute",
+      "desc" : "バス路線情報APIです。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/busroute",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705567413.72041,
+      "title" : "バス路線"
+   }
+}
