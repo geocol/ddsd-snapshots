@@ -1,0 +1,166 @@
+{
+   "files" : {
+      "file:id:16840109-60cd-466b-bd80-6e7fb0297e7a" : {
+         "desc" : "",
+         "file_name" : "282103_tourism.csv-1",
+         "length" : 14503,
+         "mime" : "text/csv",
+         "sha256" : "6a0653bd152fb047c7e513733ce9706d6982744d3e55485c0662b4e745869d6a",
+         "time" : 1719804576,
+         "title" : "観光施設一覧",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/192842c6-6160-4b77-8486-74d8567af242/resource/16840109-60cd-466b-bd80-6e7fb0297e7a/download/282103_tourism.csv"
+      },
+      "file:id:307f8939-f312-4430-aabf-d22efc857552" : {
+         "desc" : "官兵衛と光ゆかりの史跡情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022Tourism\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.Tourism.KanbeYukari.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;KanbeYukari  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;観光施設の名称を格納する。  \u000D\u000A&nbsp;kana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;施設の読み仮名を格納する。  \u000D\u000A&nbsp;furigana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;施設の読み仮名を格納する。  \u000D\u000A&nbsp;location&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geo:json&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位置情報を格納する。形式：緯度, 経度  \u000D\u000A&nbsp;postCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;郵便番号を格納する。  \u000D\u000A&nbsp;address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;住所を格納する。  \u000D\u000A&nbsp;telephoneNumber&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;電話番号を格納する。  \u000D\u000A&nbsp;access&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;施設へのアクセス方法を格納する。  \u000D\u000A&nbsp;department&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;データの所轄部署を格納する。  \u000D\u000A&nbsp;remarks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;備考を格納する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A&nbsp;city&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市区町村名称 ※都道府県のみの場合は不要。  \u000D\u000A&nbsp;municipalCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;都道府県コード又は市区町村コード  \u000D\u000A&nbsp;prefecture&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;都道府県名称  \u000D\u000A",
+         "set_type" : "fiware-ngsi",
+         "time" : 1518417312.82547,
+         "title" : "官兵衛と光ゆかりの史跡",
+         "type" : "dataset"
+      },
+      "file:id:7894861f-9060-4572-9afd-a57ffdc17ce7" : {
+         "desc" : "",
+         "file_name" : "282103_tourism.csv-2",
+         "length" : 14503,
+         "mime" : "text/csv",
+         "sha256" : "6a0653bd152fb047c7e513733ce9706d6982744d3e55485c0662b4e745869d6a",
+         "time" : 1719804576,
+         "title" : "観光施設一覧（推奨データセット）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/192842c6-6160-4b77-8486-74d8567af242/resource/7894861f-9060-4572-9afd-a57ffdc17ce7/download/282103_tourism.csv"
+      },
+      "file:id:bec868c1-be1b-4088-babf-3e986ff8a363" : {
+         "desc" : "",
+         "file_name" : "_2Ecsv",
+         "length" : 2292,
+         "mime" : "application/octet-stream",
+         "sha256" : "64bcd4655ad6db989d2f5a78c7caafa715a91e508ca4c882a8e007744546ea58",
+         "time" : 1719804574,
+         "title" : "官兵衛と光ゆかりの史跡",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/192842c6-6160-4b77-8486-74d8567af242/resource/bec868c1-be1b-4088-babf-3e986ff8a363/download/.csv"
+      },
+      "file:id:fa5d4809-dc4d-43e0-97cc-6c368dc59656" : {
+         "desc" : "",
+         "file_name" : "tourism.kanbeyukari.json",
+         "length" : 21905,
+         "mime" : "application/json",
+         "sha256" : "58745b96405aebae952ba929fdb302a0cb330a7281985ae2f8d387f6f8dd0163",
+         "time" : 1719804575,
+         "title" : "官兵衛と光ゆかりの史跡",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/192842c6-6160-4b77-8486-74d8567af242/resource/fa5d4809-dc4d-43e0-97cc-6c368dc59656/download/tourism.kanbeyukari.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 33884,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ff395ae2d561ac53315d55c25c7f1d91fb25cdb63bad5e29c6b9adb09949dfc7",
+         "time" : 1719804578,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/tourism"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 12970,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "218aad91e19978296c2fac0d69ec03c872e5c170e937da1a68a93eea4bef1bed",
+         "time" : 1703743394.19698,
+         "title" : "観光",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tourism"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "観光",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/tourism"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tourism",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 100057,
+   "mirrorzip" : {
+      "length" : 28971,
+      "set" : "free",
+      "sha256" : "a83649853c81fc31172f9a8681285a70a441bc123000dd4e63b4f32948b0113a"
+   },
+   "package" : {
+      "author" : "加古川市",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tourism",
+      "desc" : "観光に関する情報です。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/tourism",
+      "tags" : [
+         "加古川市",
+         "施設",
+         "観光・文化",
+         "観光"
+      ],
+      "time" : 1703743394.19698,
+      "title" : "観光"
+   }
+}
