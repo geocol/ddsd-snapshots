@@ -1,0 +1,157 @@
+{
+   "files" : {
+      "file:id:a2cb692a-6cc9-4acc-984e-79ff386295bd" : {
+         "desc" : "",
+         "file_name" : "141500_online_procedure.csv",
+         "length" : 2752,
+         "mime" : "text/csv",
+         "sha256" : "52006170e80f7ca1bddb45e5364ae6adca190f088612c3eb4238c7b84f284544",
+         "time" : 1720084121,
+         "title" : "141500_online_procedure.csv",
+         "type" : "file",
+         "url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/c88dc84e-b330-4f50-84f9-be325c07a398/resource/a2cb692a-6cc9-4acc-984e-79ff386295bd/download/141500_online_procedure.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18820,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c03b2c49fe7a9aac6f1a70fbd7c5ff9631fe933a0f3d7235c95521c4c3e66eff",
+         "time" : 1720084121,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/activity/onlineprocedure"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2251,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "3bd473265080de617844f6e88a182c1a53471b44f5a1408e42a16de650f4a7f0",
+         "time" : 1710484566.35216,
+         "title" : "オンライン手続き受理数",
+         "type" : "meta",
+         "url" : "https://opendata.city.sagamihara.kanagawa.jp/api/action/package_show?id=onlineprocedure"
+      }
+   },
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "package",
+            "source_url" : "https://opendata.city.sagamihara.kanagawa.jp/api/action/package_show?id=onlineprocedure",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "相模原市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（http://creativecommons.org/licenses/by/4.0）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0（http://creativecommons.org/licenses/by/4.0）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "オンライン手続き受理数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/onlineprocedure"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/005/928/opendata_kiyaku_20180328.pdf",
+            "insecure" : 1,
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-opendata.city.sagamihara.kanagawa.jp",
+            "label" : "相模原市オープンデータ利用規約（最終更新日：平成30年3月28日）",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "http://www.city.sagamihara.kanagawa.jp/shisei/opendata/index.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 23823,
+   "mirrorzip" : {
+      "length" : 12797,
+      "set" : "nonfree",
+      "sha256" : "d150405a8694f052d7bd9470605f268d4d625bfb2a63d368f193431db42b90ba"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata.city.sagamihara.kanagawa.jp/api/action/package_show?id=onlineprocedure",
+      "desc" : "",
+      "org" : "DX推進課",
+      "page_url" : "https://opendata.city.sagamihara.kanagawa.jp/dataset/onlineprocedure",
+      "tags" : [
+         "DX推進課",
+         "オンライン手続き受理数"
+      ],
+      "time" : 1710484566.35216,
+      "title" : "オンライン手続き受理数"
+   }
+}
