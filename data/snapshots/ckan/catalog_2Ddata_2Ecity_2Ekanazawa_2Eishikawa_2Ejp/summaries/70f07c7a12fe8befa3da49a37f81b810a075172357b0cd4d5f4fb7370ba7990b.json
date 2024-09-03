@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:e4a5b69e-902b-4a47-8d4a-27af02f43b1f" : {
+         "desc" : "用途地域の変遷データは、都市計画の内容を証明するものではありません。  \u000D\u000A正確な情報は、金沢市都市計画課（電話:076-220-2351）までご確認ください。  \u000D\u000A  \u000D\u000A注記:  \u000D\u000A１．単位はhaです。  \u000D\u000A２．平成11年5月11日変更分から金沢市決定となったため、金沢市分のみの面積となります。  \u000D\u000A３．平成13年6月22日変更時から、地図情報システムを導入したため、面積の修正を行っています。  ",
+         "file_name" : "金沢市_用途地域の変遷.csv",
+         "length" : 7030,
+         "mime" : "text/csv",
+         "sha256" : "14f08d9dfaaf043e4c1cc5cdee4137d92a05c219efa9e251a352952078419399",
+         "time" : 1725342205,
+         "title" : "金沢市 用途地域の変遷.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/7bcbde74-c2e5-44e2-9bec-497ec9172b74/resource/e4a5b69e-902b-4a47-8d4a-27af02f43b1f/download/172014_youtohensen_202403.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12378,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0ebff03d141075d98a8615cf8bb7e2f79fbe9ac854a404eb0f22953d7234d001",
+         "time" : 1725342204,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/youtohensen"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4056,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a11915c5511a809324773505a23d5ee765115fdd04caae4886e6a514184115c9",
+         "time" : 1711341121.58291,
+         "title" : "金沢市 用途地域面積の変遷CSVデータ",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=youtohensen"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "都市計画課 (金沢市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金沢市 用途地域面積の変遷CSVデータ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/youtohensen"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=youtohensen",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 用途地域面積の変遷CSVデータ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/youtohensen"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi",
+                  "label" : "金沢市オープンデータ利用規約 (平成 29 年１月 30 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 用途地域面積の変遷CSVデータ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/youtohensen"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp",
+            "label" : "金沢市オープンデータポータル 利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 23464,
+   "mirrorzip" : {
+      "length" : 12830,
+      "set" : "free",
+      "sha256" : "9d6de928f6c83ec465639b2ee454d104d10232532c44dd014db79e5c60ef5296"
+   },
+   "package" : {
+      "author" : "都市計画課",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=youtohensen",
+      "desc" : "用途地域の変遷データは、都市計画の内容を証明するものではありません。  \u000D\u000A正確な情報は、金沢市都市計画課（電話:076-220-2351）までご確認ください。  \u000D\u000A  \u000D\u000A注記:  \u000D\u000A１．単位はhaです。  \u000D\u000A２．平成11年5月11日変更分から金沢市決定となったため、金沢市分のみの面積となります。  \u000D\u000A３．平成13年6月22日変更時から、地図情報システムを導入したため、面積の修正を行っています。  ",
+      "org" : "金沢市",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/youtohensen",
+      "tags" : [
+         "都市計画課",
+         "金沢市"
+      ],
+      "time" : 1711341121.58291,
+      "title" : "金沢市 用途地域面積の変遷CSVデータ"
+   }
+}
