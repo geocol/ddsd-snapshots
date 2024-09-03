@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:af9983f4-4b96-4391-9148-be90a95d6cdb" : {
+         "desc" : "金沢市内に敷設している、視覚障がい者が歩行のために利用する点字ブロックに、音声誘導などのコードを埋め込んだ「コード化点字ブロック」の位置情報。項目は以下の通り。\u000D\u000Acode: コード番号\u000D\u000Acategory: 敷設している場所（建物、道路など）\u000D\u000Alatitude: 緯度\u000D\u000Alongitude: 経度\u000D\u000Ainstall: 時計の短針の0時を北方向とした方角\u000D\u000Abuildingfloor: 建物の階数\u000D\u000Aname: 場所の名前\u000D\u000A\u000D\u000Aコード化点字ブロックの詳細及び認識アプリのダウンロード方法は、こちらのページをご確認ください。  \u000D\u000Ahttps://www2.kanazawa-it.ac.jp/matsuilb/research.html#Braille_blocks\u000D\u000A\u000D\u000Aデータについてのお問い合わせは、こちらのページをご確認ください。  \u000D\u000Ahttps://www2.kanazawa-it.ac.jp/matsuilb/contact.html",
+         "file_name" : "コード化点字ブロック金沢.csv",
+         "length" : 10812,
+         "mime" : "text/csv",
+         "sha256" : "de7173f2fe5d76466f9642f090eaeec7ec5a21bc707db8f260c3c7ead070c73f",
+         "time" : 1725327587,
+         "title" : "コード化点字ブロック金沢.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/c0bb0407-9a2a-4447-9296-19dc6fe51181/resource/af9983f4-4b96-4391-9148-be90a95d6cdb/download/.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11926,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c0addf22c66f29c8208dcd2d5ab3ef5f6d729bdf39d0a305d1a918c3fed57e06",
+         "time" : 1725327587,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/https-www2-kanazawa-it-ac-jp-matsuilb"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4972,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "eadffb31ebf898d6f611160220cdcb383aebbb67f428fdba043c3ccde0a866e8",
+         "time" : 1699521169.00513,
+         "title" : "コード化点字ブロック位置データ",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=https-www2-kanazawa-it-ac-jp-matsuilb"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "松井　くにお",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "コード化点字ブロック位置データ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/https-www2-kanazawa-it-ac-jp-matsuilb"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=https-www2-kanazawa-it-ac-jp-matsuilb",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "コード化点字ブロック位置データ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/https-www2-kanazawa-it-ac-jp-matsuilb"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi",
+                  "label" : "金沢市オープンデータ利用規約 (平成 29 年１月 30 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "コード化点字ブロック位置データ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/https-www2-kanazawa-it-ac-jp-matsuilb"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp",
+            "label" : "金沢市オープンデータポータル 利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 27710,
+   "mirrorzip" : {
+      "length" : 14290,
+      "set" : "free",
+      "sha256" : "03e9727162495650240ce155419574cf3960ace6a6782be051a58493cae639b9"
+   },
+   "package" : {
+      "author" : "松井　くにお",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=https-www2-kanazawa-it-ac-jp-matsuilb",
+      "desc" : "金沢市内に敷設している、視覚障がい者が歩行のために利用する点字ブロックに、音声誘導などのコードを埋め込んだ「コード化点字ブロック」の位置情報。項目は以下の通り。\u000D\u000Acode: コード番号\u000D\u000Acategory: 敷設している場所（建物、道路など）\u000D\u000Alatitude: 緯度\u000D\u000Alongitude: 経度\u000D\u000Ainstall: 時計の短針の0時を北方向とした方角\u000D\u000Abuildingfloor: 建物の階数\u000D\u000Aname: 場所の名前\u000D\u000A\u000D\u000Aコード化点字ブロックの詳細及び認識アプリのダウンロード方法は、こちらのページをご確認ください。  \u000D\u000Ahttps://www2.kanazawa-it.ac.jp/matsuilb/research.html#Braille_blocks\u000D\u000A\u000D\u000Aデータについてのお問い合わせは、こちらのページをご確認ください。  \u000D\u000Ahttps://www2.kanazawa-it.ac.jp/matsuilb/contact.html",
+      "org" : "",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/https-www2-kanazawa-it-ac-jp-matsuilb",
+      "tags" : [
+         "松井　くにお",
+         "交通"
+      ],
+      "time" : 1699521169.00513,
+      "title" : "コード化点字ブロック位置データ"
+   }
+}
