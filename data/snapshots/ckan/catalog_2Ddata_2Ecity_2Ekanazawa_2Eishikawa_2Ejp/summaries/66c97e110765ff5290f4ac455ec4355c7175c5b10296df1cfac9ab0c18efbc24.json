@@ -1,0 +1,211 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:2e6dd5a7-793b-420f-9a22-bdf5b25a97e3" : {
+         "desc" : "",
+         "mime" : "text/csv",
+         "time" : 1693450800,
+         "title" : "172014_public_facility.csv",
+         "type" : "file"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11847,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ef9f7412c1182ad81c04b96d1a43e649de10b60d45b0023424682ac5d7473986",
+         "time" : 1725347981,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-public-facility"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 1994,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1057beb0c76ec78a930deb5ac7577a9b09ddb7f96c053d9f7b8b951b7af94bee",
+         "time" : 1693468629.66354,
+         "title" : "金沢市 公共施設一覧",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-public-facility"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金沢市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金沢市 公共施設一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-public-facility"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-public-facility",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 公共施設一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-public-facility"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi",
+                  "label" : "金沢市オープンデータ利用規約 (平成 29 年１月 30 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 公共施設一覧",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-public-facility"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp",
+            "label" : "金沢市オープンデータポータル 利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 13841,
+   "mirrorzip" : {
+      "length" : 9298,
+      "set" : "free",
+      "sha256" : "0ab3a20d949265c736766763aee777d7c88a0e49242e6eeaa69380375666b85c"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-public-facility",
+      "desc" : "",
+      "org" : "金沢市",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-public-facility",
+      "tags" : [
+         "金沢市",
+         "公共施設"
+      ],
+      "time" : 1693468629.66354,
+      "title" : "金沢市 公共施設一覧"
+   }
+}
