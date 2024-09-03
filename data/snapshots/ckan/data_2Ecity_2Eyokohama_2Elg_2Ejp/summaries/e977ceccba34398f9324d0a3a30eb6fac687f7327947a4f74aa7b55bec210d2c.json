@@ -1,0 +1,180 @@
+{
+   "files" : {
+      "file:id:0f86fc0d-3802-4e68-a7b5-f6e397443403" : {
+         "desc" : "",
+         "file_name" : "shika-20240801.csv",
+         "length" : 244287,
+         "mime" : "text/csv",
+         "sha256" : "2aab0cfbcd3703c0c10886637396092897c91a9b01e4202f66507a3839ed6bf7",
+         "time" : 1725339245,
+         "title" : "横浜市内の医療施設名簿（歯科診療所・令和６年８月１日）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/iryo/anzenshien/iryomeibo/iryoumeibo.files/shika-20240801.csv"
+      },
+      "file:id:2fd2bf7a-47ca-410c-86e2-779096fffe86" : {
+         "desc" : "",
+         "file_name" : "byouin-20240801.csv",
+         "length" : 35233,
+         "mime" : "text/csv",
+         "sha256" : "7ef480acffd8eeb82db4d526a5c73f4f435921a00432def6fa3832a9fd03880b",
+         "time" : 1725339243,
+         "title" : "横浜市内の医療施設名簿（病院・令和６年８月１日）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/iryo/anzenshien/iryomeibo/iryoumeibo.files/byouin-20240801.csv"
+      },
+      "file:id:8a5f480c-be08-4b1e-9d31-085a1912d7cf" : {
+         "desc" : "",
+         "file_name" : "shinryojo-20240801.csv",
+         "length" : 414438,
+         "mime" : "text/csv",
+         "sha256" : "eefd1988bea3953c405cf65f2c86eef8a604ac08bd5b5254a40eda5f76152622",
+         "time" : 1725339244,
+         "title" : "横浜市内の医療施設名簿（一般診療所・令和６年８月１日）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/iryo/anzenshien/iryomeibo/iryoumeibo.files/shinryojo-20240801.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 16972,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3c733e80ae43ba5ba55007f58fe62779d695057b428c9a1976f0fcd8ef12408d",
+         "time" : 1725339241,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/iryo_iryoumeibo"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4820,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c408294284cd5e9acd697c7a3f29074d60daaaead56e04f2b6cb007a058aa331",
+         "time" : 1724807073.96895,
+         "title" : "横浜市内の病院・一般診療所・歯科診療所名簿",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=iryo_iryoumeibo"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "医療安全課 (医療局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "横浜市内の病院・一般診療所・歯科診療所名簿",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/iryo_iryoumeibo"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=iryo_iryoumeibo",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "横浜市内の病院・一般診療所・歯科診療所名簿",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/iryo_iryoumeibo"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 715750,
+   "mirrorzip" : {
+      "length" : 248778,
+      "set" : "free",
+      "sha256" : "100b40c8c6775579bc2ed3f27b519d531e376e94a568f8e1337ce908fef464b0"
+   },
+   "package" : {
+      "author" : "医療安全課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=iryo_iryoumeibo",
+      "desc" : "横浜市内の医療施設名簿（病院・一般診療所・歯科診療所）",
+      "org" : "医療局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/iryo_iryoumeibo",
+      "tags" : [
+         "医療安全課",
+         "医療局",
+         "健康・医療",
+         "医療"
+      ],
+      "time" : 1724807073.96895,
+      "title" : "横浜市内の病院・一般診療所・歯科診療所名簿"
+   }
+}
