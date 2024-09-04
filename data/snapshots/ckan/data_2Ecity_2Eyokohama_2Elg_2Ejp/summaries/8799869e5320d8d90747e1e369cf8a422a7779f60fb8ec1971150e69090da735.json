@@ -1,0 +1,157 @@
+{
+   "files" : {
+      "file:id:7e4d9f87-8f8e-4118-a0a6-9e66c4cee5f9" : {
+         "desc" : "テキスト版",
+         "file_name" : "0522_20220525.txt",
+         "length" : 26434,
+         "mime" : "text/plain",
+         "sha256" : "b9a4ab187fca2352ded5815c5497cd4caef15ce2780a6ff148ee1b08bf687c88",
+         "time" : 1725444969,
+         "title" : "2022年6月号テキストデータ",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/izumi/kusei/koho/koho_izumi/2022/202206.files/0522_20220525.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14761,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5a542a908c11dfcf7bfb5d6323e0225cbf1df4c73ba26fb7244e5a7b6826e178",
+         "time" : 1725444967,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/izumi_202206"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2491,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e5fd72ed514bd6bcb6b3857a60de51bfdd29cfe497295284c7b971cc116aa02b",
+         "time" : 1711338061.66049,
+         "title" : "2022（令和４）年6月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_202206"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (泉区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2022（令和４）年6月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_202206"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_202206",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2022（令和４）年6月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_202206"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 43686,
+   "mirrorzip" : {
+      "length" : 23065,
+      "set" : "free",
+      "sha256" : "7128bfff10b3157a2253d1455122c4084ea4a91f4e63fac86af7ee29b33eba51"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_202206",
+      "desc" : "",
+      "org" : "泉区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/izumi_202206",
+      "tags" : [
+         "区政推進課",
+         "泉区",
+         "区政情報"
+      ],
+      "time" : 1711338061.66049,
+      "title" : "2022（令和４）年6月号"
+   }
+}
