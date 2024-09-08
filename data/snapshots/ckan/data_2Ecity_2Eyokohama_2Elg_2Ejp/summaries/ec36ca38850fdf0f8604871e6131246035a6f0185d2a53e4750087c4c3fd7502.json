@@ -1,0 +1,157 @@
+{
+   "files" : {
+      "file:id:6fb7044e-e1a4-4186-9a3f-df9c00060329" : {
+         "desc" : "",
+         "file_name" : "0007_20230925.txt",
+         "length" : 36004,
+         "mime" : "text/plain",
+         "sha256" : "0b723412da5f7907075ed10c02f871cee60615933132384cadf7556cc7a920db",
+         "time" : 1725786135,
+         "title" : "広報よこはまほどがや区版10月号",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/hodogaya/kusei/koho/koho_hodogaya/r5/2310.files/0007_20230925.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14702,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7472a052910d1056acaf3d83152cf7f4f09838aa00881e21088273de66c67388",
+         "time" : 1725786133,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/hodogaya_2310"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2472,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "100f5a0a6f7c705f2e61e39ec8024fdda468f7f92186c72fa0bc3f1d4f2bb880",
+         "time" : 1723618094.62669,
+         "title" : "2023年10月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2310"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (保土ケ谷区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2023年10月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2310"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2310",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2023年10月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2310"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 53178,
+   "mirrorzip" : {
+      "length" : 27635,
+      "set" : "free",
+      "sha256" : "b793165608cf7eb1c2d4ae1fcfdad6065a866f9b7349aa60697a6b66470cca09"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2310",
+      "desc" : "",
+      "org" : "保土ケ谷区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2310",
+      "tags" : [
+         "区政推進課",
+         "保土ケ谷区",
+         "区政情報"
+      ],
+      "time" : 1723618094.62669,
+      "title" : "2023年10月号"
+   }
+}
