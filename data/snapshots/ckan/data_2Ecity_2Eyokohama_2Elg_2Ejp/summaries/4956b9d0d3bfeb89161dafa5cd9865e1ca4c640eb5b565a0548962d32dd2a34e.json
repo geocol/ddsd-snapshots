@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:c1e107ad-b24b-4366-93bb-3c6e746f6a26" : {
+         "desc" : "",
+         "file_name" : "keizai-keisan.csv",
+         "length" : 1247,
+         "mime" : "text/csv",
+         "sha256" : "a45cee731b5519766b7c3ad741ae2ede5e6ee15a8689b18e7426222b50752c9c",
+         "time" : 1725768346,
+         "title" : "市民経済計算（市内総生産等）（平成23年度から令和3年度）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/keizai-keisan.files/keizai-keisan.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15848,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a4392bd7324634d0fe5ae1bc60dafed897cc389aeecb19588ad49dba9439fc39",
+         "time" : 1725768344,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_keizai-keisan"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2920,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "203bd6cc8c1ff070ac6ce39a6ed6dbba1326af8543e9f7e3e94caee27234e8f4",
+         "time" : 1712279057.41094,
+         "title" : "市民経済計算（市内総生産等）",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_keizai-keisan"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "市民経済計算（市内総生産等）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_keizai-keisan"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_keizai-keisan",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "市民経済計算（市内総生産等）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_keizai-keisan"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 20015,
+   "mirrorzip" : {
+      "length" : 11971,
+      "set" : "free",
+      "sha256" : "df4906c48c8a7d4ce3a44c2da9d70cdd92a3ecf2b1addc6b89b2f9295b2799be"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_keizai-keisan",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_keizai-keisan",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政",
+         "経済",
+         "統計"
+      ],
+      "time" : 1712279057.41094,
+      "title" : "市民経済計算（市内総生産等）"
+   }
+}
