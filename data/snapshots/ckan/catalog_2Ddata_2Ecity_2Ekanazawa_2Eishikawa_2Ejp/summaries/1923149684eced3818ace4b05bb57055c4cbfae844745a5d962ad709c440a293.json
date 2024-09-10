@@ -1,32 +1,32 @@
 {
    "broken" : 1,
    "files" : {
-      "file:id:1afd4c6f-65a1-4da8-b981-539211eb647a" : {
+      "file:id:15870c1b-01d4-4aea-9edc-074d3422a09a" : {
          "desc" : "",
          "mime" : "text/csv",
-         "time" : 1640591849.52996,
-         "title" : "172014-children-other.csv",
+         "time" : 1640591598.84961,
+         "title" : "172014_fire_hydrant_misokura.csv",
          "type" : "file"
       },
       "meta:activity.html" : {
          "desc" : "",
-         "length" : 11294,
+         "length" : 11740,
          "mime" : "text/html; charset=utf-8",
-         "sha256" : "c4eaf410c0d3a1e24c7068c1eabdcc7765777c6e48c6816d1658813ee2b14ddd",
-         "time" : 1725936372,
+         "sha256" : "aa1351fd1b57d34c4412d9d4a4e87631c3f5e70ca259eaafdfc061c59dc80fa2",
+         "time" : 1725936393,
          "title" : "",
          "type" : "meta",
-         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-children-other"
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-fire_hydrant_misokura"
       },
       "meta:ckan.json" : {
          "desc" : "",
-         "length" : 2331,
+         "length" : 3027,
          "mime" : "application/json;charset=utf-8",
-         "sha256" : "c5a5a699d26054ceba03c7be847ea892fcea629c5be1f01404caeb4d45a10b24",
-         "time" : 1714532400,
-         "title" : "金沢市 子育て施設_その他一覧",
+         "sha256" : "82be2ecb81c8ebfd364ce147d242e2576bbb517a24db12757de0b49a4ceb98bb",
+         "time" : 1640618875.13873,
+         "title" : "金沢市 消防水利施設一覧（味噌蔵地区）",
          "type" : "meta",
-         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-children-other"
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-fire_hydrant_misokura"
       }
    },
    "legal" : {
@@ -43,20 +43,20 @@
                "holder" : {
                   "dir" : "auto",
                   "lang" : "ja",
-                  "value" : "金沢市",
+                  "value" : "警防課 (金沢市)",
                   "writing_mode" : "horizontal-tb"
                },
                "need_modified_flag" : 1,
                "title" : {
                   "dir" : "auto",
                   "lang" : "ja",
-                  "value" : "金沢市 子育て施設_その他一覧",
+                  "value" : "金沢市 消防水利施設一覧（味噌蔵地区）",
                   "writing_mode" : "horizontal-tb"
                },
-               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other"
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-fire_hydrant_misokura"
             },
             "source_type" : "package",
-            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-children-other",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-fire_hydrant_misokura",
             "type" : "license",
             "writing_mode" : "horizontal-tb"
          },
@@ -92,10 +92,10 @@
                            "title" : {
                               "dir" : "auto",
                               "lang" : "ja",
-                              "value" : "金沢市 子育て施設_その他一覧",
+                              "value" : "金沢市 消防水利施設一覧（味噌蔵地区）",
                               "writing_mode" : "horizontal-tb"
                            },
-                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other"
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-fire_hydrant_misokura"
                         },
                         "type" : "fallback_license",
                         "writing_mode" : "horizontal-tb"
@@ -140,10 +140,10 @@
                            "title" : {
                               "dir" : "auto",
                               "lang" : "ja",
-                              "value" : "金沢市 子育て施設_その他一覧",
+                              "value" : "金沢市 消防水利施設一覧（味噌蔵地区）",
                               "writing_mode" : "horizontal-tb"
                            },
-                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other"
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-fire_hydrant_misokura"
                         },
                         "type" : "fallback_license",
                         "writing_mode" : "horizontal-tb"
@@ -189,24 +189,25 @@
          }
       ]
    },
-   "length" : 13625,
+   "length" : 14767,
    "mirrorzip" : {
-      "length" : 9217,
+      "length" : 9817,
       "set" : "free",
-      "sha256" : "9075afb96f0bf2e14f7974d9689837d403c1f0fab6de598b189ef9ddb7d7cd5c"
+      "sha256" : "69a0c92689f3f67457c13b4e66b41702753fc35ffb284016b38e7fd593369eba"
    },
    "package" : {
-      "author" : "金沢市",
-      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-children-other",
-      "desc" : "",
+      "author" : "警防課",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-fire_hydrant_misokura",
+      "desc" : "公設消火栓の位置を表示しています。  \u000D\u000A※本データセットは平成30年時点の校下情報をもとに一覧化しています。  \u000D\u000A※明記してある住所は、おおよその目安として付近の住所に準拠しています。  \u000D\u000A※実際の位置と若干異なる場合があります。あらかじめご了承願います。  ",
       "org" : "金沢市",
-      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-fire_hydrant_misokura",
       "tags" : [
+         "警防課",
          "金沢市",
-         "子育て施設",
-         "子育て施設_その他"
+         "消火栓_味噌蔵地区",
+         "消防"
       ],
-      "time" : 1714532400,
-      "title" : "金沢市 子育て施設_その他一覧"
+      "time" : 1640618875.13873,
+      "title" : "金沢市 消防水利施設一覧（味噌蔵地区）"
    }
 }

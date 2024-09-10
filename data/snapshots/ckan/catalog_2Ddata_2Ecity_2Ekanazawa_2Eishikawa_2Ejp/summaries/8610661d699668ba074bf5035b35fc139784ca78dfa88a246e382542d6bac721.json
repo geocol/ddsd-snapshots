@@ -1,32 +1,32 @@
 {
    "broken" : 1,
    "files" : {
-      "file:id:1afd4c6f-65a1-4da8-b981-539211eb647a" : {
+      "file:id:2013ea0b-f71e-4fd3-87de-d1b623445e2e" : {
          "desc" : "",
          "mime" : "text/csv",
-         "time" : 1640591849.52996,
-         "title" : "172014-children-other.csv",
+         "time" : 1640591486.56764,
+         "title" : "ishikawa-central-children.csv",
          "type" : "file"
       },
       "meta:activity.html" : {
          "desc" : "",
-         "length" : 11294,
+         "length" : 11363,
          "mime" : "text/html; charset=utf-8",
-         "sha256" : "c4eaf410c0d3a1e24c7068c1eabdcc7765777c6e48c6816d1658813ee2b14ddd",
-         "time" : 1725936372,
+         "sha256" : "27d432d7ae733addb603e054f686e189377200aaf2d5baa0787a4bcbe0fcf7ee",
+         "time" : 1725936388,
          "title" : "",
          "type" : "meta",
-         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-children-other"
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/ishikawa-central-children"
       },
       "meta:ckan.json" : {
          "desc" : "",
-         "length" : 2331,
+         "length" : 2039,
          "mime" : "application/json;charset=utf-8",
-         "sha256" : "c5a5a699d26054ceba03c7be847ea892fcea629c5be1f01404caeb4d45a10b24",
-         "time" : 1714532400,
-         "title" : "金沢市 子育て施設_その他一覧",
+         "sha256" : "3ad49c81715e2617aefcf1c15af0f861c1a85d12f9e4400a712e5f99acf52a02",
+         "time" : 1640591486.55709,
+         "title" : "石川中央都市圏 子育て施設一覧",
          "type" : "meta",
-         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-children-other"
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=ishikawa-central-children"
       }
    },
    "legal" : {
@@ -43,20 +43,20 @@
                "holder" : {
                   "dir" : "auto",
                   "lang" : "ja",
-                  "value" : "金沢市",
+                  "value" : "石川中央都市圏",
                   "writing_mode" : "horizontal-tb"
                },
                "need_modified_flag" : 1,
                "title" : {
                   "dir" : "auto",
                   "lang" : "ja",
-                  "value" : "金沢市 子育て施設_その他一覧",
+                  "value" : "石川中央都市圏 子育て施設一覧",
                   "writing_mode" : "horizontal-tb"
                },
-               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other"
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-children"
             },
             "source_type" : "package",
-            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-children-other",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=ishikawa-central-children",
             "type" : "license",
             "writing_mode" : "horizontal-tb"
          },
@@ -92,10 +92,10 @@
                            "title" : {
                               "dir" : "auto",
                               "lang" : "ja",
-                              "value" : "金沢市 子育て施設_その他一覧",
+                              "value" : "石川中央都市圏 子育て施設一覧",
                               "writing_mode" : "horizontal-tb"
                            },
-                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other"
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-children"
                         },
                         "type" : "fallback_license",
                         "writing_mode" : "horizontal-tb"
@@ -140,10 +140,10 @@
                            "title" : {
                               "dir" : "auto",
                               "lang" : "ja",
-                              "value" : "金沢市 子育て施設_その他一覧",
+                              "value" : "石川中央都市圏 子育て施設一覧",
                               "writing_mode" : "horizontal-tb"
                            },
-                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other"
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-children"
                         },
                         "type" : "fallback_license",
                         "writing_mode" : "horizontal-tb"
@@ -189,24 +189,23 @@
          }
       ]
    },
-   "length" : 13625,
+   "length" : 13402,
    "mirrorzip" : {
-      "length" : 9217,
+      "length" : 9077,
       "set" : "free",
-      "sha256" : "9075afb96f0bf2e14f7974d9689837d403c1f0fab6de598b189ef9ddb7d7cd5c"
+      "sha256" : "9340656eb85b88c70f4279b6deb5d1420cf9eb99dfc61f7d946841aa6da71e24"
    },
    "package" : {
-      "author" : "金沢市",
-      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-children-other",
+      "author" : "",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=ishikawa-central-children",
       "desc" : "",
-      "org" : "金沢市",
-      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-children-other",
+      "org" : "石川中央都市圏",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-children",
       "tags" : [
-         "金沢市",
-         "子育て施設",
-         "子育て施設_その他"
+         "石川中央都市圏",
+         "子育て施設"
       ],
-      "time" : 1714532400,
-      "title" : "金沢市 子育て施設_その他一覧"
+      "time" : 1640591486.55709,
+      "title" : "石川中央都市圏 子育て施設一覧"
    }
 }
