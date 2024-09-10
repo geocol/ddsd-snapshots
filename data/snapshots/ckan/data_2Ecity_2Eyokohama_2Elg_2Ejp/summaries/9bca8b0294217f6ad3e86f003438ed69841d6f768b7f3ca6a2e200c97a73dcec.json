@@ -1,0 +1,157 @@
+{
+   "files" : {
+      "file:id:e231e20e-be55-4745-8507-1b3af9b29e59" : {
+         "desc" : "",
+         "file_name" : "0062_20220725.txt",
+         "length" : 33878,
+         "mime" : "text/plain",
+         "sha256" : "50ed088ae2928a687440d8ecb82b24634e252d5301c3e80506494eec603eccd7",
+         "time" : 1725959978,
+         "title" : "広報よこはまほどがや区版2022年8月号",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/hodogaya/kusei/koho/koho_hodogaya/r4/2208.files/0062_20220725.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14696,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "822b8ab9628f486d7cb0f4b1cd26bcb663b3f881a75027e386357659afd8231d",
+         "time" : 1725959977,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/hodogaya_2208"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2484,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "76812fb75f152108184828c5cadfd290cb6a47605a4eac448e7f32ce145c3e28",
+         "time" : 1711338043.1637,
+         "title" : "2022年8月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2208"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (保土ケ谷区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2022年8月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2208"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2208",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2022年8月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2208"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 51058,
+   "mirrorzip" : {
+      "length" : 27158,
+      "set" : "free",
+      "sha256" : "4df923d689950d8fcb018326e02ae88e7cb6a10e88b2e687badd526d2cf98791"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2208",
+      "desc" : "",
+      "org" : "保土ケ谷区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2208",
+      "tags" : [
+         "区政推進課",
+         "保土ケ谷区",
+         "区政情報"
+      ],
+      "time" : 1711338043.1637,
+      "title" : "2022年8月号"
+   }
+}
