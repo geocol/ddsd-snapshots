@@ -1,46 +1,35 @@
 {
    "files" : {
-      "file:id:ed4bc63e-d123-45f6-a8c3-8f944000691f" : {
-         "desc" : "",
-         "file_name" : "saiyo-ninkituki.csv",
-         "length" : 1551,
+      "file:id:f7ff2de3-7296-4ba1-b205-588836cd2537" : {
+         "desc" : "「○」で入力されている箇所は教室で実施した内容を表しています。",
+         "file_name" : "r3sumahokyositsu.csv",
+         "length" : 2953,
          "mime" : "text/csv",
-         "sha256" : "a005ec6a666bf018ed0ccea6ca5680a02bda3353db944f51a73e7302af820b84",
-         "time" : 1725981240,
-         "title" : "採用試験受験者数状況(任期付のみ)",
+         "sha256" : "a884faa13097c69b2db469a82697dc1c9d31c11165e004bf5c411d02bb7cfa9d",
+         "time" : 1725981394,
+         "title" : "令和3年度スマホ教室実施状況",
          "type" : "file",
-         "url" : "https://data.city.ikoma.lg.jp/data/dataset/7193f696-bae0-465b-8555-52385420d34c/resource/ed4bc63e-d123-45f6-a8c3-8f944000691f/download/saiyo-ninkituki.csv"
-      },
-      "file:id:edb1744d-48d7-4430-b19d-26d3f1d75e5f" : {
-         "desc" : "",
-         "file_name" : "saiyou.csv",
-         "length" : 6793,
-         "mime" : "text/csv",
-         "sha256" : "98593ffc968f8504c51913d3a3fd375ecbc893dc1f9034f6ad60635b26fae7dc",
-         "time" : 1725981238,
-         "title" : "採用試験受験者数状況",
-         "type" : "file",
-         "url" : "https://data.city.ikoma.lg.jp/data/dataset/7193f696-bae0-465b-8555-52385420d34c/resource/edb1744d-48d7-4430-b19d-26d3f1d75e5f/download/saiyou.csv"
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/6d007642-2f56-4841-bfa8-eff62f5fd451/resource/f7ff2de3-7296-4ba1-b205-588836cd2537/download/r3sumahokyositsu.csv"
       },
       "meta:activity.html" : {
          "desc" : "",
-         "length" : 14965,
+         "length" : 15097,
          "mime" : "text/html; charset=utf-8",
-         "sha256" : "cf42a966262ab7a08e5b83e06a6d37259a5be5f8762ff425db6f8f90b0fc7033",
-         "time" : 1725981237,
+         "sha256" : "c3fe5c96314e5fd13142a21e5411d52a10d1f4640c8366cc88d5634d23155f39",
+         "time" : 1725981393,
          "title" : "",
          "type" : "meta",
-         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1556241760"
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1646700961"
       },
       "meta:ckan.json" : {
          "desc" : "",
-         "length" : 3431,
+         "length" : 3453,
          "mime" : "application/json;charset=utf-8",
-         "sha256" : "9ff9926baf336b0dc1949628cb61bdbbc6ab1a62e2912dcf7656a0ee725829af",
-         "time" : 1667373604.08434,
-         "title" : "採用試験受験者数状況",
+         "sha256" : "39967fc8b9ce168c4b548e3897921ea2f1614487c530a86fcd7b437228fd829d",
+         "time" : 1678423529.01982,
+         "title" : "スマホ教室実施状況",
          "type" : "meta",
-         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1556241760"
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1646700961"
       }
    },
    "legal" : {
@@ -57,20 +46,20 @@
                "holder" : {
                   "dir" : "auto",
                   "lang" : "ja",
-                  "value" : "人事課 (経営企画部)",
+                  "value" : "システム管理者 (地域活力創生部)",
                   "writing_mode" : "horizontal-tb"
                },
                "need_modified_flag" : 1,
                "title" : {
                   "dir" : "auto",
                   "lang" : "ja",
-                  "value" : "採用試験受験者数状況",
+                  "value" : "スマホ教室実施状況",
                   "writing_mode" : "horizontal-tb"
                },
-               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1556241760"
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1646700961"
             },
             "source_type" : "package",
-            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1556241760",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1646700961",
             "type" : "license",
             "writing_mode" : "horizontal-tb"
          },
@@ -106,10 +95,10 @@
                      "title" : {
                         "dir" : "auto",
                         "lang" : "ja",
-                        "value" : "採用試験受験者数状況",
+                        "value" : "スマホ教室実施状況",
                         "writing_mode" : "horizontal-tb"
                      },
-                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1556241760"
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1646700961"
                   },
                   "type" : "fallback_license",
                   "writing_mode" : "horizontal-tb"
@@ -145,25 +134,27 @@
          }
       ]
    },
-   "length" : 26740,
+   "length" : 21503,
    "mirrorzip" : {
-      "length" : 15731,
+      "length" : 12673,
       "set" : "free",
-      "sha256" : "53494585b0b246e1a1b11d08c4ff1ce565590b0088058c3a0ca1b4694285b0fb"
+      "sha256" : "b9c52cfa0b94ab466df6812a309f63dd36ba7851fb662ebc7ab0fedb866be760"
    },
    "package" : {
-      "author" : "人事課",
-      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1556241760",
-      "desc" : "",
-      "org" : "経営企画部",
-      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1556241760",
+      "author" : "システム管理者",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1646700961",
+      "desc" : "本スマホ教室は、総務省「デジタル活用支援推進事業」を活用し、実施されたものです。",
+      "org" : "地域活力創生部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1646700961",
       "tags" : [
-         "人事課",
-         "経営企画部",
-         "市政情報",
-         "統計"
+         "システム管理者",
+         "地域活力創生部",
+         "その他",
+         "まちづくり・環境",
+         "くらし",
+         "イベント"
       ],
-      "time" : 1667373604.08434,
-      "title" : "採用試験受験者数状況"
+      "time" : 1678423529.01982,
+      "title" : "スマホ教室実施状況"
    }
 }
