@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:c8937b3c-6e4d-46c1-a356-7f22e0c90796" : {
+         "desc" : "",
+         "file_name" : "0769_20240726.txt",
+         "length" : 30448,
+         "mime" : "text/plain",
+         "sha256" : "0e60000eb79beb3577be2054d25e52be9b46268992b38739673a528b01597cb6",
+         "time" : 1733465287,
+         "title" : "テキストデータ",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/izumi/kusei/koho/koho_izumi/2024/koyoko202408.files/0769_20240726.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15718,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "82799efc083dcbb69ed12e1c9d465ad99a888e107a92b41a840da0a5cb09488b",
+         "time" : 1733465285,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/izumi_koyoko202408"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2641,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "abe69bd0f33b24f80124c1bc26b6bcc609d802ce15986484040ec2ff0e9dc952",
+         "time" : 1727771220.77662,
+         "title" : "2024（令和6）年８月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202408"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (泉区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2024（令和6）年８月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202408"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202408",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2024（令和6）年８月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202408"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 48807,
+   "mirrorzip" : {
+      "length" : 26096,
+      "set" : "free-1",
+      "sha256" : "9ebc2a5d07168023de5dcae7ddc685176a46c29d60cd0fccc39e971143a9f4e4"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202408",
+      "desc" : "",
+      "org" : "泉区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202408",
+      "tags" : [
+         "区政推進課",
+         "泉区",
+         "区政情報",
+         "刊行物_広報"
+      ],
+      "time" : 1727771220.77662,
+      "title" : "2024（令和6）年８月号"
+   }
+}
