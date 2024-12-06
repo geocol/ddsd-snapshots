@@ -1,0 +1,252 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:65d044d7-1dbd-42d3-a176-5b4e77a626c6" : {
+         "desc" : "",
+         "mime" : "text/csv",
+         "time" : 1692237816.16558,
+         "title" : "行政町別面積（令和５年１月１日現在）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0eb735c4-7a63-4d65-8c91-02cba3b043b3/resource/65d044d7-1dbd-42d3-a176-5b4e77a626c6/download/282014mensekir50101.csv"
+      },
+      "file:id:b9515b81-e7d7-4d19-b80c-9afff29da504" : {
+         "desc" : "",
+         "file_name" : "282014tyomenseki20210930.csv",
+         "length" : 32358,
+         "mime" : "text/csv",
+         "sha256" : "3a1845dc11f86d4f98017ff8b4eac175a270c1f103371784df62a8b648d0e0c5",
+         "time" : 1733480883,
+         "title" : "行政町別面積（令和３年１月１日現在）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0eb735c4-7a63-4d65-8c91-02cba3b043b3/resource/b9515b81-e7d7-4d19-b80c-9afff29da504/download/282014tyomenseki20210930.csv"
+      },
+      "file:id:c0cfe149-f60a-4c89-9fb4-b25d8465cba1" : {
+         "desc" : "",
+         "file_name" : "282014mensekir40101.csv",
+         "length" : 32395,
+         "mime" : "text/csv",
+         "sha256" : "060e3079a451cbd6e955932c70aaa316577065d640817ca15ffdb6c84b7dd0e5",
+         "time" : 1733480883,
+         "title" : "行政町別面積（令和４年１月１日現在）",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/0eb735c4-7a63-4d65-8c91-02cba3b043b3/resource/c0cfe149-f60a-4c89-9fb4-b25d8465cba1/download/282014mensekir40101.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 24144,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "60a1ed34f7ebf5f36ebbb5dc70b7965778c2a79c46f91c6e808c22c918bfcc85",
+         "time" : 1733480882,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/tyomenseki"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4778,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "da426acad1173016a9020228b48a20a63fc16a9f537f9c1a57c73db5cc453cc6",
+         "time" : 1692237816.17528,
+         "title" : "行政町別面積",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=tyomenseki"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル情報室統計解析室 (姫路市デジタル戦略本部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "行政町別面積",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/tyomenseki"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=tyomenseki",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "姫路市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "行政町別面積",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/tyomenseki"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=1",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-himeji",
+                  "label" : "姫路市オープンデータ利⽤規約 (令和４年１２月２０日から施行)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "姫路市",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                        "is_free" : "free",
+                        "key" : "CC-BY-4.0",
+                        "label" : "Creative Commons Attribution 4.0 International",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "高砂市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "need_modified_flag" : 1,
+                           "title" : {
+                              "dir" : "ltr",
+                              "lang" : "ja",
+                              "value" : "行政町別面積",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://city.himeji.gkan.jp/gkan/dataset/tyomenseki"
+                        },
+                        "type" : "license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf#page=3",
+                  "is_free" : "free",
+                  "key" : "-ddsd-terms-city.himeji.gkan.jp-takasago",
+                  "label" : "高砂市オープンデータ利用規約 (令和４年１２月２７日)",
+                  "lang" : "ja",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "高砂市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : " 「{title}」（高砂市）（{url}）を加工して作成",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "出典: 「{title}」（高砂市）（{url}）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "行政町別面積",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://city.himeji.gkan.jp/gkan/dataset/tyomenseki"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-city.himeji.gkan.jp",
+            "label" : "オープンデータ利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_230401.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 93675,
+   "mirrorzip" : {
+      "length" : 27640,
+      "set" : "free-1",
+      "sha256" : "3a7dcb74a46c8f5f8c191da6237e6b32133186a33372cf27e7aa7c371a05e4d2"
+   },
+   "package" : {
+      "author" : "デジタル情報室統計解析室",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=tyomenseki",
+      "desc" : "各年１月１日現在の公簿上の面積に基づき算出しており、河川などを含んでいないため、合計は市域面積とは一致しません。",
+      "org" : "姫路市デジタル戦略本部",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/tyomenseki",
+      "tags" : [
+         "デジタル情報室統計解析室",
+         "姫路市デジタル戦略本部",
+         "姫路市",
+         "統計"
+      ],
+      "time" : 1692237816.17528,
+      "title" : "行政町別面積"
+   }
+}
