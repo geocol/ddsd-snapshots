@@ -1,0 +1,201 @@
+{
+   "files" : {
+      "file:id:636fb60a-86a8-4059-bb28-8974b00aac58" : {
+         "desc" : "法令種別/厚生のリソースです。",
+         "file_name" : "30_xml.zip",
+         "length" : 12513266,
+         "mime" : "application/octet-stream",
+         "sha256" : "0aa1d104bed259e8498d2f42ff5a676da0e31112a8b77e13117511b1918f7dc6",
+         "time" : 1733556248,
+         "title" : "法令種別/厚生",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/bulkdownload?file_section=2&category_cd=30&only_xml_flag=true"
+      },
+      "file:id:de0a56c9-1bce-4ae7-945d-6c63a3a5bf9a" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "eg000031.xml",
+         "length" : 3234,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3798933e04c64845d61f3359289a776d9e744d8fd32aa04a8d6a5ddfb56cd980",
+         "time" : 1733556261,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000031.xml"
+      },
+      "file:id:ef2f3e6d-3fbb-4eac-a311-9900613b2d48" : {
+         "desc" : "XMLスキーマ情報等のリソース定義です。（e-Gov法令検索サイトが開きます）",
+         "file_name" : "1",
+         "length" : 800,
+         "mime" : "text/html",
+         "sha256" : "0b192cea4894bccd686b6ddca91e37f1100dbd7e3a3e390461e4d8c05a2aa541",
+         "time" : 1733556252,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://laws.e-gov.go.jp/help/"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28291,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1d9dfe452a0c6389bc81903d74d4762412fd8b678273c07ec451e2b454d0c9b8",
+         "time" : 1733556246,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/eg000031"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5513,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6627690b2ba02e77cb56f0a301e591f4722540a6757425b8af9c00c2a0d4e586",
+         "time" : 1733529813.62905,
+         "title" : "法令種別/厚生",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000031"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法令種別/厚生",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000031"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000031",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "法令種別/厚生",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000031"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "法令種別/厚生",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000031"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 12551104,
+   "mirrorzip" : {
+      "length" : 12308942,
+      "set" : "free-l2",
+      "sha256" : "64a554fe8161d9c60915fef128e9e412bfc5b5256f80c06ef4e34cdd8d6451cc"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=eg000031",
+      "desc" : "e-Gov法令検索サイトで公開されている法令種別/厚生データセットです。",
+      "org" : "デジタル庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/eg000031",
+      "tags" : [
+         "デジタル庁",
+         "法律・制度",
+         "勅令",
+         "府省令",
+         "憲法",
+         "政令",
+         "法令",
+         "法律",
+         "規則"
+      ],
+      "time" : 1733529813.62905,
+      "title" : "法令種別/厚生"
+   }
+}
