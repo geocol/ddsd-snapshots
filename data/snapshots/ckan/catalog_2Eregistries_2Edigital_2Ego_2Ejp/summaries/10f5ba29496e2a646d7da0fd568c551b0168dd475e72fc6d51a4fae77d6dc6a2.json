@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:842c7330-b1fa-44e2-b8d4-4790732a8403" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 46393,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "04eaa48795c92a024dd9de62c9599d5f7215ebbf3bc99cb88dc06dff450191ca",
+         "time" : 1734010523,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:ba80a3c6-f3c6-4fc4-9b6e-af473b1c1b7f" : {
+         "desc" : "アドレス（住所・所在地）ベース・レジストリの地番マスターデータセットです。地番マスターは「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+         "file_name" : "mt_parcel_city263435.csv.zip",
+         "length" : 130094,
+         "mime" : "application/zip",
+         "sha256" : "4b90173b20b70967027824e3a72fa0f5168abb03ac1f990e4eaa790dc9ba1bde",
+         "time" : 1734011086,
+         "title" : "京都府 綴喜郡井手町 地番マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_parcel_city263435.csv.zip"
+      },
+      "file:id:f9293f0c-ecab-4954-b142-900086390cec" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-263435_g2-000010.xml",
+         "length" : 4095,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "06d0743cd55dfc360e5179ccf12d739eae153c1d3738b5f01c0ef6f3ea6f9fc9",
+         "time" : 1734011087,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-263435_g2-000010.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 13025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "758feeecae3dfceea738efa38bedd4e68694ec02b3821708a2fca7d0fba1b071",
+         "time" : 1734011084,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-263435_g2-000010"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6699,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e3374ff2f4816a3a999f98b1e15308c457473dbbdd7a8ca6ba52e6c040374022",
+         "time" : 1714148025.01567,
+         "title" : "京都府 綴喜郡井手町 地番マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-263435_g2-000010"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "京都府 綴喜郡井手町 地番マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-263435_g2-000010"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-263435_g2-000010",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "京都府 綴喜郡井手町 地番マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-263435_g2-000010"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "京都府 綴喜郡井手町 地番マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-263435_g2-000010"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 200306,
+   "mirrorzip" : {
+      "length" : 154296,
+      "set" : "free-2",
+      "sha256" : "db211124d70d49974c7470f0bd0d513facf9390b734a16918c33ec735941c2d2"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-263435_g2-000010",
+      "desc" : "アドレス（住所・所在地）ベース・レジストリの地番マスターデータセットです。地番マスターは「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+      "org" : "デジタル庁",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-263435_g2-000010",
+      "tags" : [
+         "デジタル庁",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1714148025.01567,
+      "title" : "京都府 綴喜郡井手町 地番マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cd0cef769c521794409523e3afb36f84dbaf1c0a3d91b8a14b9a7bc2caf6494ed\u001Cfree\u001C0\u001C0"
+}
