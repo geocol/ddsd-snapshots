@@ -1,0 +1,138 @@
+{
+   "files" : {
+      "file:id:0777383e-eac0-4114-943b-87c74d2677a9" : {
+         "desc" : "",
+         "file_name" : "282103_hyogo_kakogawa_open_data_list.csv",
+         "length" : 431577,
+         "mime" : "text/csv",
+         "sha256" : "ad56213c94a242e7fdf907c3e4fc30585a9647e951476284d6caf06b437f3168",
+         "time" : 1734280055,
+         "title" : "加古川市オープンデータ一覧（CSV版）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/7a724839-5ea4-438b-bfa9-7639743dfe12/resource/0777383e-eac0-4114-943b-87c74d2677a9/download/282103_hyogo_kakogawa_open_data_list.csv"
+      },
+      "file:id:27a5318a-a799-4475-8cfa-4e3ee1409773" : {
+         "desc" : "",
+         "file_name" : "282103_hyogo_kakogawa_open_data_list.xlsx",
+         "length" : 116457,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "86af8d10c1f1b192df5fd97be09e7b83c95e1ee3fa72dc98143c7cf7ac97c848",
+         "time" : 1734280057,
+         "title" : "加古川市オープンデータ一覧（XLSX版）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/7a724839-5ea4-438b-bfa9-7639743dfe12/resource/27a5318a-a799-4475-8cfa-4e3ee1409773/download/282103_hyogo_kakogawa_open_data_list.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 33958,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5644941a0a99836b4281ac601d7eac65888c92182f93dd505c787fa5fd28b4cd",
+         "time" : 1734280059,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/opendatalist"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4266,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "528b99639c9b23cab5ac1541957de8de345b51e3dfa118cba42a3fdfd8c6afac",
+         "time" : 1714478328.82873,
+         "title" : "加古川市オープンデータ一覧",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=opendatalist"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市オープンデータ一覧",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/opendatalist"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=opendatalist",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 586258,
+   "mirrorzip" : {
+      "length" : 106163,
+      "set" : "free-2",
+      "sha256" : "500d6e7ec73bdcd2a9dfaa25f871bf5176d15c9a7b24fd618333e621e7f09275"
+   },
+   "package" : {
+      "author" : "加古川市",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=opendatalist",
+      "desc" : "加古川市が公開しているオープンデータの一覧です。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/opendatalist",
+      "tags" : [
+         "加古川市",
+         "オープンデータ",
+         "一覧",
+         "推奨データセット"
+      ],
+      "time" : 1714478328.82873,
+      "title" : "加古川市オープンデータ一覧"
+   },
+   "ref_key_text" : "6\u001C107ed1dbdb63673bb49e6a935696008a404e861cbc757b6b70c93eaa77154667\u001Cfree\u001C0\u001C0"
+}
