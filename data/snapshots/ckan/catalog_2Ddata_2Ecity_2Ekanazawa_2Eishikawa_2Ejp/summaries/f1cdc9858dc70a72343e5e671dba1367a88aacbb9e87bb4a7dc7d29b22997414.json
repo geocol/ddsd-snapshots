@@ -1,0 +1,237 @@
+{
+   "files" : {
+      "file:id:25726186-d2d6-441d-af78-48f7ece4b09b" : {
+         "desc" : "",
+         "file_name" : "石川中央都市圏_03売上金額（百万円）.csv",
+         "length" : 3321,
+         "mime" : "text/csv",
+         "sha256" : "ba1e451171cc5dbc5c63f0928d3120c56d159d194d79a0cc53c61ffc74ad1344",
+         "time" : 1734576420,
+         "title" : "石川中央都市圏_03売上金額（百万円）.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/a7b2950f-26fd-4c12-b8cf-739797cba8c9/resource/25726186-d2d6-441d-af78-48f7ece4b09b/download/ishikawa-central_03_uriagekingaku.csv"
+      },
+      "file:id:5b11e4c0-a981-438d-850c-c7d800b03726" : {
+         "desc" : "",
+         "file_name" : "石川中央都市圏_01小分類事業所数.csv",
+         "length" : 375634,
+         "mime" : "text/csv",
+         "sha256" : "19a4ad6c6bc200d82fc4019975f8a2d26b987f5a5fb63ef229b46df88a46b68e",
+         "time" : 1734576418,
+         "title" : "石川中央都市圏_01小分類事業所数.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/a7b2950f-26fd-4c12-b8cf-739797cba8c9/resource/5b11e4c0-a981-438d-850c-c7d800b03726/download/ishikawa-central_01_shobunruijigyoshosu.csv"
+      },
+      "file:id:8500b1cb-2ac9-4045-b7e9-baa3bec9a373" : {
+         "desc" : "",
+         "file_name" : "石川中央都市圏_02従業者数.csv",
+         "length" : 5800,
+         "mime" : "text/csv",
+         "sha256" : "2b7f22af920bac1f4111ec26f443d2030ee43505be3e4a33d074ae96a2fe2d24",
+         "time" : 1734576419,
+         "title" : "石川中央都市圏_02従業者数.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/a7b2950f-26fd-4c12-b8cf-739797cba8c9/resource/8500b1cb-2ac9-4045-b7e9-baa3bec9a373/download/ishikawa-central_02_jyugyoshasu.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 16861,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6bb5d290c58449006da86da05ad5da8c158b6e34b19fee593498d954bf0cb697",
+         "time" : 1734576417,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/ishikawa-central-keizai-censusdata"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3918,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2a5c7f45fd540bf11f0add02d3f9cc14a983d3e4a1cab1cf8cf01386a8ff2646",
+         "time" : 1710462865.67555,
+         "title" : "石川中央都市圏　経済センサス-活動調査データ",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=ishikawa-central-keizai-censusdata"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "石川中央都市圏",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "石川中央都市圏　経済センサス-活動調査データ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-keizai-censusdata"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=ishikawa-central-keizai-censusdata",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "石川中央都市圏　経済センサス-活動調査データ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-keizai-censusdata"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917",
+                  "label" : "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "石川中央都市圏　経済センサス-活動調査データ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-keizai-censusdata"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917",
+            "label" : "金沢市オープンデータポータル 利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 405534,
+   "mirrorzip" : {
+      "length" : 68881,
+      "set" : "free-2",
+      "sha256" : "5bb95ba502cfd652624d83e1b77e22febccfc0e56cce3b085b3e640c517d456a"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=ishikawa-central-keizai-censusdata",
+      "desc" : "",
+      "org" : "石川中央都市圏",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/ishikawa-central-keizai-censusdata",
+      "tags" : [
+         "石川中央都市圏",
+         "統計"
+      ],
+      "time" : 1710462865.67555,
+      "title" : "石川中央都市圏　経済センサス-活動調査データ"
+   },
+   "ref_key_text" : "6\u001C48e2a10b5af9b2ef17db65373e3e01d67591c4323f217145298dd1da6e2ab877\u001Cfree\u001C0\u001C0"
+}
