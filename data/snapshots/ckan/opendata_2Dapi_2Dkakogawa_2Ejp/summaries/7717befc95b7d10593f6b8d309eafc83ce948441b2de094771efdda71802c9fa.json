@@ -1,0 +1,138 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:08d838b0-cd5e-4bbb-9d37-6cb543f2f1e2" : {
+         "desc" : "未供用路線情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022AuthorizedRoad\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.AuthorizedRoad.UnsharedRoute.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;UnsharedRoute  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市道認定道路線網図に関する各Shapeファイルの情報を格納する。  \u000D\u000A&nbsp;dbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;kml&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1526349718.52426,
+         "title" : "未供用路線",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=AuthorizedRoad&idPattern=\u005C.UnsharedRoute\u005C."
+      },
+      "file:id:2606645e-b9e1-4fd9-8fb0-cb4a884c2f5f" : {
+         "desc" : "供用路線情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022AuthorizedRoad\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.AuthorizedRoad.SharedRoute.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;SharedRoute  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;市道認定道路線網図に関する各Shapeファイルの情報を格納する。  \u000D\u000A&nbsp;dbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;kml&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1526349615.35989,
+         "title" : "供用路線",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=AuthorizedRoad&idPattern=\u005C.SharedRoute\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 29800,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "32d2877c8125e7c28f568f6a84db2a650114196d68c3e1979a1fb4b509db16c4",
+         "time" : 1734673554,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/authorizedroad"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 11731,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "85a11b2c960a183afc2401bc1b6b5f52b7c484eea6cbece75185ba8d629575bd",
+         "time" : 1702961320.34324,
+         "title" : "市道認定道路線網図",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=authorizedroad"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "市道認定道路線網図",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/authorizedroad"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=authorizedroad",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 41531,
+   "mirrorzip" : {
+      "length" : 11953,
+      "set" : "free-2",
+      "sha256" : "315ba8b9c96cb7f77d34b74235e5715ce6964b9bf56840396bfe34f94bb15b02"
+   },
+   "package" : {
+      "author" : "加古川市",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=authorizedroad",
+      "desc" : "加古川市内の市道認定道路線網図に関する情報です。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/authorizedroad",
+      "tags" : [
+         "加古川市",
+         "道路・交通",
+         "共用路線",
+         "市道",
+         "未共用路線",
+         "線網図",
+         "認定道路"
+      ],
+      "time" : 1702961320.34324,
+      "title" : "市道認定道路線網図"
+   },
+   "ref_key_text" : "6\u001Cf12955fd46360cbd04be9e9923177906abbb2aa6de4d444132a2a436a1e98e7a\u001Cfree\u001C0\u001C0"
+}

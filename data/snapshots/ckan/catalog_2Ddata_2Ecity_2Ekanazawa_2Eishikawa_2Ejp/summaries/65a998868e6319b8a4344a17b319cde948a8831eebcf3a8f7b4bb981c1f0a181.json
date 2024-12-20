@@ -1,0 +1,216 @@
+{
+   "files" : {
+      "file:id:83ac1a36-9b39-4fcf-898f-1bb5677509a5" : {
+         "desc" : "",
+         "file_name" : "公園遊具情報.csv",
+         "length" : 28823,
+         "mime" : "text/csv",
+         "sha256" : "1c1fbe80b34d4e71ea5db45682a2f6857d96ddf776460df82b40112dcd116a3f",
+         "time" : 1734674137,
+         "title" : "公園遊具情報.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/caa3b147-4e3c-4cd6-b306-dbbdbad4bd97/resource/83ac1a36-9b39-4fcf-898f-1bb5677509a5/download/172014-koenyugu.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18702,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "09a04fab2d9229906d21af72ae639ae2bfa0957689a0f09db01c5b93d4ede974",
+         "time" : 1734674137,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-koenyugu"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2362,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8d91087a85e0a91e99c0e8287d730c7768a19fb43fe3e8ddce1897d1ef0663c1",
+         "time" : 1676945837.82247,
+         "title" : "金沢市 公園遊具情報",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-koenyugu"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "緑と花の課 (金沢市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金沢市 公園遊具情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-koenyugu"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-koenyugu",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 公園遊具情報",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-koenyugu"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917",
+                  "label" : "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 公園遊具情報",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-koenyugu"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917",
+            "label" : "金沢市オープンデータポータル 利用規約",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 49887,
+   "mirrorzip" : {
+      "length" : 16361,
+      "set" : "free-2",
+      "sha256" : "c109255aaff3d9f2f8278e74f88501d4f24061618893e5bb0800e6867fb65f9d"
+   },
+   "package" : {
+      "author" : "緑と花の課",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-koenyugu",
+      "desc" : "※公園遊具情報の記載について\u000D\u000A\u000D\u000A施設があるものに「1」を記載しています。",
+      "org" : "金沢市",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-koenyugu",
+      "tags" : [
+         "緑と花の課",
+         "金沢市",
+         "公園"
+      ],
+      "time" : 1676945837.82247,
+      "title" : "金沢市 公園遊具情報"
+   },
+   "ref_key_text" : "6\u001Cceaebb624e87c79032118232f8c574037d943f746ccb4246b31667b0f903b9ce\u001Cfree\u001C0\u001C0"
+}

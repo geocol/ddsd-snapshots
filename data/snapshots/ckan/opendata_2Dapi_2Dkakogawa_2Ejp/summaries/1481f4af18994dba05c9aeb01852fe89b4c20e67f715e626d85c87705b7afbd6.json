@@ -1,0 +1,154 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:3944243d-9379-406e-9952-d550c09572b7" : {
+         "desc" : "地すべり危険箇所情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022LandslideAreaHazardMap\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.LandslideAreaHazardMap.Jisuberi.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;Jisuberi  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;土砂災害ハザードマップ（山地）に関する各Shapeファイルの情報を格納する。  \u000D\u000A&nbsp;dbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;kml&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A",
+         "file_name" : "entities-3",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524816705.69201,
+         "title" : "地すべり危険箇所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=LandslideAreaHazardMap&idPattern=\u005C.Jisuberi\u005C."
+      },
+      "file:id:66b47106-3285-4626-823c-4a5692f68245" : {
+         "desc" : "山腹崩壊危険地区情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022LandslideAreaHazardMap\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.LandslideAreaHazardMap.Sanpuku.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;Sanpuku  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;土砂災害ハザードマップ（山地）に関する各Shapeファイルの情報を格納する。  \u000D\u000A&nbsp;dbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;kml&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524814905.02383,
+         "title" : "山腹崩壊危険地区",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=LandslideAreaHazardMap&idPattern=\u005C.Sanpuku\u005C."
+      },
+      "file:id:ae00d19a-8078-4254-b0eb-0638d7e05c27" : {
+         "desc" : "崩壊土砂流出危険区域情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022LandslideAreaHazardMap\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.LandslideAreaHazardMap.HokaiDosyaryu.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;HokaiDosyaryu  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;土砂災害ハザードマップ（山地）に関する各Shapeファイルの情報を格納する。  \u000D\u000A&nbsp;dbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;kml&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A",
+         "file_name" : "entities-4",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524817004.40175,
+         "title" : "崩壊土砂流出危険区域",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=LandslideAreaHazardMap&idPattern=\u005C.HokaiDosyaryu\u005C."
+      },
+      "file:id:af77d219-ef13-452e-ae8a-83ba9a6fd271" : {
+         "desc" : "雪崩危険箇所情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A----------------------\u000D\u000A\u000D\u000A### エンティティパラメータ\u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティタイプ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022LandslideAreaHazardMap\u0022  \u000D\u000A&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**エンティティID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jp.kakogawa.LandslideAreaHazardMap.Nadare.[連番]  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\u0022jp.kakogawa\u0022  \u000D\u000A&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;識別子&nbsp;&nbsp;&nbsp;&nbsp;Nadare  \u000D\u000A&nbsp;  \u000D\u000A\u000D\u000A\u000D\u000A* 属性パラメータ  \u000D\u000A&nbsp;**名称**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**タイプ(type)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**説明**  \u000D\u000A&nbsp;name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Text&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;土砂災害ハザードマップ（山地）に関する各Shapeファイルの情報を格納する。  \u000D\u000A&nbsp;dbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;shx&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;kml&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URIより、直接データを取得する。  \u000D\u000A&nbsp;updateDateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DateTime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更新日時を格納する。形式：iso8601 日本時間  \u000D\u000A",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524815675.47518,
+         "title" : "雪崩危険箇所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=LandslideAreaHazardMap&idPattern=\u005C.Nadare\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 36795,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "cd8a46a094b8cc4c739a62c6b4026d3dd5e35eacabaa79e6948adfb944c37c00",
+         "time" : 1734673488,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/landslideareahazardmap"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 20700,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1010b9e40f10ea436621e1bc6aa66b1f724fc048a5e54a4ec9503b14d98b0b4b",
+         "time" : 1702952600.99845,
+         "title" : "土砂災害ハザードマップ（山地）",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=landslideareahazardmap"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "土砂災害ハザードマップ（山地）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/landslideareahazardmap"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=landslideareahazardmap",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 57495,
+   "mirrorzip" : {
+      "length" : 12710,
+      "set" : "free-2",
+      "sha256" : "fc95e950dfd6db9377e32ec288877100f4189652f8947a066a9ba5d42c9117b5"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=landslideareahazardmap",
+      "desc" : "土砂災害ハザードマップ（山地）情報APIです。\u000D\u000A（出典：兵庫県ＣＧハザードマップ）",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/landslideareahazardmap",
+      "tags" : [
+         "兵庫県",
+         "加古川市",
+         "防災･安全",
+         "ハザード",
+         "土砂災害"
+      ],
+      "time" : 1702952600.99845,
+      "title" : "土砂災害ハザードマップ（山地）"
+   },
+   "ref_key_text" : "6\u001C2def1f4307e96cec75fcbb1865fdb02ed00f636ef8c8433440c55b8516bd3393\u001Cfree\u001C0\u001C0"
+}
