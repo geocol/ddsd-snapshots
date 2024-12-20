@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:3269a900-df14-4293-989c-201bb6d44ac2" : {
+         "desc" : "",
+         "file_name" : "0005_20240911.csv",
+         "length" : 9040,
+         "mime" : "text/csv",
+         "sha256" : "831080efd885e0f1aa927adaca1ffa266372cb8804a2afe181dc156128b97b85",
+         "time" : 1734730640,
+         "title" : "各区市民活動支援センター＿オープンデータ",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/shiminkyodo/shien/kucenter.files/0005_20240911.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15819,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c53167b25db1fe19957d93c3b97b5d881dced5823bdc8fd54e3a27855efdf006",
+         "time" : 1734730639,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/shimin_kucenter"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2730,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "0f1e6b3777ac4f807e6afb9125b91b1a8be4c1b0517964cb4a77ca66c6f96a83",
+         "time" : 1727771163.85744,
+         "title" : "各区の市民活動支援センター",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shimin_kucenter"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "市民協働推進課 (市民局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "各区の市民活動支援センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/shimin_kucenter"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shimin_kucenter",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "各区の市民活動支援センター",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/shimin_kucenter"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 27589,
+   "mirrorzip" : {
+      "length" : 13786,
+      "set" : "free-2",
+      "sha256" : "338cf2d7313c84c07d0a0386894b7c41cea3b30325bbd1d56e82204bf8e93b41"
+   },
+   "package" : {
+      "author" : "市民協働推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shimin_kucenter",
+      "desc" : "各区市民活動支援センターの一覧",
+      "org" : "市民局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/shimin_kucenter",
+      "tags" : [
+         "市民協働推進課",
+         "市民局",
+         "住まい・くらし"
+      ],
+      "time" : 1727771163.85744,
+      "title" : "各区の市民活動支援センター"
+   },
+   "ref_key_text" : "6\u001C4863104dc8104d0b403191ebf27dda0c50662d0d763fa8f08324eb790e8328ad\u001Cfree\u001C0\u001C0"
+}
