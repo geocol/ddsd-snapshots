@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:492bc0c0-f906-4e8e-aa27-17d23c8e98d3" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1734960733,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:7134c19e-9182-47ba-8d7e-3a1ba2d9c377" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city352101.csv.zip",
+         "length" : 4063,
+         "mime" : "application/zip",
+         "sha256" : "61bc4cf8166f0c0eef56d03f58beaaa6f321c2ef06090efbdacf13d7822e24f2",
+         "time" : 1734960969,
+         "title" : "山口県 光市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city352101.csv.zip"
+      },
+      "file:id:83a4a892-cb90-40e0-9f26-f850baa09d12" : {
+         "desc" : "",
+         "file_name" : "ba-o1-352101_g2-000009.xml",
+         "length" : 3508,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "87055a01becf796a023a5253161b8c5e3aed9460e7fa2a60935500f491e0e06c",
+         "time" : 1734960970,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-352101_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 10585,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "55a470f6c7130c2a04b6e4f4083f0758f970961b41c79aaf2f25ba09a14f3a23",
+         "time" : 1734960967,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-352101_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5635,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2ee4624589ccf6b09a0aff8a840c51b96d86c7d390776ae503b45b7872345e29",
+         "time" : 1723528792.61892,
+         "title" : "山口県 光市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-352101_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山口県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山口県 光市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-352101_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-352101_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 81816,
+   "mirrorzip" : {
+      "length" : 32968,
+      "set" : "nonfree-1",
+      "sha256" : "47b409de70412003c4445e50a639d1782376a87e7914c48515669a83924f5e42"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-352101_g2-000009",
+      "desc" : "",
+      "org" : "山口県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-352101_g2-000009",
+      "tags" : [
+         "山口県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1723528792.61892,
+      "title" : "山口県 光市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C71cfe9aabdd2d1e3a8b73944f287405405c5ce5269607ba77d5b62426c814fee\u001Cunknown\u001C0\u001C0"
+}
