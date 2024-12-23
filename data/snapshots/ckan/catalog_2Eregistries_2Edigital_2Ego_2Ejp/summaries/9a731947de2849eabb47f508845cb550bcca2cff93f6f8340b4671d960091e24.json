@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:1ea1cbbc-e805-49a0-a34c-47d3ac0e010d" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city462161.csv.zip",
+         "length" : 687,
+         "mime" : "application/zip",
+         "sha256" : "284f2ad19c11d517ad33627fb6c05d30d009e5ea2a1e2a7badc083f868a1924f",
+         "time" : 1734971011,
+         "title" : "鹿児島県 日置市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city462161.csv.zip"
+      },
+      "file:id:53480e6c-1c5e-49cc-9a87-32d850b2b64f" : {
+         "desc" : "",
+         "file_name" : "ba-o1-462161_g2-000007.xml",
+         "length" : 3579,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "0e644bffa32d2d4e8e2d5135ef0cd853f51f4b5d8cc76bda4898af2e2a126e18",
+         "time" : 1734971013,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462161_g2-000007.xml"
+      },
+      "file:id:b5b2d39c-2cb9-47d4-b4d9-9678e9b848bf" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1734960733,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11426,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "109be5912418bf7227d8936d82ba5bb9b6b549fd826100b43446d1ab967cb2d5",
+         "time" : 1734971010,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-462161_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5775,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "de27b36c4d802935c05cdbdc3bb2374e65c3828840e10e675a02afdb4e1a7b05",
+         "time" : 1710322509.47301,
+         "title" : "鹿児島県 日置市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-462161_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県 日置市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462161_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-462161_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79492,
+   "mirrorzip" : {
+      "length" : 29722,
+      "set" : "nonfree-1",
+      "sha256" : "b2747e0d988a7bc62ecad137432162734aebe4a340ee21279fc2edcff2a90ed0"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-462161_g2-000007",
+      "desc" : "",
+      "org" : "鹿児島県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462161_g2-000007",
+      "tags" : [
+         "鹿児島県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710322509.47301,
+      "title" : "鹿児島県 日置市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cf5252b657c8096f1e8dc35ee9db538154cfebbf1f17d252b1d7a6a1f8bef7227\u001Cunknown\u001C0\u001C0"
+}

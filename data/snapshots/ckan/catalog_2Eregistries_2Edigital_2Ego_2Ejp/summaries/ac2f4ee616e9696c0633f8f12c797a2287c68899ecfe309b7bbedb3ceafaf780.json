@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:61a04e9e-5e4d-49fc-b5c0-52a809a7d8a4" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1734960733,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:784ec712-2cce-4c22-addf-cf7e57cac237" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city252131.csv.zip",
+         "length" : 9921,
+         "mime" : "application/zip",
+         "sha256" : "5aa162d0a2f4fff80b5e02ffdfd3440773efb05198d01d743e5083376c713282",
+         "time" : 1734970918,
+         "title" : "滋賀県 東近江市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city252131.csv.zip"
+      },
+      "file:id:dd6dca3c-d47a-40f6-8989-7fa77d2680ef" : {
+         "desc" : "",
+         "file_name" : "ba-o1-252131_g2-000007.xml",
+         "length" : 3579,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "757c04301cc30f5aa1c675ccd880464284bd42a79b7e700f875598491d0ac4ab",
+         "time" : 1734970919,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252131_g2-000007.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11420,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a98df9d4afc23552d7cd6a0906b17e635269052cb61e873866c5292d7b2ff427",
+         "time" : 1734970916,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-252131_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5769,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "428361c362c3e23093d02d7b39a43dbd788c484ecdd177eb9c0df86b773c70f3",
+         "time" : 1710291008.40825,
+         "title" : "滋賀県 東近江市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-252131_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県 東近江市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252131_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-252131_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 88714,
+   "mirrorzip" : {
+      "length" : 38926,
+      "set" : "nonfree-1",
+      "sha256" : "d4fe17f99fabaddd0f78c75e1502d641524b78be1f0825d71302196139109501"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-252131_g2-000007",
+      "desc" : "",
+      "org" : "滋賀県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252131_g2-000007",
+      "tags" : [
+         "滋賀県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710291008.40825,
+      "title" : "滋賀県 東近江市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C82631144c5c0c50ee2c2820965e9cc752f96b1101b9bfa6822c10976f084179f\u001Cunknown\u001C0\u001C0"
+}
