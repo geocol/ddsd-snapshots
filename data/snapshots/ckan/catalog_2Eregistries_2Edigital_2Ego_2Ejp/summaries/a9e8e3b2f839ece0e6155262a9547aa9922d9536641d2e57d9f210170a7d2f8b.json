@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:4fd53498-396d-4c66-a0e3-d10dbee13e51" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city452041.csv.zip",
+         "length" : 19432,
+         "mime" : "application/zip",
+         "sha256" : "e8f907e704dc5aa7b4a903c819cb84d63c73e0824a603b4edcf56857e01c9928",
+         "time" : 1735057364,
+         "title" : "宮崎県 日南市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city452041.csv.zip"
+      },
+      "file:id:71fc3fd4-f638-4f22-8596-15c09687c93a" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735046961,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:8d4a0ee6-fe29-4618-a203-3871cb47e60c" : {
+         "desc" : "",
+         "file_name" : "ba-o1-452041_g2-000007.xml",
+         "length" : 3570,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "d20acc591d1b50769a6d0a1ad2c313b903a0d0e39f85c84c9438baece4ba61e6",
+         "time" : 1735057366,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452041_g2-000007.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11396,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "906b5d267d94c663e93b0f862544248942ef86e47fc9d0553fed71e6ea4fe15e",
+         "time" : 1735057363,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-452041_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5751,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "29246e41a0892afc5c4f3b0d73883eab5ed213e3947e6c2560e1abb2c288da8f",
+         "time" : 1710321085.90623,
+         "title" : "宮崎県 日南市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452041_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県 日南市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452041_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452041_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 98174,
+   "mirrorzip" : {
+      "length" : 48303,
+      "set" : "nonfree-1",
+      "sha256" : "5e079c177d89ea728cdc3b76a50e4d3f578e6d3e39172c00c41d7d174aa8a0ea"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452041_g2-000007",
+      "desc" : "",
+      "org" : "宮崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452041_g2-000007",
+      "tags" : [
+         "宮崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710321085.90623,
+      "title" : "宮崎県 日南市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cd691a5e683b0720563e0efa324546ceb84b580704136e85b2f271ddb410d787b\u001Cunknown\u001C0\u001C0"
+}

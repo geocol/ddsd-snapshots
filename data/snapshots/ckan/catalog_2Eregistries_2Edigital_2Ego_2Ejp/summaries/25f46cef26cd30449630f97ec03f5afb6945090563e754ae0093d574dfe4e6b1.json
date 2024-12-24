@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:2f5fe93f-79ee-4838-8879-845786607076" : {
+         "desc" : "",
+         "file_name" : "ba-o1-223018_g2-000009.xml",
+         "length" : 3553,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "a8e73c353020bc43bef3f23cc58f7dbb1f032a6f1b817f975f0c7ba255f76a6f",
+         "time" : 1735057400,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-223018_g2-000009.xml"
+      },
+      "file:id:faf85e7a-1b02-493f-885f-2bf6575680f7" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city223018.csv.zip",
+         "length" : 1192,
+         "mime" : "application/zip",
+         "sha256" : "72d8083e9b78e02aca3d24781c6de6a1b8c6b18483baed35768c9d85f20b32f5",
+         "time" : 1735057399,
+         "title" : "静岡県 賀茂郡東伊豆町 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city223018.csv.zip"
+      },
+      "file:id:fd69c22f-febf-438c-bbfd-f7c469afe34a" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735046961,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9976,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c0ad8229a54ac14ff15d998f1610425ceb94c24df977dc384c31551c72880695",
+         "time" : 1735057398,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-223018_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5725,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "181a6bf23dd94a32e2d7e4c08df9dd3486727749b02e70b4bd6c132f0092a8c4",
+         "time" : 1720162542.36007,
+         "title" : "静岡県 賀茂郡東伊豆町 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-223018_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県 賀茂郡東伊豆町 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-223018_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-223018_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 78471,
+   "mirrorzip" : {
+      "length" : 30184,
+      "set" : "nonfree-1",
+      "sha256" : "8fbbcfb6a5162b9dff3b6e253635d205961452b8299607a13eca9c32070e3525"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-223018_g2-000009",
+      "desc" : "",
+      "org" : "静岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-223018_g2-000009",
+      "tags" : [
+         "静岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720162542.36007,
+      "title" : "静岡県 賀茂郡東伊豆町 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C38a2747528629abb6e27271d2a1c8441d8b8ae3c9d1ee4e9cfe7683389be9b1f\u001Cunknown\u001C0\u001C0"
+}

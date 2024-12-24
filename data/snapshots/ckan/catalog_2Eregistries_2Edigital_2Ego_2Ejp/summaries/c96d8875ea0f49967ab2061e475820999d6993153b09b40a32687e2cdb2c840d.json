@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:3ff96644-3df5-4afc-93b1-d413388f7c0c" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735046961,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:bcd719d6-5c80-49f0-af07-94d093c5e17b" : {
+         "desc" : "",
+         "file_name" : "ba-o1-082031_g2-000009.xml",
+         "length" : 3517,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "b006477522e83b4081e5587b11d3eeac96f2b6f6da8fc419f8cf9abb67714e74",
+         "time" : 1735057503,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-082031_g2-000009.xml"
+      },
+      "file:id:d95111d9-e928-402c-9c71-3f11cc3aa51d" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city082031.csv.zip",
+         "length" : 5581,
+         "mime" : "application/zip",
+         "sha256" : "2854d271710e2aa437e27adb32ac225ca9fa09f59e43b1f5adf6313b674d48ce",
+         "time" : 1735057501,
+         "title" : "茨城県 土浦市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city082031.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9904,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7bf9cc2f5d95d4a3ceb53836a8acb624806bae53c7cdeb1b6d44a851346da628",
+         "time" : 1735057500,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-082031_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5653,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2f487bbb0f16a6e8e1c0575e9818338925551c43b88a10ee261ef7580439aeba",
+         "time" : 1720160308.66354,
+         "title" : "茨城県 土浦市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-082031_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "茨城県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "茨城県 土浦市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-082031_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-082031_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82680,
+   "mirrorzip" : {
+      "length" : 34498,
+      "set" : "nonfree-1",
+      "sha256" : "95c81103d30f3641898f73ffb75020f2cc020935345e95a34972c5bc0a742297"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-082031_g2-000009",
+      "desc" : "",
+      "org" : "茨城県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-082031_g2-000009",
+      "tags" : [
+         "茨城県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720160308.66354,
+      "title" : "茨城県 土浦市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C3e313ea9d10f1b40d67eed4dc4cdf0565441f693a533f2cd6cb04bd1db7c1fed\u001Cunknown\u001C0\u001C0"
+}

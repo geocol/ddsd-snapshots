@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:0a9915df-a039-40bb-a545-5aa51c9ef78a" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735046961,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:13c833c2-93a8-431b-8158-fba5b0678e55" : {
+         "desc" : "",
+         "file_name" : "ba-o1-473502_g2-000009.xml",
+         "length" : 3553,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "8f5c9bc3cfe7edd57ccf5032ef2573ebe4e0e99c6626841b6884812a3ecc981c",
+         "time" : 1735057286,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-473502_g2-000009.xml"
+      },
+      "file:id:5f272b0f-a008-4534-b236-1631a2859fd3" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city473502.csv.zip",
+         "length" : 924,
+         "mime" : "application/zip",
+         "sha256" : "6426a62f08be9d1240066a7af15377803323ff0937a448ed28f7b57ac3635d45",
+         "time" : 1735057285,
+         "title" : "沖縄県 島尻郡南風原町 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city473502.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9263,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d7f884e57f72d3a94993c8d83f1836df1deb400d0b9045d01525fbe61c70a6af",
+         "time" : 1735057283,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-473502_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5725,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c46b60bb5fd484da2558f4a648935a1d9ec6579cdcd96b3736befb95f8aa205e",
+         "time" : 1710325114.57707,
+         "title" : "沖縄県 島尻郡南風原町 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-473502_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "沖縄県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "沖縄県 島尻郡南風原町 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-473502_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-473502_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 77490,
+   "mirrorzip" : {
+      "length" : 29831,
+      "set" : "nonfree-1",
+      "sha256" : "ffb7c10b1dd6c03e2f92a51a74d4d7b6bf6b114e8c981f41f1c90ea331675422"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-473502_g2-000009",
+      "desc" : "",
+      "org" : "沖縄県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-473502_g2-000009",
+      "tags" : [
+         "沖縄県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710325114.57707,
+      "title" : "沖縄県 島尻郡南風原町 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C1a16e5d9e5e50de2d25f6d25aeb4322b24222e0076246a209039e495ec20cac6\u001Cunknown\u001C0\u001C0"
+}

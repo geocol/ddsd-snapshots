@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:34d37500-39cc-4680-8d81-ab4095503cd5" : {
+         "desc" : "",
+         "file_name" : "ba-o1-452025_g2-000009.xml",
+         "length" : 3517,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "6d7c5ade1d10dd3aaf332ff9c00b2b812034d3daccfb87f03e2558f004695a53",
+         "time" : 1735057434,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000009.xml"
+      },
+      "file:id:a5600b5b-a177-4f10-b1e9-65486d28890c" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735046961,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:b5c54552-47cf-4824-a144-b22ba6157cd5" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city452025.csv.zip",
+         "length" : 8724,
+         "mime" : "application/zip",
+         "sha256" : "9124ec72ae9017d6e0c6461678fcd89307d70874c44f930c65156552643e2dba",
+         "time" : 1735057432,
+         "title" : "宮崎県 都城市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city452025.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 10606,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2d50996f3f0d00b5ab9ba11922bc5d91122e27d829ed41cbbfd92de9b375197e",
+         "time" : 1735057431,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-452025_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5653,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "78d9309b2342438a2ea38e749106df8051c8d672008a0deadbc7b66ab6a445d0",
+         "time" : 1723528995.30882,
+         "title" : "宮崎県 都城市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県 都城市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 86525,
+   "mirrorzip" : {
+      "length" : 37657,
+      "set" : "nonfree-1",
+      "sha256" : "9b3bb4b912d5e4fbfc987cdb64cf6a961b5c9fc264c84b25fcf8923166eafbdd"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000009",
+      "desc" : "",
+      "org" : "宮崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000009",
+      "tags" : [
+         "宮崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1723528995.30882,
+      "title" : "宮崎県 都城市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C6c45ec8dc28498ffd627433daf292fb57cb9111e0f569c53d2ca55d9db9cb5a6\u001Cunknown\u001C0\u001C0"
+}
