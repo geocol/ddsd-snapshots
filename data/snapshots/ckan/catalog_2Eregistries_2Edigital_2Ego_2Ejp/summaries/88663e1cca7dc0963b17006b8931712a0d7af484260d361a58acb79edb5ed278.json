@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:895d5a8d-bf91-4133-bee5-322947be5c52" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735017998,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:931b8cba-04f1-4738-a9bb-525d9b710382" : {
+         "desc" : "",
+         "file_name" : "ba-o1-141151_g2-000007.xml",
+         "length" : 3600,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "e16b616ec51ce7bb4681030c7fc79e9dc1fca58a466bf0b5858c2ce6404be930",
+         "time" : 1735018131,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141151_g2-000007.xml"
+      },
+      "file:id:fa41d55e-6bf4-4171-9e6d-9cfc87009d19" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city141151.csv.zip",
+         "length" : 29788,
+         "mime" : "application/zip",
+         "sha256" : "654c087622145954a7ffbf48f099ee3adc8e1043d360535a6918cf07d9d2de70",
+         "time" : 1735018129,
+         "title" : "神奈川県 横浜市 栄区 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city141151.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11416,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "90c7165cc2df18dd79dde6297b819d29d6be168b3e5a9b397f353f0aa66658dc",
+         "time" : 1735018127,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-141151_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5814,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "00be76be060fed43a82d7c1cbb1c85a4f12517d76e5ec34cc1d9d89efc977c1d",
+         "time" : 1710270812.98183,
+         "title" : "神奈川県 横浜市 栄区 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141151_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "神奈川県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "神奈川県 横浜市 栄区 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141151_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141151_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 108643,
+   "mirrorzip" : {
+      "length" : 58464,
+      "set" : "nonfree-1",
+      "sha256" : "b202cbb4cd9bf404d796d24cdb4b381f752e065e9892e3bc416f3c65a370c15e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141151_g2-000007",
+      "desc" : "",
+      "org" : "神奈川県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141151_g2-000007",
+      "tags" : [
+         "神奈川県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710270812.98183,
+      "title" : "神奈川県 横浜市 栄区 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C278a219f7c490850b63a24695867fdbbae7f5c29c6abd5a10d5cf815f68180fd\u001Cunknown\u001C0\u001C0"
+}
