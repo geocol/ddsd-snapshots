@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:01583cb4-1fb3-47b3-8cd2-5528698cbc34" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city105210.csv.zip",
+         "length" : 787,
+         "mime" : "application/zip",
+         "sha256" : "355323f4c31318636f3f94c903c939312634830d97f79c0b651264c69eab7b2d",
+         "time" : 1735047034,
+         "title" : "群馬県 邑楽郡板倉町 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city105210.csv.zip"
+      },
+      "file:id:c1594f2c-3e36-4e48-beb2-9ed8cec61c55" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735046961,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c94189a6-4196-4bd2-b39a-3dab78b072bd" : {
+         "desc" : "",
+         "file_name" : "ba-o1-105210_g2-000007.xml",
+         "length" : 3597,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "f0130a85306bf53f60d794f458553fcff0e6c42ad883f7047035a39f52bba8c6",
+         "time" : 1735047035,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-105210_g2-000007.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11468,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "742ff5a222611ff45560fe9910ecdbc1ea7a72e7e5f407e18f68fa4b07e31265",
+         "time" : 1735047032,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-105210_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5805,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "92390fbd91751a777468ff55652b17ec3f3bb2fb25ff0256c009ed16630fd429",
+         "time" : 1710259963.59554,
+         "title" : "群馬県 邑楽郡板倉町 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-105210_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "群馬県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "群馬県 邑楽郡板倉町 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-105210_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-105210_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79682,
+   "mirrorzip" : {
+      "length" : 29841,
+      "set" : "nonfree-1",
+      "sha256" : "c5351feefb6b82187893cba58b6a0d25f1d2cc5791f42c69412ecf2f2eaa947e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-105210_g2-000007",
+      "desc" : "",
+      "org" : "群馬県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-105210_g2-000007",
+      "tags" : [
+         "群馬県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710259963.59554,
+      "title" : "群馬県 邑楽郡板倉町 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cf7eacaaa1fa7fa9ef8ac7a500d5f24c5a0001ffa69a1e808be48b8781c72ec01\u001Cunknown\u001C0\u001C0"
+}
