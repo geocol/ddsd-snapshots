@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:20465893-b975-43df-9da6-ba372cc65f7c" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735133308,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:36d8a289-97bf-4e67-ac6d-6eace18d94c6" : {
+         "desc" : "",
+         "file_name" : "mt_town_pos_city313700.csv.zip",
+         "length" : 1168,
+         "mime" : "application/zip",
+         "sha256" : "2d198d6e46d54812e08e610b13220d45e8948b7779b474283ab0dfa52f521af7",
+         "time" : 1735133476,
+         "title" : "鳥取県 東伯郡湯梨浜町 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city313700.csv.zip"
+      },
+      "file:id:ce50a03b-d561-4b58-933f-eea0b995a27c" : {
+         "desc" : "",
+         "file_name" : "ba-o1-313700_g2-000006.xml",
+         "length" : 3534,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3a5c7d4f07b14113d387eedc49a42e1ba9afce63340b7a310b1b7b1bb5087425",
+         "time" : 1735133478,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313700_g2-000006.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11369,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d685436308379cba7b31557e3e9c57c2b2e6382c4fd91f7cf33e74fb7016e064",
+         "time" : 1735133475,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-313700_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5691,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "100b14f4ab68fb7cd24704cf1aabe8c0a53d4d082ec3ef4307f1a99ca26760fd",
+         "time" : 1710302828.41391,
+         "title" : "鳥取県 東伯郡湯梨浜町 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-313700_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鳥取県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鳥取県 東伯郡湯梨浜町 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313700_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-313700_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79787,
+   "mirrorzip" : {
+      "length" : 30186,
+      "set" : "nonfree-1",
+      "sha256" : "6f5bd9b64cc4ddedaa723fd95cc24655605ac4bec95d83e05417104daeff1d47"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-313700_g2-000006",
+      "desc" : "",
+      "org" : "鳥取県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313700_g2-000006",
+      "tags" : [
+         "鳥取県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710302828.41391,
+      "title" : "鳥取県 東伯郡湯梨浜町 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C566cb4c7d816610888f1cfd10f9d232d157d4fcaae84ec48541616675a67b1fb\u001Cunknown\u001C0\u001C0"
+}

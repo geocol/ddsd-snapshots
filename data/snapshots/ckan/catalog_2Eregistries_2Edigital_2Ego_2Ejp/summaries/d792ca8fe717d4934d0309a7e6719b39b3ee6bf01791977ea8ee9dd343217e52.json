@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:2df76b39-bcba-4162-a127-9a7317a07743" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735133308,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:6b46e3b6-0656-4bb7-b24c-286c35b44b05" : {
+         "desc" : "",
+         "file_name" : "mt_town_city223069.csv.zip",
+         "length" : 1322,
+         "mime" : "application/zip",
+         "sha256" : "5c9e83a157d52bf1269e9e1a67e5d163ed4b986782939bea5b276b2d6dc8cdad",
+         "time" : 1735133545,
+         "title" : "静岡県 賀茂郡西伊豆町 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_city223069.csv.zip"
+      },
+      "file:id:7bf9640d-6ad0-43d5-8445-87558a9bc2ae" : {
+         "desc" : "",
+         "file_name" : "ba-o1-223069_g2-000003.xml",
+         "length" : 3440,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "f56e98f66e2624e618a5235a21772229c96c46a48678539cb66d05b3ddc64350",
+         "time" : 1735133547,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-223069_g2-000003.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11899,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2f1ccfdc312737e070d54d5139f6695537708787a916ea7297609f5e000d4136",
+         "time" : 1735133543,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-223069_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5507,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8b799bc7c08935e659bc2873439cf521c9651d4548918e86d20a8d3c4cbb73f2",
+         "time" : 1720010304.89256,
+         "title" : "静岡県 賀茂郡西伊豆町 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-223069_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県 賀茂郡西伊豆町 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-223069_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-223069_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 80193,
+   "mirrorzip" : {
+      "length" : 30286,
+      "set" : "nonfree-1",
+      "sha256" : "e6ae1e03c7af14d60a4a21560c65ba3061d1495f7a4c426fcad8633af339c81b"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-223069_g2-000003",
+      "desc" : "",
+      "org" : "静岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-223069_g2-000003",
+      "tags" : [
+         "静岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720010304.89256,
+      "title" : "静岡県 賀茂郡西伊豆町 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cf63e958b2a7d3989b2e618af89197c55e2a985ba1f2412d8176345b6fac897d8\u001Cunknown\u001C0\u001C0"
+}
