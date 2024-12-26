@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:617e1f67-bb3d-4415-aa1a-f9d1bf33933e" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735219785,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:d308b65b-cca4-4f29-9e05-2bea93483b56" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_city141119.csv.zip",
+         "length" : 18344,
+         "mime" : "application/zip",
+         "sha256" : "98b98dca97c37a51d835d3c4a669e9074e1418abe7d6098248b9fad702600adb",
+         "time" : 1735220074,
+         "title" : "神奈川県 横浜市 港南区 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city141119.csv.zip"
+      },
+      "file:id:d5683153-4e08-4dea-afd2-e2e2d65d78b7" : {
+         "desc" : "",
+         "file_name" : "ba-o1-141119_g2-000004.xml",
+         "length" : 3515,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "08e85c0e57aa4e32cd2ce14375914bbe4095ec7af1a52f1cc8ec54831aa29a10",
+         "time" : 1735220076,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141119_g2-000004.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11344,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "23faf1a5c04268bbccc12dd754ebaab92cd3c26ad9064f134832b871f083acd0",
+         "time" : 1735220073,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-141119_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5648,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6f7ffb40cc92e14e4c97315c9e96e9c3cf1ba4b866b6643c5d2ed84d71f71e6a",
+         "time" : 1710270579.34759,
+         "title" : "神奈川県 横浜市 港南区 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141119_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "神奈川県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "神奈川県 横浜市 港南区 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141119_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141119_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 96876,
+   "mirrorzip" : {
+      "length" : 42754,
+      "set" : "nonfree-1",
+      "sha256" : "3a91ca71b2e8d7c73bc0c9a0a2a137885f0ce3ac98ac1c48fef2c89db1b19276"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141119_g2-000004",
+      "desc" : "",
+      "org" : "神奈川県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141119_g2-000004",
+      "tags" : [
+         "神奈川県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710270579.34759,
+      "title" : "神奈川県 横浜市 港南区 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001C358f22a3a2bac4393cc81ecae7d8c614a08005eddb5b1046037c07846321ebb5\u001Cunknown\u001C0\u001C0"
+}

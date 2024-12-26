@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:3e4a7615-5644-4c0d-939c-abd1ebf1def5" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735219785,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:4f4c52af-f7cf-4153-b483-79657f778179" : {
+         "desc" : "",
+         "file_name" : "ba-o1-261092_g2-000009.xml",
+         "length" : 3547,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "e4c9b1274475a29d9096943378d498150e3ea26b1d79ee8f2692d122f99ace6e",
+         "time" : 1735219875,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-261092_g2-000009.xml"
+      },
+      "file:id:5dd55d9e-c0ae-4962-bd95-dd959ab879f6" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city261092.csv.zip",
+         "length" : 20242,
+         "mime" : "application/zip",
+         "sha256" : "382894eade4adda22f1b0f9a39cb2aa674e30668f7dffadfe7c5d826203dedf4",
+         "time" : 1735219873,
+         "title" : "京都府 京都市 伏見区 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city261092.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9964,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "62f01b6b8a73e5c44014730aaa2cb1bef066c804c6308b53b0a2829e8429cc0d",
+         "time" : 1735219872,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-261092_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5710,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "70f62d4094fe0474d7bb356623aef58341970ee40d0689060bdbf224e50050ed",
+         "time" : 1720163090.01375,
+         "title" : "京都府 京都市 伏見区 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-261092_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "京都府",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "京都府 京都市 伏見区 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-261092_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-261092_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 97488,
+   "mirrorzip" : {
+      "length" : 49172,
+      "set" : "nonfree-1",
+      "sha256" : "96170a29593b6eac65ad506578ece5f87065e281053e24b66d997619683b300e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-261092_g2-000009",
+      "desc" : "",
+      "org" : "京都府",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-261092_g2-000009",
+      "tags" : [
+         "京都府",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720163090.01375,
+      "title" : "京都府 京都市 伏見区 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C95ff20c840b4e56c5cfd97e44003e60bc52ab5a8041f246f6e3ab087c80aa3c2\u001Cunknown\u001C0\u001C0"
+}

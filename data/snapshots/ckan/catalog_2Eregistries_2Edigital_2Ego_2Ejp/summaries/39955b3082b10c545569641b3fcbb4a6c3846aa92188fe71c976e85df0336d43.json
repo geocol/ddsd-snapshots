@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:6a1c364b-cede-4633-aa48-7acf68135450" : {
+         "desc" : "",
+         "file_name" : "ba-o1-271411_g2-000008.xml",
+         "length" : 3583,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "134045951a741352551a603fd8cefb46cafb810d53398f2ac869458026e53166",
+         "time" : 1735220030,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271411_g2-000008.xml"
+      },
+      "file:id:995b0d3d-e908-48f1-913a-4137834593b7" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_pos_city271411.csv.zip",
+         "length" : 812989,
+         "mime" : "application/zip",
+         "sha256" : "956ffe7c8dc1cdbfe627223e52a0fae95aa0a2e92e125dc2ccc02aa7da73a6b2",
+         "time" : 1735220028,
+         "title" : "大阪府 堺市 堺区 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_pos_city271411.csv.zip"
+      },
+      "file:id:c45b5ffa-d5cb-4176-b43e-90e065fb1b99" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735219785,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11428,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "de304aba5ef214fb38c16d86828e2d922998fa3e6f9bc2f1acdf2406817f30a9",
+         "time" : 1735220026,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-271411_g2-000008"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5773,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b9f3750c58d02766c77ec0bbb7f743585b2d4a69f3ba6c254ccab4128b6f72b4",
+         "time" : 1710294250.63545,
+         "title" : "大阪府 堺市 堺区 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-271411_g2-000008"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大阪府",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大阪府 堺市 堺区 住居表示-住居マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271411_g2-000008"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-271411_g2-000008",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 891798,
+   "mirrorzip" : {
+      "length" : 825953,
+      "set" : "nonfree-1",
+      "sha256" : "c8a54f79613f9d3d94b31235868cfe92169b18f4c87205ca3be6c8c634a19c8c"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-271411_g2-000008",
+      "desc" : "",
+      "org" : "大阪府",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271411_g2-000008",
+      "tags" : [
+         "大阪府",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710294250.63545,
+      "title" : "大阪府 堺市 堺区 住居表示-住居マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C76db97f1f501cb707dbc8d4cdf66deaedab3471475a3f606676733db63ef98c8\u001Cunknown\u001C0\u001C0"
+}
