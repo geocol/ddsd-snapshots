@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:2cbc008c-9f18-4290-b151-585c5b31fea5" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735230011,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:5ac218b1-85f2-4c8a-9e58-26b95712f205" : {
+         "desc" : "",
+         "file_name" : "ba-o1-402214_g2-000005.xml",
+         "length" : 3486,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3bb5c978a55808c37795b9f2f16db64dc1df6bf0469464cda627c8307dd0ce49",
+         "time" : 1735230296,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-402214_g2-000005.xml"
+      },
+      "file:id:be7a53af-a551-47ff-9856-455a609459e7" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_city402214.csv.zip",
+         "length" : 328597,
+         "mime" : "application/zip",
+         "sha256" : "b8f3fa3da535f844115e53cbbef80584ef9dab553a350897539b0fc3cfa98010",
+         "time" : 1735230293,
+         "title" : "福岡県 太宰府市 住居表示-住居マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_city402214.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11258,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "61855bf8c0564a0b228a15c791a82c92254a315e1e88297306d6571140f42de6",
+         "time" : 1735230292,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-402214_g2-000005"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5586,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8097c2daebd07f24ac04e8074b05bdc7e2ddad9146136d50b6c388e6da01124b",
+         "time" : 1710314228.38133,
+         "title" : "福岡県 太宰府市 住居表示-住居マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-402214_g2-000005"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県 太宰府市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-402214_g2-000005"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-402214_g2-000005",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 406952,
+   "mirrorzip" : {
+      "length" : 252478,
+      "set" : "nonfree-1",
+      "sha256" : "259ae4deb4f962a19a844050fb2be381d5ab57668c585c035550e51d57af02f5"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-402214_g2-000005",
+      "desc" : "",
+      "org" : "福岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-402214_g2-000005",
+      "tags" : [
+         "福岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710314228.38133,
+      "title" : "福岡県 太宰府市 住居表示-住居マスター データセット"
+   },
+   "ref_key_text" : "6\u001C5ae8e4081276368d203b78004045220a46295663def150ee4392cbf0c62b8c99\u001Cunknown\u001C0\u001C0"
+}

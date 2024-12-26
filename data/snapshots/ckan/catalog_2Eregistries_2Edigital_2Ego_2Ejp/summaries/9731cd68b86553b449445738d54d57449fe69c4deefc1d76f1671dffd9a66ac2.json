@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:754f9ae7-19d0-41c7-8ad9-b1f4673b6f0d" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735230011,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:af29dde2-7ba5-4a08-b01d-43c4d5e9e64a" : {
+         "desc" : "",
+         "file_name" : "ba-o1-442071_g2-000005.xml",
+         "length" : 3486,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3f9d314e5b00a32243336848e35f0ab66c0a1511125de9073d28da2ad81a6215",
+         "time" : 1735230212,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-442071_g2-000005.xml"
+      },
+      "file:id:d1e64e9a-6ddd-4497-8d0a-1b3d3e7b5e47" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_city442071.csv.zip",
+         "length" : 56141,
+         "mime" : "application/zip",
+         "sha256" : "298ed26dfaf609a1601163361a422b988110bb306e73d33671645d4ac7cfea5a",
+         "time" : 1735230210,
+         "title" : "大分県 津久見市 住居表示-住居マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_city442071.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11258,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6969126b2d5998cb0f3fd11a17d33927ae4e12d04a8fb6cf3f7ac5820a3adea2",
+         "time" : 1735230208,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-442071_g2-000005"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5586,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6ab7bfda1e0e5f7b5667ead84a9fc68064f4c6ec826abf96e16140bd2eb3562e",
+         "time" : 1710320363.84231,
+         "title" : "大分県 津久見市 住居表示-住居マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-442071_g2-000005"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大分県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大分県 津久見市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-442071_g2-000005"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-442071_g2-000005",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 134496,
+   "mirrorzip" : {
+      "length" : 74371,
+      "set" : "nonfree-1",
+      "sha256" : "2a6749d0e007fb99c9b981fd378ad10b201fa232d38d78efcace7a10f0d3281e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-442071_g2-000005",
+      "desc" : "",
+      "org" : "大分県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-442071_g2-000005",
+      "tags" : [
+         "大分県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710320363.84231,
+      "title" : "大分県 津久見市 住居表示-住居マスター データセット"
+   },
+   "ref_key_text" : "6\u001C9b72c5c221863bcfc4a70271402c27f4da8b6521d8530868637e359cd0975537\u001Cunknown\u001C0\u001C0"
+}
