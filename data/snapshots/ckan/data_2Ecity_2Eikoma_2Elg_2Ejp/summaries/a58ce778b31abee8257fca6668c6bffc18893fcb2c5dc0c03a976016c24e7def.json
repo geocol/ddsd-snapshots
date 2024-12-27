@@ -1,0 +1,160 @@
+{
+   "files" : {
+      "file:id:5eba99d1-3a50-4792-b284-aecdb7d53492" : {
+         "desc" : "",
+         "file_name" : "r2zousho.csv",
+         "length" : 1259,
+         "mime" : "text/csv",
+         "sha256" : "7bd1f47bc91fae5083e7d6c9de5cb6ebba8d33e90e1a06cec3a2e521178aa238",
+         "time" : 1735306841,
+         "title" : "令和2年分類別蔵書冊数",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/0028a5b2-ddbc-4657-b0b7-0862d8adec11/resource/5eba99d1-3a50-4792-b284-aecdb7d53492/download/r2zousho.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14929,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f228dc0b3dee00996452508db10a5ff23e7d3f18684bff3c93fbe159147457de",
+         "time" : 1735306840,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/dataset/activity/1646109678"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2974,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c9362c57c82a3ffccea1425068c277f95d0149385aaedbba756146fd59d437ee",
+         "time" : 1646468305.82545,
+         "title" : "分類別蔵書冊数",
+         "type" : "meta",
+         "url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1646109678"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "図書館 (生涯学習部)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "分類別蔵書冊数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.ikoma.lg.jp/data/dataset/1646109678"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1646109678",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "生駒市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は以下の著作物を改変して利用しています。\u000A{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}、クリエイティブ・コモンズ・ライセンス 表示 4.0 国際（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "分類別蔵書冊数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.ikoma.lg.jp/data/dataset/1646109678"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.ikoma.lg.jp",
+            "label" : "生駒市オープンデータ利用規約 (令和元年７月２２日から適用)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 19162,
+   "mirrorzip" : {
+      "length" : 12401,
+      "set" : "free-2",
+      "sha256" : "52dca27d8a05736538202f52734b4ed5c6ee4c5078891a9ec97c2c973caad23a"
+   },
+   "package" : {
+      "author" : "図書館",
+      "ckan_api_url" : "https://data.city.ikoma.lg.jp/data/api/action/package_show?id=1646109678",
+      "desc" : "単位（冊）",
+      "org" : "生涯学習部",
+      "page_url" : "https://data.city.ikoma.lg.jp/data/dataset/1646109678",
+      "tags" : [
+         "図書館",
+         "生涯学習部",
+         "子育て・教育",
+         "統計",
+         "観光・文化"
+      ],
+      "time" : 1646468305.82545,
+      "title" : "分類別蔵書冊数"
+   },
+   "ref_key_text" : "6\u001C44ea5536cc76e69e544b27ecf280356219e2a5a5b383d5166186d7744d6de736\u001Cfree\u001C0\u001C0"
+}

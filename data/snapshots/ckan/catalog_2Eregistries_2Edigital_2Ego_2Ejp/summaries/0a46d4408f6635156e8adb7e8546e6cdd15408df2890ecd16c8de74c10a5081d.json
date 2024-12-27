@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:13469d8b-9a87-457d-8837-2e687bf16f03" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:5024a4a0-68ee-413f-b7e5-b8fe2c9e386a" : {
+         "desc" : "",
+         "file_name" : "ba-o1-403440_g2-000009.xml",
+         "length" : 3544,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "23d7616893bf44dfce10c51422eed3f69a9950a6b9badfdeb11484645cf1967f",
+         "time" : 1735306205,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-403440_g2-000009.xml"
+      },
+      "file:id:8eb84ec2-d87d-4a39-a780-8e4f1400df5b" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city403440.csv.zip",
+         "length" : 1021,
+         "mime" : "application/zip",
+         "sha256" : "670359a987f9c61ab74383f4c50e2b0d867a1dccb1d46cecc4af6d386d249150",
+         "time" : 1735306203,
+         "title" : "福岡県 糟屋郡須恵町 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city403440.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9248,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "44516e24f48bfd3c81baa3eed9d2d5d1556215ee3e39182b86f96c6953468da4",
+         "time" : 1735306201,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-403440_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5707,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1cf0e6c2592b8137d91c4be6195a1f83f8cb87582f86e7e12bacf8bb8e85f0ec",
+         "time" : 1710314910.8191,
+         "title" : "福岡県 糟屋郡須恵町 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-403440_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県 糟屋郡須恵町 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-403440_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-403440_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 77545,
+   "mirrorzip" : {
+      "length" : 29921,
+      "set" : "nonfree-1",
+      "sha256" : "66c2654fcd78ab368a14cd07ff12bb12bbfbeb1cd4bacfd71c2df999facd3cd2"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-403440_g2-000009",
+      "desc" : "",
+      "org" : "福岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-403440_g2-000009",
+      "tags" : [
+         "福岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710314910.8191,
+      "title" : "福岡県 糟屋郡須恵町 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001Cd8eb83a3652c16380309427c20c699968dd8e939f943ecc72dfb98e8ce8ee796\u001Cunknown\u001C0\u001C0"
+}

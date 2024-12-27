@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:1c3a0c1c-fab4-45f3-8008-27069d5871d3" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:3643625e-c19d-4703-9078-97e22fe9b1a2" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_city014231.csv.zip",
+         "length" : 25934,
+         "mime" : "application/zip",
+         "sha256" : "eddeec8aaec240a0da3f64f034d426a9e97b8e183d38e0fca382d8e837c91282",
+         "time" : 1735306180,
+         "title" : "北海道 空知郡南幌町 住居表示-住居マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_city014231.csv.zip"
+      },
+      "file:id:e5bbddbc-16d1-46da-b12d-e237098bb3f5" : {
+         "desc" : "",
+         "file_name" : "ba-o1-014231_g2-000005.xml",
+         "length" : 3504,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "14b8ab4c831c17434da2059e0d153303c6a8d732301081db42420ae3f482fe8a",
+         "time" : 1735306182,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-014231_g2-000005.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11306,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "43548d41f2ac5a6144be932a6bb563a7dca1c1f2f5d5e699ad2d1cdf86646cc3",
+         "time" : 1735306178,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-014231_g2-000005"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5622,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2762f7a09be2e6cd827a409f1ab9ead4e360ab9ffbedae5669a20b207f13ee3c",
+         "time" : 1710240353.61396,
+         "title" : "北海道 空知郡南幌町 住居表示-住居マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-014231_g2-000005"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "北海道",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "北海道 空知郡南幌町 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-014231_g2-000005"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-014231_g2-000005",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 104391,
+   "mirrorzip" : {
+      "length" : 50574,
+      "set" : "nonfree-1",
+      "sha256" : "b04ac01b0c522f3a94583966300d813544ff4ef56e3d4a30260ba0e8a03da8ad"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-014231_g2-000005",
+      "desc" : "",
+      "org" : "北海道",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-014231_g2-000005",
+      "tags" : [
+         "北海道",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710240353.61396,
+      "title" : "北海道 空知郡南幌町 住居表示-住居マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cbdf48929dd5b0dac3b4c0fd277bfc7bba3d744dc43992422be0cca54c2fd018c\u001Cunknown\u001C0\u001C0"
+}
