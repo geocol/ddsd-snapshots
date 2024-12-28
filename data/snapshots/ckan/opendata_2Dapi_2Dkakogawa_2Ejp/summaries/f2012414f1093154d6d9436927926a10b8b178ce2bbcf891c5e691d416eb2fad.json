@@ -1,0 +1,136 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:5f629f4e-a102-4837-a4fc-ba85df9ee08c" : {
+         "desc" : "",
+         "file_name" : "_csv",
+         "length" : 2943,
+         "mime" : "text/csv",
+         "sha256" : "60fbbd94a8f656b996cd7888f1cfc5e398232486aef4f27277e892017c072488",
+         "time" : 1735404584,
+         "title" : "河川情報",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/8f7a3355-5f33-49b4-8071-3560d153e653/resource/5f629f4e-a102-4837-a4fc-ba85df9ee08c/download/.csv"
+      },
+      "file:id:8a6e204e-9011-4c75-84a9-68f8ae529495" : {
+         "desc" : "",
+         "set_type" : "fiware-ngsi",
+         "time" : 1520224228.90755,
+         "title" : "河川情報",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=RiverInfo"
+      },
+      "file:id:a5ae5094-a59c-442d-9a4f-df94e133b7ad" : {
+         "desc" : "",
+         "file_name" : "riverinfo.json",
+         "length" : 20165,
+         "mime" : "application/json",
+         "sha256" : "d77acfea460b892c1f26a2225f2695e094976ac63ce5ea7b20b012a8069f4214",
+         "time" : 1735404583,
+         "title" : "河川情報",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/8f7a3355-5f33-49b4-8071-3560d153e653/resource/a5ae5094-a59c-442d-9a4f-df94e133b7ad/download/riverinfo.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 36012,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "59c09d72475498e74533c25bc5a7da28e0f01007c33aa65cb4d11977fa5bdc9b",
+         "time" : 1735404586,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/riverinfo"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 13142,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c2ef0eb23e1c10cef148d5e4dc727a400a529cd6639487f130d8eb0426fe6915",
+         "time" : 1705474080.39169,
+         "title" : "河川情報",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=riverinfo"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "河川情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/riverinfo"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=riverinfo",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 72262,
+   "mirrorzip" : {
+      "length" : 16836,
+      "set" : "nonfree-1",
+      "sha256" : "4609546029b8146c571427f6ebfedbbc6e15aa6490f2b462667908aceee3612f"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=riverinfo",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/riverinfo",
+      "tags" : [
+         "加古川市",
+         "防災･安全",
+         "河川"
+      ],
+      "time" : 1705474080.39169,
+      "title" : "河川情報"
+   },
+   "ref_key_text" : "6\u001Cf8478a581ea75e621c89566efc7dd5534f6339e706e0815b58197c627676a9c2\u001Cunknown\u001C0\u001C0"
+}

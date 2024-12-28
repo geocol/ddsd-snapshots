@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:02c3cf5c-4d34-4045-a7a3-5682f449c674" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:9eca4435-b9b0-4de0-bbaa-4875499b85f6" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city332071.csv.zip",
+         "length" : 3871,
+         "mime" : "application/zip",
+         "sha256" : "359392a52aaa792004195c4baa5552a004b95b73b72a655f632e0b8cae432fa9",
+         "time" : 1735403079,
+         "title" : "岡山県 井原市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city332071.csv.zip"
+      },
+      "file:id:be31648c-ee3e-4110-935e-11ab7eed5f00" : {
+         "desc" : "",
+         "file_name" : "ba-o1-332071_g2-000007.xml",
+         "length" : 3570,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "5f7325cdd4b33bc1f70967a98a0ce984a252e04003f362f2889bbf9e0ef96ad6",
+         "time" : 1735403080,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-332071_g2-000007.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11396,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ee7fb2ea1bc16ce0e0a3535fa96d890279b83a59c8f760624bfea8cae7ec9640",
+         "time" : 1735403077,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-332071_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5751,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "13a196861415d6c9f375625ebc983675db1e4d9998a31f914a3d12869cc5ee35",
+         "time" : 1710304561.03308,
+         "title" : "岡山県 井原市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-332071_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岡山県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岡山県 井原市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-332071_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-332071_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82613,
+   "mirrorzip" : {
+      "length" : 32899,
+      "set" : "nonfree-1",
+      "sha256" : "59a6d63868e4db8f06a4061cc2e61ebec5472b2c8a292aecde8f2f0dd3231e63"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-332071_g2-000007",
+      "desc" : "",
+      "org" : "岡山県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-332071_g2-000007",
+      "tags" : [
+         "岡山県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710304561.03308,
+      "title" : "岡山県 井原市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C461bec63fc998d8fbd4c5da0ac068fb03559da0dac3d52991559fa4cae40871d\u001Cunknown\u001C0\u001C0"
+}

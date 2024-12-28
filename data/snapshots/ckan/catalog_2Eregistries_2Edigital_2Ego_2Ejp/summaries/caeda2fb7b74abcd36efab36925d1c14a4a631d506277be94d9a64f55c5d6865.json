@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:1cec3716-8753-4bbe-bca8-09d2480867b9" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:60541205-41b7-4273-9fce-42e01bfb9c62" : {
+         "desc" : "",
+         "file_name" : "ba-o1-063215_g2-000009.xml",
+         "length" : 3553,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "59027471371e091da9a5a5886c360fd93838ee3018d90f7482e8f259fc17f8cf",
+         "time" : 1735402869,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-063215_g2-000009.xml"
+      },
+      "file:id:8cedccb3-092d-44bd-ac62-3e202cd4d875" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city063215.csv.zip",
+         "length" : 5454,
+         "mime" : "application/zip",
+         "sha256" : "64fc8a273256a8ad6868c699b880703775e597cc30420c2dd1c628d8a0c043b4",
+         "time" : 1735402867,
+         "title" : "山形県 西村山郡河北町 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city063215.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9976,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "977e8e09981e04ede225bd83be66fb22ce0e6fe7b7d61af7e622763a22ada0ab",
+         "time" : 1735402866,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-063215_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5725,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c1cfecafd75c013505b0b094921e2a41b73a606c50273745c82e211ada85e520",
+         "time" : 1720159957.8369,
+         "title" : "山形県 西村山郡河北町 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-063215_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山形県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山形県 西村山郡河北町 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-063215_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-063215_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82733,
+   "mirrorzip" : {
+      "length" : 34405,
+      "set" : "nonfree-1",
+      "sha256" : "32642b18f31ce773ca5f71ff3f89a37295c674f1ca41590a70f8c67bfed0bea0"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-063215_g2-000009",
+      "desc" : "",
+      "org" : "山形県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-063215_g2-000009",
+      "tags" : [
+         "山形県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720159957.8369,
+      "title" : "山形県 西村山郡河北町 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C1b28909b09415c5d4e0e44c5841ac2734e95fecfa90905fa5e5d25503c27ac53\u001Cunknown\u001C0\u001C0"
+}

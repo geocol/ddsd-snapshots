@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:7c3e0c02-89ec-47f6-a428-afed28e3f2e6" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:d9ee1d9c-e424-481f-8f1c-af74b5291fe1" : {
+         "desc" : "",
+         "file_name" : "ba-o1-402231_g2-000008.xml",
+         "length" : 3571,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "c2e607113fa11e9c26e230b26ebedb5a48fd70afdf80b64f8b493b58bdbb951b",
+         "time" : 1735402882,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-402231_g2-000008.xml"
+      },
+      "file:id:e902670f-7951-477e-8bde-bc5844584024" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_pos_city402231.csv.zip",
+         "length" : 357902,
+         "mime" : "application/zip",
+         "sha256" : "dc97b87fdb52fdc5198365c8e545e6d86284743f837af14e7825fff999f92fd9",
+         "time" : 1735402880,
+         "title" : "福岡県 古賀市 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_pos_city402231.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11396,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "65072cbf40ae01bc7d1030eedbe2bc38d2590884169297ca2c96c8e28f7e7c2a",
+         "time" : 1735402878,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-402231_g2-000008"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5752,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "ab0005b8337b33e390323d54c00b57b3ebcf24ddb6adcbab4d396f2e543bb9cd",
+         "time" : 1710314293.13884,
+         "title" : "福岡県 古賀市 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-402231_g2-000008"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県 古賀市 住居表示-住居マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-402231_g2-000008"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-402231_g2-000008",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 436646,
+   "mirrorzip" : {
+      "length" : 380878,
+      "set" : "nonfree-1",
+      "sha256" : "a1d692f8073ee74360160a99cab8ece94a9c2702fa2240ecbb78e68078e6ac49"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-402231_g2-000008",
+      "desc" : "",
+      "org" : "福岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-402231_g2-000008",
+      "tags" : [
+         "福岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710314293.13884,
+      "title" : "福岡県 古賀市 住居表示-住居マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cdc182716a743963f6a446391925dd6bddff170f66dd483894f9b9e66669b3c6e\u001Cunknown\u001C0\u001C0"
+}

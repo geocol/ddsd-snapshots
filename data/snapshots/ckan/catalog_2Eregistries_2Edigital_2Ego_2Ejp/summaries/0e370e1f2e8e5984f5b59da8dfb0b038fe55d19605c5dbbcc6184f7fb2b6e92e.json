@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:670ddf9f-2d44-4b5b-a4ba-6cbce34ec4dd" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:cdba307b-3d2b-4e61-bb42-87b0073e652a" : {
+         "desc" : "",
+         "file_name" : "ba-o1-450006_g2-000007.xml",
+         "length" : 3536,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "fcdf39de03c073791b1bd2408cf61df9aa72df77f508e42e0783b9eda74a85e8",
+         "time" : 1735402820,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-450006_g2-000007.xml"
+      },
+      "file:id:ef830541-62a7-4045-afb4-982c21402c6d" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_pref45.csv.zip",
+         "length" : 124067,
+         "mime" : "application/zip",
+         "sha256" : "d146e79fcc95fc8133a44b02f40f4c9516327bcb50798c62eeee8eff1ac491c8",
+         "time" : 1735402818,
+         "title" : "宮崎県 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_pref45.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11316,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dc3be600f280188e9ad2a3a4d05a4284fd7836c5c6dc80e255149d1d7cc1ce58",
+         "time" : 1735402816,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-450006_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5690,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d300f4393e1d0a1f4aed2f233d16864f453cc37a40ae6d104ef9d76484ad4406",
+         "time" : 1710236303.20773,
+         "title" : "宮崎県 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-450006_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-450006_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-450006_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 202634,
+   "mirrorzip" : {
+      "length" : 151862,
+      "set" : "nonfree-1",
+      "sha256" : "d5eaa056da5136abc99ddba39f08800166dcd866fbd032045803efa4c67f68f0"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-450006_g2-000007",
+      "desc" : "",
+      "org" : "宮崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-450006_g2-000007",
+      "tags" : [
+         "宮崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710236303.20773,
+      "title" : "宮崎県 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cdcbd1ae4eabb9ec6616a96d9f74b281cbf8c63d0d9632b5463d8f6bf2132bc88\u001Cunknown\u001C0\u001C0"
+}
