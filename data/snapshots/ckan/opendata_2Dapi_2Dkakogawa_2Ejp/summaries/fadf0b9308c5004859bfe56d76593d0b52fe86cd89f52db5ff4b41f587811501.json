@@ -1,0 +1,128 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:84651155-c70e-45a7-90b0-b58a3c2e2e89" : {
+         "desc" : "",
+         "set_type" : "fiware-ngsi",
+         "time" : 1542090306.31778,
+         "title" : "地域包括支援センター",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SupportCenter&limit=1000"
+      },
+      "file:id:a9fb0f80-ba8c-4109-8c1a-58059899741f" : {
+         "desc" : "",
+         "file_name" : "65_tiikihoukatushiencenter.csv",
+         "length" : 910,
+         "mime" : "text/csv",
+         "sha256" : "3d5bad854017733e0a174b00a5ce562224f5a5283bd2df44f7384dc19d7173d4",
+         "time" : 1735393217,
+         "title" : "地域包括支援センター",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/9521d062-15be-46a2-9477-6e015c8d61c6/resource/a9fb0f80-ba8c-4109-8c1a-58059899741f/download/65_tiikihoukatushiencenter.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28056,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "316360b23c7a20e1ce76118f8220589ab50123eb95bffdc416f91bd940f55b32",
+         "time" : 1735393218,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/supportcenter"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 10620,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "0ebb7b7904955d9c9c70d3864d2634de9160344ed8055fd86ab448f227aebcef",
+         "time" : 1702962838.78384,
+         "title" : "地域包括支援センター",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=supportcenter"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "地域包括支援センター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/supportcenter"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=supportcenter",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 39586,
+   "mirrorzip" : {
+      "length" : 13580,
+      "set" : "nonfree-1",
+      "sha256" : "19a3b431d387ccc432d544748be6027b014f480eb3a84c32f6695f6a4b8dc1ae"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=supportcenter",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/supportcenter",
+      "tags" : [
+         "加古川市",
+         "福祉・健康",
+         "センター",
+         "地域包括",
+         "地域包括支援センター",
+         "支援"
+      ],
+      "time" : 1702962838.78384,
+      "title" : "地域包括支援センター"
+   },
+   "ref_key_text" : "6\u001Cf00724bdaa2eaa9b3ed2982257ba3a5e9786b7621b5f4c22286be298beed6a50\u001Cunknown\u001C0\u001C0"
+}

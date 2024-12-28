@@ -1,0 +1,123 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:0821c215-7814-4a9f-b47e-c131132c87fa" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556487.22636,
+         "title" : "震度分布_海溝型地震",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SeismicIntensityDistribution&idPattern=\u005C.TrenchType\u005C."
+      },
+      "file:id:dbc8c031-c296-4adf-892f-a3aa610fc22d" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556579.14346,
+         "title" : "震度分布_断層型地震",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SeismicIntensityDistribution&idPattern=\u005C.FaultType\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18230,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c4f3a8c8b46d63d1ce40d55bb059b66752ded1cab872bdc5ccec3a78a90f9020",
+         "time" : 1735393053,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/seismicintensitydistribution"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 10344,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "0155c4fa9ff90b05e3368c12fae1302872067fa3e748f74240b4bb222ff974de",
+         "time" : 1705556579.1313,
+         "title" : "震度分布",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=seismicintensitydistribution"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "震度分布",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/seismicintensitydistribution"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=seismicintensitydistribution",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 28574,
+   "mirrorzip" : {
+      "length" : 10955,
+      "set" : "nonfree-1",
+      "sha256" : "24e90fc876afc38c161f376e6b91ff61a414bff58eb0f67f7b86526427264ed5"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=seismicintensitydistribution",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/seismicintensitydistribution",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705556579.1313,
+      "title" : "震度分布"
+   },
+   "ref_key_text" : "6\u001C4f0817b95c685bff91fdd554825714d47d4fb40ec9a98c5e243bf8830adf151a\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:66667cb4-e6a8-41ca-a68a-9b94e9b00856" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735304919,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:daa00144-7fd1-4634-9a2f-47c9c9ba7caf" : {
+         "desc" : "",
+         "file_name" : "ba-o1-412040_g2-000009.xml",
+         "length" : 3517,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "656a5e5602e7342ad8195553f9c6fb0d25209d57bcf647930cc316c7a002b563",
+         "time" : 1735392635,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412040_g2-000009.xml"
+      },
+      "file:id:f171adcc-3f95-470a-b60b-a5ba1b4094bb" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city412040.csv.zip",
+         "length" : 2558,
+         "mime" : "application/zip",
+         "sha256" : "ea3aa77b93042bf55858ecf8e71f183098316aa102117989b3289edd2d580832",
+         "time" : 1735392633,
+         "title" : "佐賀県 多久市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city412040.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9905,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "31e957307e3fe452f14b6e073b938baa06c7dad27c1a53a385506c44cfee8f70",
+         "time" : 1735392632,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-412040_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5653,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e4183a8cc4d0224162e20be64ddf47f8eae899836c8b3412f8aab2750ea80a65",
+         "time" : 1723528900.66211,
+         "title" : "佐賀県 多久市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412040_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "佐賀県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "佐賀県 多久市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412040_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412040_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79658,
+   "mirrorzip" : {
+      "length" : 31469,
+      "set" : "nonfree-1",
+      "sha256" : "4f5c782e121cf70681b56a8e8db377d35d01e5577994bee879dd0b13f1b5b580"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412040_g2-000009",
+      "desc" : "",
+      "org" : "佐賀県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412040_g2-000009",
+      "tags" : [
+         "佐賀県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1723528900.66211,
+      "title" : "佐賀県 多久市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C7115cf628ceba295b7a5bef6e1f99ed995521698244919a621028fc485bc4931\u001Cunknown\u001C0\u001C0"
+}

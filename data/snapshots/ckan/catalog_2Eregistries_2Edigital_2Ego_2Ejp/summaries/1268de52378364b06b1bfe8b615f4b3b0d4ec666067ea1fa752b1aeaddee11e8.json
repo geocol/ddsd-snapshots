@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:80f4252b-0f99-48cc-b888-b2785dea3844" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_pos_city141097.csv.zip",
+         "length" : 1172829,
+         "mime" : "application/zip",
+         "sha256" : "91d83f7f35282da3667809841414b060ae327d3c76b2864199e5160cca91cb40",
+         "time" : 1735392626,
+         "title" : "神奈川県 横浜市 港北区 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_pos_city141097.csv.zip"
+      },
+      "file:id:d1025ad7-7f92-406e-87b4-f0a9ee7eaef5" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735304919,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:d57a6be2-a28d-48bb-8453-d646d581cc61" : {
+         "desc" : "",
+         "file_name" : "ba-o1-141097_g2-000008.xml",
+         "length" : 3610,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "0ee2a0c84a6eb0f528a2f9c36a39290ec2cd201c7b36b88fe3df1a862f45f27d",
+         "time" : 1735392628,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141097_g2-000008.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11440,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "68f9982cbcb76c56aaeb125519d8055bf2fdb86d9f4ad0aa82ea961e3a2b3a59",
+         "time" : 1735392625,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-141097_g2-000008"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5833,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e8ee8afe8249a733c65c1e6a580e67aae4cc65335cc2c10dfef6e4136cae5be0",
+         "time" : 1710270474.75036,
+         "title" : "神奈川県 横浜市 港北区 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141097_g2-000008"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "神奈川県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "神奈川県 横浜市 港北区 住居表示-住居マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141097_g2-000008"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141097_g2-000008",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1251737,
+   "mirrorzip" : {
+      "length" : 1174203,
+      "set" : "nonfree-1",
+      "sha256" : "4115d5aa2626f3ef99509b09b94adfc6802bea6e8a6f94f8dcd7f66680e97d80"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-141097_g2-000008",
+      "desc" : "",
+      "org" : "神奈川県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-141097_g2-000008",
+      "tags" : [
+         "神奈川県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710270474.75036,
+      "title" : "神奈川県 横浜市 港北区 住居表示-住居マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Ce87d62a6ecb5f406f4b706ef881d65ceb1d9d4e6dafda36ba9685ded429bea28\u001Cunknown\u001C0\u001C0"
+}

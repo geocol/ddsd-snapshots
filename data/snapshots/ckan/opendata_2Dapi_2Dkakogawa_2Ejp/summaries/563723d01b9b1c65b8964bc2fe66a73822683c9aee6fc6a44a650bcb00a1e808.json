@@ -1,0 +1,141 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:a6abaff9-4212-4f06-b8c2-462b79582207" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705554791.00832,
+         "title" : "土砂災害警戒区域_土石流",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SedimentDisaster&idPattern=\u005C.LandslideWarningAreaMudFlow\u005C."
+      },
+      "file:id:c7fc31c7-df63-48ac-b873-d0c71a89a05d" : {
+         "desc" : "",
+         "file_name" : "entities-4",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705555289.05434,
+         "title" : "土砂災害特別警戒区域_急傾斜",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SedimentDisaster&idPattern=\u005C.LandslideSpecialWarningAreaSteepSlope\u005C."
+      },
+      "file:id:e0ec1b50-9a9b-4c7f-a6eb-c9a06f349d47" : {
+         "desc" : "",
+         "file_name" : "entities-3",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705555125.84367,
+         "title" : "土砂災害警戒区域_急傾斜",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SedimentDisaster&idPattern=\u005C.LandslideWarningAreaSteepSlope\u005C."
+      },
+      "file:id:fba0a0c7-a5fd-465f-af5e-e33844c66145" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705555008.35532,
+         "title" : "土砂災害特別警戒区域_土石流",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SedimentDisaster&idPattern=\u005C.LandslideSpecialWarningAreaMudFlow\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19206,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "27f3518b8916417768b036a970ffc32aa178e1cfe18cfa4f9e1d845aff558dd4",
+         "time" : 1735393047,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/sedimentdisaster"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 19301,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "afb09c24ca25d65c5db8f5b597a8e207f9f95cf26521858d8becedb2752ae6f1",
+         "time" : 1705555289.03925,
+         "title" : "土砂災害",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=sedimentdisaster"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "土砂災害",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/sedimentdisaster"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=sedimentdisaster",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 38507,
+   "mirrorzip" : {
+      "length" : 11240,
+      "set" : "nonfree-1",
+      "sha256" : "2e061c1a331d392b0af77a481a6a08368cc536e8248eaea790aefbb9fa8ffb63"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=sedimentdisaster",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/sedimentdisaster",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705555289.03925,
+      "title" : "土砂災害"
+   },
+   "ref_key_text" : "6\u001Caf958571c1b247fa6418aa72924b59e831df9299a555817f812eded9bbffddf5\u001Cunknown\u001C0\u001C0"
+}
