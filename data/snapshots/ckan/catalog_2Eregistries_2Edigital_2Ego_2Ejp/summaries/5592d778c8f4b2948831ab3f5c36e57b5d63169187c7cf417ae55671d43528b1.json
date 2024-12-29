@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:086c7ce0-e1ab-41ea-bab4-8710028f1f76" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:155d2c28-2ac1-4645-bda1-c4237ba7509b" : {
+         "desc" : "",
+         "file_name" : "ba-o1-202053_g2-000006.xml",
+         "length" : 3498,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "5c3f1439c47f4f03899af09fda4534498595189f30cf19a68533387c47b63a74",
+         "time" : 1735489263,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-202053_g2-000006.xml"
+      },
+      "file:id:dace7748-bc09-4cd3-8ef7-10c9de222ddf" : {
+         "desc" : "",
+         "file_name" : "mt_town_pos_city202053.csv.zip",
+         "length" : 6044,
+         "mime" : "application/zip",
+         "sha256" : "7c44f90ae310e3e812942222c893678f2caa5cb100a73be6e2588a9e0f664c8d",
+         "time" : 1735489261,
+         "title" : "長野県 飯田市 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city202053.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11273,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e468ff9523d0845eb8272e34942619a9f0e418f81fe3f86a958b83194defb601",
+         "time" : 1735489260,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-202053_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5619,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b50f80d04d5566680d98842c06971190122b15b09465274ffd3f9fc0ee67ae61",
+         "time" : 1710279109.57281,
+         "title" : "長野県 飯田市 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-202053_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 飯田市 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-202053_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-202053_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 84459,
+   "mirrorzip" : {
+      "length" : 35007,
+      "set" : "nonfree-1",
+      "sha256" : "91d463d7107e47e29e112497bb8c5eed803c0b5d52e769875f5e843014f027b0"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-202053_g2-000006",
+      "desc" : "",
+      "org" : "長野県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-202053_g2-000006",
+      "tags" : [
+         "長野県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710279109.57281,
+      "title" : "長野県 飯田市 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C5d5d4507bdafe2b28c6b6b7512445c2cd9ca04a2b4610b03512fd7f729a85666\u001Cunknown\u001C0\u001C0"
+}

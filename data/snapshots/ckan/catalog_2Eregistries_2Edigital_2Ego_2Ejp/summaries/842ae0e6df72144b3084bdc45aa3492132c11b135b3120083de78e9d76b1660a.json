@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:0fae85dc-9dc1-45fd-ac2b-add8e405c192" : {
+         "desc" : "",
+         "file_name" : "ba-o1-423220_g2-000009.xml",
+         "length" : 3553,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "dfda2dbec4d958bb6c572f71fd302fe4cbf7fd280952e72a65eec21e54b8cea8",
+         "time" : 1735489311,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-423220_g2-000009.xml"
+      },
+      "file:id:44a082f3-4ae1-4c92-b3c4-c9a0a43c9887" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:f94ae22d-4f31-47ee-8f37-967258aefbbb" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city423220.csv.zip",
+         "length" : 1781,
+         "mime" : "application/zip",
+         "sha256" : "815f7ec14132887e2961b5230e6b75643eec885b1a2de6d6d6cbeb2668386e3b",
+         "time" : 1735489309,
+         "title" : "長崎県 東彼杵郡川棚町 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city423220.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9976,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "73be3b4165fba6dea2ea2cf65cee14b1d485705100d3f34dbcb5907b9eacb938",
+         "time" : 1735489308,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-423220_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5725,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "014e5558916a7dd21747aee03b6c0726648a0d252f18b92105e4198aa35bcb7d",
+         "time" : 1720165002.77784,
+         "title" : "長崎県 東彼杵郡川棚町 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-423220_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長崎県 東彼杵郡川棚町 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-423220_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-423220_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79060,
+   "mirrorzip" : {
+      "length" : 30778,
+      "set" : "nonfree-1",
+      "sha256" : "a35cfeaa6d045250a17ff926879beb006671fefe00ecb5631f1fc2a5f1eca4e4"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-423220_g2-000009",
+      "desc" : "",
+      "org" : "長崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-423220_g2-000009",
+      "tags" : [
+         "長崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720165002.77784,
+      "title" : "長崎県 東彼杵郡川棚町 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C9802b490471454eb48ce9549431d8ba8bc80fb74e983584a19b830dc4478c382\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:0d47b5ec-7cdb-4441-af3d-599658a538ef" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:222c2271-d2ec-4407-bdc1-61a8fcf99ec6" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city152137.csv.zip",
+         "length" : 23997,
+         "mime" : "application/zip",
+         "sha256" : "ea77b17db7dc49a4cd376c33fe1e6a6d0a4a0cb28f4331c9ede9057767c6e9e0",
+         "time" : 1735489275,
+         "title" : "新潟県 燕市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city152137.csv.zip"
+      },
+      "file:id:ae9e431f-e5ef-4dbe-b58b-06b4124776bb" : {
+         "desc" : "",
+         "file_name" : "ba-o1-152137_g2-000007.xml",
+         "length" : 3561,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "c7be9e119c779d50744a6678bac5056fab0f379c179d0cd83d26d99806fed698",
+         "time" : 1735489276,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-152137_g2-000007.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11372,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "cb217fc9d0f72c3fe0616127a78ff93d7a14c592cf06121876b11ca08890e514",
+         "time" : 1735489273,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-152137_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5733,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4dc9177b6467f4a80f1d95bdaaa026802f58039c5b8ab5040799472e09f1b361",
+         "time" : 1710274205.14129,
+         "title" : "新潟県 燕市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-152137_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "新潟県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "新潟県 燕市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-152137_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-152137_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 102688,
+   "mirrorzip" : {
+      "length" : 52924,
+      "set" : "nonfree-1",
+      "sha256" : "dfaa465a9ffe1371c2f4c82de0d5eeb81bff8fcfce892a7ab28700a3fef84fbf"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-152137_g2-000007",
+      "desc" : "",
+      "org" : "新潟県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-152137_g2-000007",
+      "tags" : [
+         "新潟県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710274205.14129,
+      "title" : "新潟県 燕市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C93738b8cd131ba92396283b33f3e4653543182571b8baa26ae6c5c94890cb54a\u001Cunknown\u001C0\u001C0"
+}

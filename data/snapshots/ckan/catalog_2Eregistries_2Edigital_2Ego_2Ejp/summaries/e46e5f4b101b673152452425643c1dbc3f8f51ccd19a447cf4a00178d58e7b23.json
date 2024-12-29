@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:a947f74b-4e17-495c-9dae-7b560283442f" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:de676dd4-7b28-42ed-a066-cc913f4d8881" : {
+         "desc" : "",
+         "file_name" : "ba-o1-202045_g2-000004.xml",
+         "length" : 3476,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "5d71320a92b413352c1dafb128634960ac37a49148508dc0d17f1b1cfa78ab51",
+         "time" : 1735489476,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-202045_g2-000004.xml"
+      },
+      "file:id:e941b404-6d17-4eae-96cb-8662e95634c3" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_city202045.csv.zip",
+         "length" : 9415,
+         "mime" : "application/zip",
+         "sha256" : "3af6ab54afc8bc4e6508a40594b38dfcd615d9ee08befc804d6ce045bac0dd47",
+         "time" : 1735489474,
+         "title" : "長野県 岡谷市 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city202045.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11234,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3fd3ecd94968805908ad0785ff4786ce6b5313feaecf4da8bdbfa2914ee53af9",
+         "time" : 1735489473,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-202045_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5567,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "5fc28f2e5d5bf0b3fd763452f75eff421528ee84d65958a40f7cdbb4d6b2c3e4",
+         "time" : 1710279054.30905,
+         "title" : "長野県 岡谷市 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-202045_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 岡谷市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-202045_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-202045_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 87717,
+   "mirrorzip" : {
+      "length" : 37370,
+      "set" : "nonfree-1",
+      "sha256" : "191f0fba1fdcf2ba275470e3a78013091780108244bdd3f223a07d893d83ae3e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-202045_g2-000004",
+      "desc" : "",
+      "org" : "長野県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-202045_g2-000004",
+      "tags" : [
+         "長野県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710279054.30905,
+      "title" : "長野県 岡谷市 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cbe617ce7b744a7b37bcacd75a34a121cf37715d57c25a16be48fb14843e35600\u001Cunknown\u001C0\u001C0"
+}

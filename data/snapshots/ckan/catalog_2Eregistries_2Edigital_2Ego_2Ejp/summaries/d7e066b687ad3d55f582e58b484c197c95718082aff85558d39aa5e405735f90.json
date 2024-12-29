@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:36e50210-89b8-4eac-908a-16ae84d73a2a" : {
+         "desc" : "",
+         "file_name" : "ba-o1-343048_g2-000007.xml",
+         "length" : 3597,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "65413bc23e6c3569fabd8e4540aa05bab777d3194eeead3a89b9508b0ec37cfa",
+         "time" : 1735489407,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-343048_g2-000007.xml"
+      },
+      "file:id:6a086636-b673-49d1-8784-a90bca4f93ef" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city343048.csv.zip",
+         "length" : 13929,
+         "mime" : "application/zip",
+         "sha256" : "15e437a02ef36d6b4bbb3b3a2cc332aea4af36107529cf96f443b1d369e0393b",
+         "time" : 1735489406,
+         "title" : "広島県 安芸郡海田町 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city343048.csv.zip"
+      },
+      "file:id:e6188757-8122-45b8-9638-96946df70328" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11468,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a015eacb598026e7e807c0099749bd4c015c0d90d70dc448f92bae898d082d23",
+         "time" : 1735489404,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-343048_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5805,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c635650fc3edeef0723dfd1a404831214e6c1ab73e4a6c2d7de0946ca8b1ce59",
+         "time" : 1710306925.17136,
+         "title" : "広島県 安芸郡海田町 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-343048_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県 安芸郡海田町 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-343048_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-343048_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 92824,
+   "mirrorzip" : {
+      "length" : 42948,
+      "set" : "nonfree-1",
+      "sha256" : "2e412c3e040213174bf6cb07cef217599dee3c45567741303de15d1cbdba23e4"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-343048_g2-000007",
+      "desc" : "",
+      "org" : "広島県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-343048_g2-000007",
+      "tags" : [
+         "広島県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710306925.17136,
+      "title" : "広島県 安芸郡海田町 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C1b042b5065acc7e2061520183b8b2dec04baa0dd75fd2c31b7f9c68b12f7a28f\u001Cunknown\u001C0\u001C0"
+}

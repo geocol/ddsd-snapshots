@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:6b177d7d-405b-46b5-84b9-01ffb616bd59" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:e19d579c-6266-48b4-9827-facfbfb5b426" : {
+         "desc" : "",
+         "file_name" : "ba-o1-064289_g2-000007.xml",
+         "length" : 3606,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "30738aea4a3164182ea9ae394c86c67ce44ae214cf9b3ec9e679c5e533072a1d",
+         "time" : 1735489360,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-064289_g2-000007.xml"
+      },
+      "file:id:fab97532-f0e6-47f8-906f-ef6bda9203fa" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city064289.csv.zip",
+         "length" : 529,
+         "mime" : "application/zip",
+         "sha256" : "f8b7e18e6e12e072a129e8d58408187830870fd3ca637d3de17aea3d3541b493",
+         "time" : 1735489358,
+         "title" : "山形県 東田川郡庄内町 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city064289.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11426,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "8362f8adba2e80d8b5650faf95badce92e2460906b3593acc25ead7fbc410ed4",
+         "time" : 1735489357,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-064289_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5823,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "385930e1d00afd8ef6d97f3fe7699f8248169f0a5fe69b725a9c5fd0d49cfa32",
+         "time" : 1710252688.4689,
+         "title" : "山形県 東田川郡庄内町 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-064289_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山形県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山形県 東田川郡庄内町 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-064289_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-064289_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79409,
+   "mirrorzip" : {
+      "length" : 29612,
+      "set" : "nonfree-1",
+      "sha256" : "b1644de9749ab637dccb309cbca5f403c668c869d713c01c581e154cfc9ed157"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-064289_g2-000007",
+      "desc" : "",
+      "org" : "山形県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-064289_g2-000007",
+      "tags" : [
+         "山形県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710252688.4689,
+      "title" : "山形県 東田川郡庄内町 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cf9ea3ef73f4e54aebdcf7a27d4672de1f6ab255554e6a28abd06b875c2c01c4a\u001Cunknown\u001C0\u001C0"
+}
