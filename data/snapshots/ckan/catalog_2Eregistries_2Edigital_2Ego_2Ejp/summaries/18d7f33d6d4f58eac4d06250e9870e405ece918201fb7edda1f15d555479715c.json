@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:4327f743-c2d9-45de-aafc-37f0aa531978" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:8265d8dc-d645-4c2d-89bc-1536f05e3002" : {
+         "desc" : "",
+         "file_name" : "ba-o1-042056_g2-000007.xml",
+         "length" : 3579,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "e96370d34218403a4d3cf4389aca08569d202f275b7937bf347073c3973576d1",
+         "time" : 1735565617,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042056_g2-000007.xml"
+      },
+      "file:id:9384155e-1e91-4712-bb31-3dcbd4ce9b07" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city042056.csv.zip",
+         "length" : 11749,
+         "mime" : "application/zip",
+         "sha256" : "577ba8b217d5abd83ab5d4af810bd1c5046976c2545592671f2120c298d8f79c",
+         "time" : 1735565616,
+         "title" : "宮城県 気仙沼市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city042056.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11420,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0901f5d1e3ae05502d29201ce183290decbf53de193cc4c22f08a39759df09b1",
+         "time" : 1735565614,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-042056_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5769,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "ea9c678858f43e2aa385dad828ab2f43481efa8f069578fb5c132619782587fe",
+         "time" : 1710248514.53595,
+         "title" : "宮城県 気仙沼市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042056_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県 気仙沼市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042056_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042056_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 90542,
+   "mirrorzip" : {
+      "length" : 40759,
+      "set" : "nonfree-1",
+      "sha256" : "986b63137969dcd61e53e52562d01c9fd3a2c232c553ddc9599d1028efd0bcc1"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042056_g2-000007",
+      "desc" : "",
+      "org" : "宮城県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042056_g2-000007",
+      "tags" : [
+         "宮城県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710248514.53595,
+      "title" : "宮城県 気仙沼市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C3927b8bd6e48f9e40aeb573cc677792e7007b5b92c4c932a7e4eece6dd75e5b1\u001Cunknown\u001C0\u001C0"
+}

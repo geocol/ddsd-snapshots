@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:1b39471b-c2e0-4b88-8eaf-8877a12aa387" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c6ec3f46-9c86-4129-9284-34c201c87154" : {
+         "desc" : "",
+         "file_name" : "mt_town_city112089.csv.zip",
+         "length" : 3550,
+         "mime" : "application/zip",
+         "sha256" : "46eb7c9d2b5f12650b8ddccea5d6ca60ff71fe5d402dc1770a550279d9393a44",
+         "time" : 1735565609,
+         "title" : "埼玉県 所沢市 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_city112089.csv.zip"
+      },
+      "file:id:de944a51-ef70-47f5-ab2b-35af7a39efe4" : {
+         "desc" : "",
+         "file_name" : "ba-o1-112089_g2-000003.xml",
+         "length" : 3404,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "27f27f40f62a641c2785cca2688481140f730eb0ac93e1958f5a769dcc7f0ab3",
+         "time" : 1735565611,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112089_g2-000003.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11791,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "85861b43a2b055f4b260808734d0774c818c03f9c7556698656854e862100c61",
+         "time" : 1735565607,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-112089_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5435,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "29f87b8c32e4793a833bf72e93e1ce0e9c05f4763421344cd1f63029993932d9",
+         "time" : 1719989503.34561,
+         "title" : "埼玉県 所沢市 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-112089_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県 所沢市 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112089_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-112089_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82205,
+   "mirrorzip" : {
+      "length" : 32431,
+      "set" : "nonfree-1",
+      "sha256" : "35968e606264a5987abdb6990c13d29b65c8939716f01b22c317a4d77354a1a9"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-112089_g2-000003",
+      "desc" : "",
+      "org" : "埼玉県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112089_g2-000003",
+      "tags" : [
+         "埼玉県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1719989503.34561,
+      "title" : "埼玉県 所沢市 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001C07dd4be3dcb9cd33980817c73cbe16db138af77140c40fb9d3679ccece28eaec\u001Cunknown\u001C0\u001C0"
+}

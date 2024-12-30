@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:1ac40743-725b-4696-b677-42d418f35c89" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:81cf1fde-0a82-4029-a0e4-e728f13ab3b6" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city405442.csv.zip",
+         "length" : 1649,
+         "mime" : "application/zip",
+         "sha256" : "4c3b9f782274929441c54214cc30fab5fdcf1f93081dee9fbd618a4aab5e1373",
+         "time" : 1735565704,
+         "title" : "福岡県 八女郡広川町 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city405442.csv.zip"
+      },
+      "file:id:f1a12830-0357-44a3-94dd-85f576f1f08e" : {
+         "desc" : "",
+         "file_name" : "ba-o1-405442_g2-000009.xml",
+         "length" : 3544,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "381e48b379d6ecaf8cce938b27670abc9df542ae6414e1509f11d651717df250",
+         "time" : 1735565705,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-405442_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9958,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "406ea7169af7d679fee66cf816f059f6391a44a6033460b36fc5f92e2f5f0caa",
+         "time" : 1735565702,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-405442_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5707,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "64c5986d39404d681758009ea31357fe72efab3668ae12d0626c6617426f985a",
+         "time" : 1720164805.6477,
+         "title" : "福岡県 八女郡広川町 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-405442_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "福岡県 八女郡広川町 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-405442_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-405442_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 78883,
+   "mirrorzip" : {
+      "length" : 30636,
+      "set" : "nonfree-1",
+      "sha256" : "0eae9a70db9c67a313a7fcb61c6a6a371eddde224204845faf03b3c3b45bde02"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-405442_g2-000009",
+      "desc" : "",
+      "org" : "福岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-405442_g2-000009",
+      "tags" : [
+         "福岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720164805.6477,
+      "title" : "福岡県 八女郡広川町 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C0d5c1ab7a7d2f114b041168ee2fee3a61ca81a43fb2cf89d52f15a4460a38ed1\u001Cunknown\u001C0\u001C0"
+}
