@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:46d18725-9845-4406-b9b0-dbadcb62733e" : {
+         "desc" : "",
+         "file_name" : "ba-o1-192074_g2-000007.xml",
+         "length" : 3570,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "a2c8f5b74e8e097f210c59fec008c821b2860799a08305b2777a585932307d1e",
+         "time" : 1735575679,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-192074_g2-000007.xml"
+      },
+      "file:id:adb0306d-726d-49b1-bc8b-79681f4d6167" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_pos_city192074.csv.zip",
+         "length" : 5817,
+         "mime" : "application/zip",
+         "sha256" : "6161d441bb451ac5ca336a6057265eb0fc03455f034f5dfdd1fc2002bb5566ef",
+         "time" : 1735575678,
+         "title" : "山梨県 韮崎市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_pos_city192074.csv.zip"
+      },
+      "file:id:b25db787-86d2-4ef7-b395-10bd4f5f5448" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11396,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2d03407fb7c6387de5c412e85069ec7970a5a864a44be309aa2477e168f33fee",
+         "time" : 1735575676,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-192074_g2-000007"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5751,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4f2ff4f01da19b44e651a79e7066790cd749f106d20a83f7dfbe30a84ffdad70",
+         "time" : 1710277978.24253,
+         "title" : "山梨県 韮崎市 住居表示-街区マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-192074_g2-000007"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山梨県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "山梨県 韮崎市 住居表示-街区マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-192074_g2-000007"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-192074_g2-000007",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 84559,
+   "mirrorzip" : {
+      "length" : 34850,
+      "set" : "nonfree-1",
+      "sha256" : "36d7cd87df0ccfd5d67be9626bf842d349fab666bef5401bf79e822c556aeacc"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-192074_g2-000007",
+      "desc" : "",
+      "org" : "山梨県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-192074_g2-000007",
+      "tags" : [
+         "山梨県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710277978.24253,
+      "title" : "山梨県 韮崎市 住居表示-街区マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Ced0dca22f7d9f1172bdd0448089c67d47b30af9c098deb6c7bceebb52fc52e1e\u001Cunknown\u001C0\u001C0"
+}

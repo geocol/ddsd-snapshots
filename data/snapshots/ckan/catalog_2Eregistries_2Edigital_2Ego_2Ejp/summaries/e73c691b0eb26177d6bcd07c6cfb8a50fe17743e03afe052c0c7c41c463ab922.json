@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:11e34b93-6693-4d38-8b43-1c9e884bca33" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:18125373-7a12-4150-98aa-1a5fa2550845" : {
+         "desc" : "",
+         "file_name" : "ba-o1-454290_g2-000006.xml",
+         "length" : 3534,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "f4c1cc8619c05fb4bc1d18344b5496734bd2b6ce2b46e4412c902ae7d0f66b1f",
+         "time" : 1735575656,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-454290_g2-000006.xml"
+      },
+      "file:id:582fea0b-41b8-40ec-952e-cc773b9bf950" : {
+         "desc" : "",
+         "file_name" : "mt_town_pos_city454290.csv.zip",
+         "length" : 1494,
+         "mime" : "application/zip",
+         "sha256" : "5bc1724acb747c5333bd603dafadd0e9484299f5fe23b8cab27b7d4e3ac1ea21",
+         "time" : 1735575655,
+         "title" : "宮崎県 東臼杵郡諸塚村 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city454290.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11369,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4210e1b39465f2ce4e25122fdf2fe3b005dd6a4f5246f3a42ed4d385e58f10f7",
+         "time" : 1735575653,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-454290_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5691,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "93624fcf53407161b14c498981eba93d76cdc94291b7a2734c0f70f5e3c2809c",
+         "time" : 1710321780.68908,
+         "title" : "宮崎県 東臼杵郡諸塚村 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-454290_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県 東臼杵郡諸塚村 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-454290_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-454290_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 80113,
+   "mirrorzip" : {
+      "length" : 30544,
+      "set" : "nonfree-1",
+      "sha256" : "edf1c4637ead0e32e1dfcb4a86313ce0e5c7186232d1035d0f39906cc9273e30"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-454290_g2-000006",
+      "desc" : "",
+      "org" : "宮崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-454290_g2-000006",
+      "tags" : [
+         "宮崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710321780.68908,
+      "title" : "宮崎県 東臼杵郡諸塚村 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cdab87227c2b85f6b0990939eaa2310d37a5840cb004483ff9ab6c38237a92118\u001Cunknown\u001C0\u001C0"
+}
