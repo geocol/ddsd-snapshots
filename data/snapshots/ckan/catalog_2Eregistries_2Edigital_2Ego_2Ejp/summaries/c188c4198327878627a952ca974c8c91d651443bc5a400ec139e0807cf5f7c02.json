@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:232c8127-6f0b-496e-89f6-56632696cdd2" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_rsdt_pos_city242098.csv.zip",
+         "length" : 308646,
+         "mime" : "application/zip",
+         "sha256" : "a7518efeb9d496a42c4bbed327dec81722347d8b0310ab485ea9eadeb8014ecb",
+         "time" : 1735536571,
+         "title" : "三重県 尾鷲市 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_pos_city242098.csv.zip"
+      },
+      "file:id:abb8a19d-774c-46d9-bda8-bc7093dc03cd" : {
+         "desc" : "",
+         "file_name" : "ba-o1-242098_g2-000008.xml",
+         "length" : 3571,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "99c49096a516da870d2b774fcba3b608f0f28be5d3a970e66e95506433efb9bc",
+         "time" : 1735536573,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-242098_g2-000008.xml"
+      },
+      "file:id:d6df086f-b5f8-4482-819c-823fdbbd3afb" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11396,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c0db5e87f8f05cf00518a567f028ebaa7717d70be34bf0ceacb07c8791bd4b56",
+         "time" : 1735536569,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-242098_g2-000008"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5752,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e57a1cc81cb48b96cb438dcd3991aae5383aca1d3b726e82abe6e54a07f04e6d",
+         "time" : 1710289464.11655,
+         "title" : "三重県 尾鷲市 住居表示-住居マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-242098_g2-000008"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "三重県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "三重県 尾鷲市 住居表示-住居マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-242098_g2-000008"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-242098_g2-000008",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 387390,
+   "mirrorzip" : {
+      "length" : 330603,
+      "set" : "nonfree-1",
+      "sha256" : "5ce8bab5ea62b822da951dddead7e505f1c21b6df13d78a4f4a767a078fab949"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-242098_g2-000008",
+      "desc" : "",
+      "org" : "三重県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-242098_g2-000008",
+      "tags" : [
+         "三重県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710289464.11655,
+      "title" : "三重県 尾鷲市 住居表示-住居マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C7bd53e5e2df798feab03ebca96c2295c028342f2c58ae048aa9bf5ff449a5abe\u001Cunknown\u001C0\u001C0"
+}

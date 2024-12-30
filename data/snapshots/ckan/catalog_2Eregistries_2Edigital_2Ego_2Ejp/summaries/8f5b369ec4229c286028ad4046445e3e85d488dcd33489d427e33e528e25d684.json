@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:1397e996-c093-4255-9616-ce95ea43ebb2" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:8758cd4d-53d7-4c6f-952d-b17c4f6c2018" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city203050.csv.zip",
+         "length" : 1280,
+         "mime" : "application/zip",
+         "sha256" : "8c6c65c0f23d677af30af2e1c9bba696c60400fb43491861dcdf5a04d4e050a9",
+         "time" : 1735536541,
+         "title" : "長野県 南佐久郡南牧村 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city203050.csv.zip"
+      },
+      "file:id:a0a28f65-d2c7-49bf-adc9-13589fdb117e" : {
+         "desc" : "",
+         "file_name" : "ba-o1-203050_g2-000009.xml",
+         "length" : 3553,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "9bdf4f848a85d26ed287d90936b77524adf515a0525f782683b2e53c8022c1b7",
+         "time" : 1735536542,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-203050_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9976,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "44e8a8abd4b1193c094b71cf02fdb94c111f7dc7b446deecb6c7618e99f75b30",
+         "time" : 1735536539,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-203050_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5725,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "dcc11a12a45a19346f595a76a7486f53cc1d5f802bc915b10c8f7a63184bde9b",
+         "time" : 1720162095.14901,
+         "title" : "長野県 南佐久郡南牧村 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-203050_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 南佐久郡南牧村 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-203050_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-203050_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 78559,
+   "mirrorzip" : {
+      "length" : 30243,
+      "set" : "nonfree-1",
+      "sha256" : "cee297a311c57966d0b567aba7be379bf98dce57c4c0aaf1fada9adafdac2a18"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-203050_g2-000009",
+      "desc" : "",
+      "org" : "長野県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-203050_g2-000009",
+      "tags" : [
+         "長野県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720162095.14901,
+      "title" : "長野県 南佐久郡南牧村 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001Cc685521f7b678178381b479976835b1fd3ac0f53d08814ba7952908d2d0c8ed9\u001Cunknown\u001C0\u001C0"
+}

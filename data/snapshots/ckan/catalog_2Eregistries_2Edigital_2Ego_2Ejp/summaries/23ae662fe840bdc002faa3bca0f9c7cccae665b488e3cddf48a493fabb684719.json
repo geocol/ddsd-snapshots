@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:71df7a93-6972-4048-9362-1bcb14051d9d" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:90ee61bf-392e-42b7-907f-bc079cfbf7bb" : {
+         "desc" : "",
+         "file_name" : "ba000002.xml",
+         "length" : 3364,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "04d3c8135c3ce6d2e5c3fe22d2ca9e3633fcfc118503458858d8c7f42ad817d0",
+         "time" : 1735536624,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000002.xml"
+      },
+      "file:id:fbe423ae-86e8-4658-a7d0-805199604a10" : {
+         "desc" : "",
+         "file_name" : "mt_rsdtdsp_blk_all.csv.zip",
+         "length" : 6559502,
+         "mime" : "application/zip",
+         "sha256" : "000a4f3d163b600bf132d6207aadfca585abc46d5e94b85e5e7c9437c4868b0c",
+         "time" : 1735536620,
+         "title" : "住居表示-街区マスター（全国）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_all.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 29583,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7376d2ff707e4a100ffd557f474a29799e9ae6e8db630cf19fbebd0ae6e81573",
+         "time" : 1735536619,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba000002"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5390,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "7c557116b5607cbc0a3dec3850a449a13a7d98d6cab132f954f29f7219b119e4",
+         "time" : 1710479988.54951,
+         "title" : "全国　住居表示-街区マスター　データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000002"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全国",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全国　住居表示-街区マスター　データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000002"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000002",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 6655864,
+   "mirrorzip" : {
+      "length" : 6587040,
+      "set" : "nonfree-1",
+      "sha256" : "2c96624cd624fd49d50f70c34c8acf316be38ce6763651d3664d6e9b0ac24ff4"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000002",
+      "desc" : "",
+      "org" : "全国",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000002",
+      "tags" : [
+         "全国",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710479988.54951,
+      "title" : "全国　住居表示-街区マスター　データセット"
+   },
+   "ref_key_text" : "6\u001C75871153c05db024614b5edfa5c6e269555a218e41381454a9bcc19073ca113d\u001Cunknown\u001C0\u001C0"
+}

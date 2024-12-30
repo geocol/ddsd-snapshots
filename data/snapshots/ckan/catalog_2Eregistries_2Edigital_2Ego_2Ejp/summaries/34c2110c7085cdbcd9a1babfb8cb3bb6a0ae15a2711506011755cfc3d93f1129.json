@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:9c39b44d-62b2-4ba0-80c1-7198daa5f4b7" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:a608ce78-56e3-4bb7-adf1-dc8b62259c8f" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city212083.csv.zip",
+         "length" : 3540,
+         "mime" : "application/zip",
+         "sha256" : "d55e339d87f8064efc9ee72ad89fe5af16ad7668a03185c5d1b524ac395f0d52",
+         "time" : 1735536593,
+         "title" : "岐阜県 瑞浪市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city212083.csv.zip"
+      },
+      "file:id:c474b0df-fba3-4335-afbf-ce671c27dcdd" : {
+         "desc" : "",
+         "file_name" : "ba-o1-212083_g2-000009.xml",
+         "length" : 3517,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "a8e3c5630ecb8b358bce2b4de6b3d792eb0a2151945179e64193b5e744749eea",
+         "time" : 1735536595,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212083_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9904,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "0ba62d760f525167d59f1e94823d0a81893804a1e79956840510a3b062c5dc22",
+         "time" : 1735536591,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-212083_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5653,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "dc638b3ae3d7df4a3ca8844b1d041cb5cc64e4cfc67d5a6e037278bd4dc7af0d",
+         "time" : 1720162273.49421,
+         "title" : "岐阜県 瑞浪市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-212083_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岐阜県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岐阜県 瑞浪市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212083_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-212083_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 80639,
+   "mirrorzip" : {
+      "length" : 32477,
+      "set" : "nonfree-1",
+      "sha256" : "adb3f2d0d326b8657abeaf463aeef43dcc48c412bd98c88b73830b43065147e7"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-212083_g2-000009",
+      "desc" : "",
+      "org" : "岐阜県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212083_g2-000009",
+      "tags" : [
+         "岐阜県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720162273.49421,
+      "title" : "岐阜県 瑞浪市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C968be8d5457adf5dcce11a6261f0e3db8969066421fcd4c8042014a95cfa28b2\u001Cunknown\u001C0\u001C0"
+}

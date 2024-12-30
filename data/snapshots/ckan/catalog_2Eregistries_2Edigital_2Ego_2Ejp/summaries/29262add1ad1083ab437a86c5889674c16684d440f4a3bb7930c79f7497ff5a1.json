@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:2cf6ff8e-1985-4d6b-86d3-5a2d8a24c0cf" : {
+         "desc" : "",
+         "file_name" : "ba-o1-293229_g2-000009.xml",
+         "length" : 3544,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "10fa7036b016d897e614a2d6b0dae5374843bb11e27b16a2ea22a3341c6d7f59",
+         "time" : 1735536699,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-293229_g2-000009.xml"
+      },
+      "file:id:5b2966c5-a64a-43b3-a835-257ff6764326" : {
+         "desc" : "",
+         "file_name" : "mt_town_fullset_city293229.csv.zip",
+         "length" : 1516,
+         "mime" : "application/zip",
+         "sha256" : "0b7174d433d32c50831fc4f6826dfbd89598aa68a9ff5498a691c94a1cae3793",
+         "time" : 1735536697,
+         "title" : "奈良県 山辺郡山添村 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city293229.csv.zip"
+      },
+      "file:id:d91f91e6-bf94-49f2-9ce7-6e697e2299b7" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9248,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3515e7f78745ffaed59dd7501d1ab762039ce7ee462c9f21a2bcdb3b8ca65c95",
+         "time" : 1735536696,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-293229_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5707,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b7f553ba46b3dc116a4943dd172e71a831a00dc47128e3c8635f358b13949f92",
+         "time" : 1710300111.03031,
+         "title" : "奈良県 山辺郡山添村 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-293229_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "奈良県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "奈良県 山辺郡山添村 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-293229_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-293229_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 78040,
+   "mirrorzip" : {
+      "length" : 30421,
+      "set" : "nonfree-1",
+      "sha256" : "00cb3cdef3ab35eeb50bfb4e25d4f7b9f4dab79bc6371bff2b7dc783a746662e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-293229_g2-000009",
+      "desc" : "",
+      "org" : "奈良県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-293229_g2-000009",
+      "tags" : [
+         "奈良県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710300111.03031,
+      "title" : "奈良県 山辺郡山添村 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001Cfa82affbec7b39f6e01805efa2c8de28dab866d2d8892f8cdaec248307ebc94f\u001Cunknown\u001C0\u001C0"
+}
