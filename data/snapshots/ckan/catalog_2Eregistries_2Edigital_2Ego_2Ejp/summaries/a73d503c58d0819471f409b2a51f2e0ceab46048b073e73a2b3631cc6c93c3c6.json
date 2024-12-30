@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:35725693-726a-487c-a87a-e2d01308e60b" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:377f7534-5742-46af-9738-d1cb02ada9cf" : {
+         "desc" : "",
+         "file_name" : "mt_town_pos_city232041.csv.zip",
+         "length" : 5621,
+         "mime" : "application/zip",
+         "sha256" : "a13c6b48d92439eb6ff33247734a461a92db1fc4922228b4a0e58d3784995d22",
+         "time" : 1735593998,
+         "title" : "愛知県 瀬戸市 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city232041.csv.zip"
+      },
+      "file:id:c1ed0110-f5e1-487d-a341-d20e93268337" : {
+         "desc" : "",
+         "file_name" : "ba-o1-232041_g2-000006.xml",
+         "length" : 3498,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "cf46fa1784dda6da7fe6024371aab94ac88f4d269fd7343cd98db3a38fa27959",
+         "time" : 1735594000,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-232041_g2-000006.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11273,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "892e0fb7ad6703458a8348d5f87fbfe39064e0b6f420c8d2efa53c9f531fbb8b",
+         "time" : 1735593997,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-232041_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5619,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b98e5ed7cbe41bbba4289768f220c0d4f12e8a940b21d8411f6e221802112977",
+         "time" : 1710286826.39502,
+         "title" : "愛知県 瀬戸市 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-232041_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "愛知県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "愛知県 瀬戸市 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-232041_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-232041_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 84036,
+   "mirrorzip" : {
+      "length" : 34583,
+      "set" : "nonfree-1",
+      "sha256" : "c0dbd735e089e41ab887398684d9880857ffd57c641492007b5b823d9576c014"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-232041_g2-000006",
+      "desc" : "",
+      "org" : "愛知県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-232041_g2-000006",
+      "tags" : [
+         "愛知県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710286826.39502,
+      "title" : "愛知県 瀬戸市 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C9659b9a867abe79ce9ebf87a88d2409893fe73a68743f41ff0c991b620e8537c\u001Cunknown\u001C0\u001C0"
+}
