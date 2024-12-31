@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:983390c3-6df2-4c7b-8685-82683a642d8e" : {
+         "desc" : "",
+         "file_name" : "ba-o1-131041_g2-000006.xml",
+         "length" : 3498,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "d0543f1de94f7c4c1fc1951f33abc767a67b958d238a451a2b9d7d31836e6056",
+         "time" : 1735622944,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131041_g2-000006.xml"
+      },
+      "file:id:ce9f4923-8006-466b-9b58-c71f7f46677d" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:e5a55c00-be04-4f12-b612-94377f20e20b" : {
+         "desc" : "",
+         "file_name" : "mt_town_pos_city131041.csv.zip",
+         "length" : 2517,
+         "mime" : "application/zip",
+         "sha256" : "c11bf819fba0cee0b8cd733a568b34b0aae6cfee41b703de4c11d38ec134323c",
+         "time" : 1735622942,
+         "title" : "東京都 新宿区 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city131041.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11273,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7d8859e58d41ed59f48f2b57c6bd32794d7a60e9db0da5107574350e241d6a09",
+         "time" : 1735622940,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-131041_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5619,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "9e04f6802ed75333b1d1bb754116dce4f641146e1168307ca405d27291712651",
+         "time" : 1710266919.77392,
+         "title" : "東京都 新宿区 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131041_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 新宿区 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131041_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131041_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 80932,
+   "mirrorzip" : {
+      "length" : 31459,
+      "set" : "nonfree-1",
+      "sha256" : "e3949c6f61515c3535356dc4aa8e1a4ff72cca5103d9af05ac00bd85277fb8f1"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131041_g2-000006",
+      "desc" : "",
+      "org" : "東京都",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131041_g2-000006",
+      "tags" : [
+         "東京都",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710266919.77392,
+      "title" : "東京都 新宿区 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cb4b717ba08ab3dcd95a242707ad94b6bf62314807c3806e2fcc63c7b0e72285d\u001Cunknown\u001C0\u001C0"
+}

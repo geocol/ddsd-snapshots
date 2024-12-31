@@ -1,0 +1,140 @@
+{
+   "files" : {
+      "file:id:046d2b40-3970-4589-8e54-4439ee7f7028" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 58025,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "30c7d445fb2b802913ee6883807aaa76a0a94285ea002f92468351d812828046",
+         "time" : 1735306121,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:0f7ce7c2-e044-48ac-952a-154a64498724" : {
+         "desc" : "",
+         "file_name" : "mt_town_pos_city113697.csv.zip",
+         "length" : 721,
+         "mime" : "application/zip",
+         "sha256" : "fa2ba42dbff197b7625a32b207835819db838e6cf0d190173e06c072aa48b4f4",
+         "time" : 1735622963,
+         "title" : "埼玉県 秩父郡東秩父村 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city113697.csv.zip"
+      },
+      "file:id:4417e943-b8ed-487a-b2f1-f27d25f58ac6" : {
+         "desc" : "",
+         "file_name" : "ba-o1-113697_g2-000006.xml",
+         "length" : 3534,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "81e65988f2b93c16d2976ffa23985803eebfdb8948b1b4526200fa85d9bcadee",
+         "time" : 1735622964,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-113697_g2-000006.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11369,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "42dfa2f6955bd3785d1cb0449b137779c5fe30f67793800493d43c23c58419eb",
+         "time" : 1735622961,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-113697_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5691,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "3d52475a9d45d7eb801d7e74c7fd1a287a18172921e5da4c8c7cf12b1979256f",
+         "time" : 1710263604.15622,
+         "title" : "埼玉県 秩父郡東秩父村 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-113697_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県 秩父郡東秩父村 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-113697_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-113697_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 79340,
+   "mirrorzip" : {
+      "length" : 29719,
+      "set" : "nonfree-1",
+      "sha256" : "64fcd955932c3abe93318f0996ea8068861f8b88c6ccc4f2827be74d6ed3a284"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-113697_g2-000006",
+      "desc" : "",
+      "org" : "埼玉県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-113697_g2-000006",
+      "tags" : [
+         "埼玉県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710263604.15622,
+      "title" : "埼玉県 秩父郡東秩父村 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cd1c13802624810a9bef70609522c68778a7f9f6fe87abe2d62d0aeab0f61b55c\u001Cunknown\u001C0\u001C0"
+}

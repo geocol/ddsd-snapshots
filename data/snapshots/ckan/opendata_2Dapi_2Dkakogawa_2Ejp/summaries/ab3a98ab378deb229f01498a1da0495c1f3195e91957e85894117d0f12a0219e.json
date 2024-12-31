@@ -1,0 +1,139 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:493a5dcb-0938-4579-9967-43749e93f742" : {
+         "desc" : "",
+         "set_type" : "fiware-ngsi",
+         "time" : 1526972447.53534,
+         "title" : "大字の範囲",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=SHP_Ooaza"
+      },
+      "file:id:ae5941ea-5e8f-43e3-9a0a-3d8ecc5065d3" : {
+         "desc" : "",
+         "file_name" : "h27ka28210_ooazahanni.zip",
+         "length" : 829405,
+         "mime" : "application/zip",
+         "sha256" : "ddb42487db0752f5516aa5957af92617f279c3873810a12d4f86bb7f7c351058",
+         "time" : 1735624187,
+         "title" : "大字の範囲",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f7721c7f-06a5-487f-b873-f4081edd8ce2/resource/ae5941ea-5e8f-43e3-9a0a-3d8ecc5065d3/download/h27ka28210_ooazahanni.zip"
+      },
+      "file:id:fc8e6be7-8516-4357-bcdc-888dbc1e617f" : {
+         "desc" : "",
+         "file_name" : "ooaza_jouhou.csv",
+         "length" : 5825,
+         "mime" : "text/csv",
+         "sha256" : "5fff7e3f84d58a41bc024accec3e572ce1be9b460a361495337704ad353b4aa5",
+         "time" : 1735624189,
+         "title" : "大字の情報",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/f7721c7f-06a5-487f-b873-f4081edd8ce2/resource/fc8e6be7-8516-4357-bcdc-888dbc1e617f/download/ooaza_jouhou.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27748,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4e0976b8ac14f879e780c8c8a0d6cd1fb6414acd3b376f109291feb337b78509",
+         "time" : 1735624191,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/shp_ooaza"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 8858,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "83e9e8e5d3dcaad6a7259468c9f597bb64db8c18bfbd49e9e467838e16e0bc8a",
+         "time" : 1703069238.56626,
+         "title" : "大字の情報",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=shp_ooaza"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "情報政策課 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "大字の情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/shp_ooaza"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=shp_ooaza",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 871836,
+   "mirrorzip" : {
+      "length" : 843631,
+      "set" : "nonfree-1",
+      "sha256" : "6df738e0101021feb40fff9d0fa8a04cc431bb42e5aa2c3c75cee33e8636fed0"
+   },
+   "package" : {
+      "author" : "情報政策課",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=shp_ooaza",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/shp_ooaza",
+      "tags" : [
+         "情報政策課",
+         "加古川市",
+         "その他",
+         "境界",
+         "大字",
+         "範囲"
+      ],
+      "time" : 1703069238.56626,
+      "title" : "大字の情報"
+   },
+   "ref_key_text" : "6\u001C5e8d7c68e8563f02f036cd038a5cc9cadf378bab4baeafa685c2f117cced59c9\u001Cunknown\u001C0\u001C0"
+}

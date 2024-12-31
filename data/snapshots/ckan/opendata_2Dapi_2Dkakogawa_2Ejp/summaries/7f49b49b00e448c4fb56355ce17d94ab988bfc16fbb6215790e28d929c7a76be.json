@@ -1,0 +1,132 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:744f1b2d-4bc4-4ac3-845a-8ab5bdb50142" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556224.03197,
+         "title" : "崩壊土砂流出危険区域_線",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=MountainsideDisaster&idPattern=\u005C.CollapseSoilOutflowDangerAreaLine\u005C."
+      },
+      "file:id:ee8f0037-7f3f-4314-aa1e-7d0032dc94bd" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556067.82694,
+         "title" : "山腹崩壊危険地区",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=MountainsideDisaster&idPattern=\u005C.MountainsideCollapseDangerArea\u005C."
+      },
+      "file:id:f54b76d7-66ab-4d93-87e5-e56b9b964b47" : {
+         "desc" : "",
+         "file_name" : "entities-3",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556309.36332,
+         "title" : "崩壊土砂流出危険区域_面",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=MountainsideDisaster&idPattern=\u005C.CollapseSoilOutflowDangerArea\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18693,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "68bb47a9c29bbb6ea4691330b2678b271868598a7a858082077b0ec71c6edd3f",
+         "time" : 1735624274,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/mountainsidedisaster"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 14838,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "50ec080f3b51ff79c6dc3803f43aba8b5a1eebaf0584056691a248507b7bbb57",
+         "time" : 1705556309.34936,
+         "title" : "山腹災害",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=mountainsidedisaster"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "山腹災害",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/mountainsidedisaster"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=mountainsidedisaster",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 33531,
+   "mirrorzip" : {
+      "length" : 11135,
+      "set" : "nonfree-1",
+      "sha256" : "9dc856708cbd633a2d585aa92d48d68bcb3e09acfead518936363a90f195b2c8"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=mountainsidedisaster",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/mountainsidedisaster",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705556309.34936,
+      "title" : "山腹災害"
+   },
+   "ref_key_text" : "6\u001C6245218f8621bbca21ad1bca5f596da7a3ca70a79301b3472d922633083f4cae\u001Cunknown\u001C0\u001C0"
+}
