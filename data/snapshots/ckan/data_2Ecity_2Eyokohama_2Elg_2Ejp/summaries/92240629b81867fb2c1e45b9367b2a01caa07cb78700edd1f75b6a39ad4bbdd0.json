@@ -1,0 +1,173 @@
+{
+   "files" : {
+      "file:id:086ab46e-db55-42e0-bde6-8d207dfb9197" : {
+         "desc" : "",
+         "file_name" : "0004_20190122.zip",
+         "length" : 932749,
+         "mime" : "application/zip",
+         "sha256" : "485082028c0b9f49089e629c4421d840e1ef49220abbac955168e98732418a74",
+         "time" : 1735796811,
+         "title" : "区内にある橋梁の画像",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/nishi/kusei/tokei/opendata/opendata.files/0004_20190122.zip"
+      },
+      "file:id:668fbf62-2481-4139-ae8e-8e5607f6608e" : {
+         "desc" : "",
+         "file_name" : "park.zip",
+         "length" : 2626988,
+         "mime" : "application/zip",
+         "sha256" : "d1578eac87e763ecce11d894b82815d3151b99f269ccde6d953642eac5edafaf",
+         "time" : 1735796810,
+         "title" : "区内にある公園の画像",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/nishi/kusei/tokei/opendata/opendata.files/park.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15845,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "efab54cbc925bd678cf451e06369081ec668daf5614590fad9bbd1f842ffff62",
+         "time" : 1735796808,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/nishi_opendata"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3883,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "7574bc977888b2b1065140fcaba8d3b6aff125ec1cf7e5fe5a4968b4e47778b2",
+         "time" : 1727771177.857,
+         "title" : "横浜市西区のオープンデータについて",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=nishi_opendata"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (西区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "横浜市西区のオープンデータについて",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/nishi_opendata"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=nishi_opendata",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "横浜市西区のオープンデータについて",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/nishi_opendata"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 3579465,
+   "mirrorzip" : {
+      "length" : 3568966,
+      "set" : "free-2",
+      "sha256" : "3b2a362a6b2c8e863edd8f5d293b37cb50bc71268ecee03914938b955ef9e6d9"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=nishi_opendata",
+      "desc" : "",
+      "org" : "西区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/nishi_opendata",
+      "tags" : [
+         "区政推進課",
+         "西区",
+         "区政情報",
+         "公園",
+         "地域",
+         "施設",
+         "画像_映像"
+      ],
+      "time" : 1727771177.857,
+      "title" : "横浜市西区のオープンデータについて"
+   },
+   "ref_key_text" : "6\u001C99d7297794b7c118005d692c9cc776930c28d8d27ffd6c3cd13c7aff8c2d28cb\u001Cfree\u001C0\u001C0"
+}
