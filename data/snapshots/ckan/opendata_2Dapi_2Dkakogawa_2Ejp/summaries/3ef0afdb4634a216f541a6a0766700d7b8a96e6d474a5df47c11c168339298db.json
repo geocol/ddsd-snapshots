@@ -1,0 +1,147 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:9c73c34a-8c2f-4c17-9af1-168a014757b3" : {
+         "desc" : "",
+         "file_name" : "childcarecenter.csv",
+         "length" : 13694,
+         "mime" : "text/csv",
+         "sha256" : "2312b755b6198037d86b59a260d6247fa34e77618130b52303d176db60ec8625",
+         "time" : 1736094851,
+         "title" : "加古川市内の認可保育所等施設",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/4beb4446-a174-4cd7-a1ba-35b1a9cddcf3/resource/9c73c34a-8c2f-4c17-9af1-168a014757b3/download/childcarecenter.csv"
+      },
+      "file:id:af0e102f-8777-4382-87cd-b159d4b96c85" : {
+         "desc" : "",
+         "file_name" : "282103_preschool.csv",
+         "length" : 14994,
+         "mime" : "text/csv",
+         "sha256" : "f8870d8214e95faad9259d67d359929f047b8db9a53d785a3232c97c8f7d0324",
+         "time" : 1736094850,
+         "title" : "子育て施設一覧（推奨データセット）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/4beb4446-a174-4cd7-a1ba-35b1a9cddcf3/resource/af0e102f-8777-4382-87cd-b159d4b96c85/download/282103_preschool.csv"
+      },
+      "file:id:e69b21fe-6ac1-4196-bfcd-0905b67a595e" : {
+         "desc" : "",
+         "file_name" : "childcarecenter.json",
+         "length" : 173395,
+         "mime" : "application/json",
+         "sha256" : "acd6edd2eb2c370cdb6f8b774cc79fd69ec40bfcf8001e49d05ad4a083f5dd41",
+         "time" : 1736094849,
+         "title" : "加古川市内の認可保育所等施設",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/4beb4446-a174-4cd7-a1ba-35b1a9cddcf3/resource/e69b21fe-6ac1-4196-bfcd-0905b67a595e/download/childcarecenter.json"
+      },
+      "file:id:fdb35820-dc93-4d51-ae97-11263a2eaa12" : {
+         "desc" : "",
+         "set_type" : "fiware-ngsi",
+         "time" : 1518415987.40473,
+         "title" : "加古川市内の認可保育所等施設",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=ChildcareCenter&limit=100"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 35476,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ce31edc35bc9794884404f8d267b2c8f6ac039e031b4abeac4736f3c123850bd",
+         "time" : 1736094853,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/childcarecenter"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 11494,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b2532a8ea24e1f88d6dd752dd21badfee6b516fb1fae173f5923310f118d2e54",
+         "time" : 1702882653.0101,
+         "title" : "保育所等",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=childcarecenter"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "保育所等",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/childcarecenter"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=childcarecenter",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 249053,
+   "mirrorzip" : {
+      "length" : 29838,
+      "set" : "nonfree-1",
+      "sha256" : "79cc8acef0e836629e7755db4e50b44b3830009664046d92eefbea0164e8d346"
+   },
+   "package" : {
+      "author" : "加古川市",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=childcarecenter",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/childcarecenter",
+      "tags" : [
+         "加古川市",
+         "子育て・教育",
+         "保育"
+      ],
+      "time" : 1702882653.0101,
+      "title" : "保育所等"
+   },
+   "ref_key_text" : "6\u001C249f46a3f78d5df0b797555a5d2eb9dcff73dc2a2538af6c244cae7ac21b230d\u001Cunknown\u001C0\u001C0"
+}
