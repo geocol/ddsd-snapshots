@@ -1,0 +1,217 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:088dd2bf-ecbc-4196-aabe-9bf805eddb16" : {
+         "desc" : "",
+         "file_name" : "entities-3",
+         "set_type" : "fiware-ngsi",
+         "time" : 1518417665.45442,
+         "title" : "指定緊急避難場所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=DisasterManagementFacilities&idPattern=\u005C.KinkyuHinanbasho\u005C.&limit=50"
+      },
+      "file:id:29d1aea0-545f-4a1b-baf0-8fda88ceb949" : {
+         "desc" : "",
+         "file_name" : "entities-5",
+         "set_type" : "fiware-ngsi",
+         "time" : 1551686195.7845,
+         "title" : "屋外拡声器設置箇所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=DisasterManagementFacilities&idPattern=\u005C.LoudSpeaker\u005C.&limit=1000"
+      },
+      "file:id:2f815cb5-7440-46de-9657-ca879ecb4880" : {
+         "desc" : "",
+         "file_name" : "282103_evacuation_space_ja.xls",
+         "length" : 27648,
+         "mime" : "application/vnd.ms-excel",
+         "sha256" : "54b77f0e1e46030d0e7d04da17ee4866d061abfb76e0d41df38bf7d23df9d74d",
+         "time" : 1736833542,
+         "title" : "避難所基本データ（試行版）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/45e1d1a2-5478-4cb1-be30-6359f3733eab/resource/2f815cb5-7440-46de-9657-ca879ecb4880/download/282103_evacuation_space_ja.xls"
+      },
+      "file:id:3de8635c-c2bc-443d-8af7-8541516ef1de" : {
+         "desc" : "",
+         "file_name" : "entities-4",
+         "set_type" : "fiware-ngsi",
+         "time" : 1518417728.32508,
+         "title" : "指定緊急避難場所兼指定避難所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=DisasterManagementFacilities&idPattern=\u005C.KinkyuHinanbashoHinanjo\u005C.&limit=100"
+      },
+      "file:id:4357674b-869c-4daa-8437-efcc23ee0887" : {
+         "desc" : "",
+         "file_name" : "282103_evacuation_space_ja.csv",
+         "length" : 13151,
+         "mime" : "text/csv",
+         "sha256" : "e8522baf013ac4abbd989db07ebd133fca3f3ae7cdd2bb992953befb40672894",
+         "time" : 1736833541,
+         "title" : "避難所基本データ（試行版）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/45e1d1a2-5478-4cb1-be30-6359f3733eab/resource/4357674b-869c-4daa-8437-efcc23ee0887/download/282103_evacuation_space_ja.csv"
+      },
+      "file:id:6ce8ee58-f240-4e55-a872-ceb4c4acb4a2" : {
+         "desc" : "",
+         "file_name" : "282103_evacuation_space.csv",
+         "length" : 12809,
+         "mime" : "text/csv",
+         "sha256" : "91e98c90b17a39df614908160cfc53d2e1dcca9851cea295e854b23fa9852259",
+         "time" : 1736833540,
+         "title" : "緊急指定避難場所一覧（推奨データセット）",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/45e1d1a2-5478-4cb1-be30-6359f3733eab/resource/6ce8ee58-f240-4e55-a872-ceb4c4acb4a2/download/282103_evacuation_space.csv"
+      },
+      "file:id:6f68bef8-45bf-43bd-ba41-94a2994957f1" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1518417620.16415,
+         "title" : "指定避難所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=DisasterManagementFacilities&idPattern=\u005C.Hinanjo\u005C.&limit=50"
+      },
+      "file:id:7150b2f0-0c93-46f1-9fdb-d355974e6122" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1518417511.56447,
+         "title" : "津波避難ビル",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=DisasterManagementFacilities&idPattern=\u005C.Tsunami\u005C.&limit=50"
+      },
+      "file:id:b81620ac-74e6-48a0-969a-d82fdb3cc7eb" : {
+         "desc" : "",
+         "file_name" : "loudspeaker.csv",
+         "length" : 2611,
+         "mime" : "text/csv",
+         "sha256" : "a61e1917b6c3700cc1f496f7ae4b23e3589def196bed2418d5fe27e4be49bdb5",
+         "time" : 1736833543,
+         "title" : "屋外拡声器設置箇所",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/45e1d1a2-5478-4cb1-be30-6359f3733eab/resource/b81620ac-74e6-48a0-969a-d82fdb3cc7eb/download/loudspeaker.csv"
+      },
+      "file:id:cef0ee5b-e828-4de1-837a-5fee2b71e86c" : {
+         "desc" : "",
+         "file_name" : "disastermanagementfacilities.kinkyuhinanbashohinanjo.csv",
+         "length" : 21096,
+         "mime" : "text/csv",
+         "sha256" : "08d6710183dd5ca70d4c850f3bcbb14e9ba59f138e67f444b4e0e87cc25f0329",
+         "time" : 1736833545,
+         "title" : "指定緊急避難場所兼指定避難所",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/45e1d1a2-5478-4cb1-be30-6359f3733eab/resource/cef0ee5b-e828-4de1-837a-5fee2b71e86c/download/disastermanagementfacilities.kinkyuhinanbashohinanjo.csv"
+      },
+      "file:id:e0dd79bf-803c-452f-899b-0dc818fd8ef8" : {
+         "desc" : "",
+         "file_name" : "disastermanagementfacilities.kinkyuhinanbashohinanjo.json",
+         "length" : 251299,
+         "mime" : "application/json",
+         "sha256" : "5847cfb78f80e2d5ce6b08e759e9f1b04afa1ae857e1a836ddffac95075d7d2c",
+         "time" : 1736833544,
+         "title" : "指定緊急避難場所兼指定避難所",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/45e1d1a2-5478-4cb1-be30-6359f3733eab/resource/e0dd79bf-803c-452f-899b-0dc818fd8ef8/download/disastermanagementfacilities.kinkyuhinanbashohinanjo.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 35743,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd0d48de21d1e968bd427bd3618129037fe540f20657cde0e2dccb77f7f87258",
+         "time" : 1736833548,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/disastermanagementfacilities"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 79888,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "03173357121400dced8896a39156079a3d37aa6ba391223eb8170b705ad0ed9b",
+         "time" : 1702961814.22722,
+         "title" : "防災関連施設",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=disastermanagementfacilities"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "防災関連施設",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/disastermanagementfacilities"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=disastermanagementfacilities",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 444245,
+   "mirrorzip" : {
+      "length" : 47118,
+      "set" : "nonfree-1",
+      "sha256" : "3791370a7bcc925d03d2bf2cd8d4bbc4ec176d15d43aaf37bc41bc7bce4bcf89"
+   },
+   "package" : {
+      "author" : "加古川市",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=disastermanagementfacilities",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/disastermanagementfacilities",
+      "tags" : [
+         "加古川市",
+         "施設",
+         "防災･安全"
+      ],
+      "time" : 1702961814.22722,
+      "title" : "防災関連施設"
+   },
+   "ref_key_text" : "6\u001Cbf391d4c4da41df9673a81302039026b8e89d3b2d0e2905e0582902cb76e7ee3\u001Cunknown\u001C0\u001C0"
+}

@@ -1,0 +1,132 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:1e36279b-0717-483a-86aa-e28274967fd5" : {
+         "desc" : "",
+         "file_name" : "entities-3",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705558515.89172,
+         "title" : "指定避難所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=EvacuationSite&idPattern=\u005C.Shelter\u005C."
+      },
+      "file:id:64342652-6fe0-4bab-aaa4-5f91540d200f" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705557906.21105,
+         "title" : "指定緊急避難場所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=EvacuationSite&idPattern=EvacuationSite\u005C.EvacuationSite\u005C."
+      },
+      "file:id:fcdbc80f-b9d1-4129-95ca-9f596bd1b554" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705558203.19059,
+         "title" : "指定緊急避難場所及び指定避難所",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=EvacuationSite&idPattern=\u005C.EvacuationSiteAndShelter\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19424,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7e7f1a042b4ed1f058d41aa5229c1529f4acb1afd516be7e09d6302b9713fd9d",
+         "time" : 1736833372,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/evacuationsite"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 14713,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6deec270b35f1311dbc0963fbe4f7401b2c88c6be2fcf145be6085b1d032a9c8",
+         "time" : 1705558515.87669,
+         "title" : "避難所避難場所",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=evacuationsite"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "避難所避難場所",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/evacuationsite"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=evacuationsite",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 34137,
+   "mirrorzip" : {
+      "length" : 11103,
+      "set" : "nonfree-1",
+      "sha256" : "ebbc69b9c973f2755f5b8c9e792ae9c4eccced402282eb95e0eb22aeb0ca9185"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=evacuationsite",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/evacuationsite",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705558515.87669,
+      "title" : "避難所避難場所"
+   },
+   "ref_key_text" : "6\u001C6370bcdce76b19016f8254b7e91fe0b0ccd2aa2dafb30eb5471e32521042aace\u001Cunknown\u001C0\u001C0"
+}

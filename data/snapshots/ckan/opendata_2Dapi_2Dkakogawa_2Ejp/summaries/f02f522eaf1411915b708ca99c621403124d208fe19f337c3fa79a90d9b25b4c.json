@@ -1,0 +1,125 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:6213c4ba-c8c4-4831-8244-9f092cfa3e92" : {
+         "desc" : "",
+         "file_name" : "67_kouen.csv",
+         "length" : 50930,
+         "mime" : "text/csv",
+         "sha256" : "be25a3f9509893292a27c721ee733a312abc2c512411b7cafd0d1aec9223ffa8",
+         "time" : 1736833529,
+         "title" : "都市公園",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/c529cd71-6296-41dd-b853-a54edff57601/resource/6213c4ba-c8c4-4831-8244-9f092cfa3e92/download/67_kouen.csv"
+      },
+      "file:id:f824b599-d934-4eea-b8a2-1b25442b570b" : {
+         "desc" : "",
+         "set_type" : "fiware-ngsi",
+         "time" : 1542065496.52867,
+         "title" : "都市公園",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=UrbanPark"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 25467,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e98d449d2424137a516aefe610a3f568fad214bf652a47a0dfe37435b4a9d62c",
+         "time" : 1736833530,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/urbanpark"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 9625,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8cc31207080e7311373449cc801adb12ed5925681a5559fffe06f46775512526",
+         "time" : 1711075134.49425,
+         "title" : "都市公園",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=urbanpark"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "都市公園",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/urbanpark"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=urbanpark",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 86022,
+   "mirrorzip" : {
+      "length" : 24436,
+      "set" : "nonfree-1",
+      "sha256" : "dc6e7d9b89af93ad368d5172f73b4c71fea2fc2b40bf941c55cc6ff39d44a028"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=urbanpark",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/urbanpark",
+      "tags" : [
+         "加古川市",
+         "道路・交通",
+         "公園"
+      ],
+      "time" : 1711075134.49425,
+      "title" : "都市公園"
+   },
+   "ref_key_text" : "6\u001Cef8c7196527b3948b723f74cf41b661531ed496cd3da6835f721bf318b24c612\u001Cunknown\u001C0\u001C0"
+}
