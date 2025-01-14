@@ -1,0 +1,126 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:4911dfa0-6d70-4328-bdbf-8fafcde688c6" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705476475.11265,
+         "title" : "南海トラフ津波想定",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=TsunamiHazardMap&idPattern=\u005C.TsunamiNankaiTrough\u005C."
+      },
+      "file:id:591bec9d-1f6d-4e0f-829e-b76b74a787ab" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524808456.41997,
+         "title" : "津波浸水想定区域",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=TsunamiHazardMap&idPattern=\u005C.ShinsuiSotei\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 22690,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "14f73161d0d9d56ee5f77cda806f00f62227ad814ba50f4d451858902aacae7a",
+         "time" : 1736862319,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/tsunamihazardmap"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 11245,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "5da1d07743c159e35a1aac5b6a2250f5346dcb1b269bf93476f0179f139d472e",
+         "time" : 1705476475.08682,
+         "title" : "津波ハザードマップ",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tsunamihazardmap"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "津波ハザードマップ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/tsunamihazardmap"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tsunamihazardmap",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 33935,
+   "mirrorzip" : {
+      "length" : 11567,
+      "set" : "nonfree-1",
+      "sha256" : "fd85e67ec739b2b4c8c5b7b17916e9830cc14b39d0769c72cc9c46b6b1cd19b6"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tsunamihazardmap",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/tsunamihazardmap",
+      "tags" : [
+         "兵庫県",
+         "加古川市",
+         "防災･安全",
+         "ハザード",
+         "津波"
+      ],
+      "time" : 1705476475.08682,
+      "title" : "津波ハザードマップ"
+   },
+   "ref_key_text" : "6\u001C356d5ba742df9c05d336f18636a0f65ad3c18dd38255f7243bd20c343fba92bb\u001Cunknown\u001C0\u001C0"
+}
