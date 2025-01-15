@@ -1,0 +1,123 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:21b7cb91-986c-4fd6-a6b4-c3b1f6320e1b" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556763.47614,
+         "title" : "液状化_南海トラフ",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=Liquefaction&idPattern=\u005C.TrenchType\u005C."
+      },
+      "file:id:eb8ca77f-69b8-4143-a4aa-8dd7ac541614" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705556991.99111,
+         "title" : "液状化_山崎断層",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=Liquefaction&idPattern=\u005C.FaultType\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18018,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "7c3a12e38e7c9c18e898b0502423088de61dfde45958946c48a5783735e2595b",
+         "time" : 1736948520,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/liquefaction"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 10172,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "cd9b25aca3e1020a2da5764103d220556433218de32369309a22cc58f3a10aba",
+         "time" : 1705556991.97682,
+         "title" : "液状化",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=liquefaction"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "液状化",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/liquefaction"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=liquefaction",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 28190,
+   "mirrorzip" : {
+      "length" : 10892,
+      "set" : "nonfree-1",
+      "sha256" : "6b9fb3b6e1f268cad5faf6e15ce15a8eb7d2c9dababd1e11a3d05a686bd57181"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=liquefaction",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/liquefaction",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705556991.97682,
+      "title" : "液状化"
+   },
+   "ref_key_text" : "6\u001C557b89fbae0e874f6ec38c29d1f89dd37632323d31df335e5c3442f3376959f5\u001Cunknown\u001C0\u001C0"
+}
