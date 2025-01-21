@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:e422ee4e-241b-4810-bc79-b52cf90a1dd8" : {
+         "desc" : "",
+         "file_name" : "0033_20210827.txt",
+         "length" : 34590,
+         "mime" : "text/plain",
+         "sha256" : "5fca9d97dcbd45cb504eb2cf77c67176774620857d73c6a8f22eb8eaad55bdc2",
+         "time" : 1737466528,
+         "title" : "広報よこはまほどがや区版2021年９月号",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/hodogaya/kusei/koho/koho_hodogaya/r03/2109.files/0033_20210827.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15598,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "80669201dbf74719cb4144405ec61e6a326192f6ac00cef8e484a010cafdc138",
+         "time" : 1737466527,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/hodogaya_2109"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2679,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a5f826fb04c8ec05ea4e9a001eca30535207c2d55596f6c067e988898f63b043",
+         "time" : 1727771201.00336,
+         "title" : "2021年9月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2109"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (保土ケ谷区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2021年9月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2109"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2109",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2021年9月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2109"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 52867,
+   "mirrorzip" : {
+      "length" : 26430,
+      "set" : "free-2",
+      "sha256" : "b7df9dd8965ad5e4a824e34fe91896f9232df3c4fcfc355296c972a0e44139e6"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=hodogaya_2109",
+      "desc" : "",
+      "org" : "保土ケ谷区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/hodogaya_2109",
+      "tags" : [
+         "区政推進課",
+         "保土ケ谷区",
+         "区政情報",
+         "刊行物_広報"
+      ],
+      "time" : 1727771201.00336,
+      "title" : "2021年9月号"
+   },
+   "ref_key_text" : "6\u001Cacf65b1bbe8e709a6e303f985b86a99d57b2fb08609369833fe3549fb4462ba9\u001Cfree\u001C0\u001C0"
+}
