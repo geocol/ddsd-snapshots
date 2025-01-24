@@ -1,0 +1,123 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:2417b1ae-a5bf-4df6-b2e7-4c72d1ce17c5" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705477527.40069,
+         "title" : "氾濫流",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=HouseCollapse&idPattern=\u005C.FloodFlow\u005C."
+      },
+      "file:id:97235d81-14c1-4653-929d-1885710f5eb4" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705477095.91014,
+         "title" : "河岸侵食",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=HouseCollapse&idPattern=\u005C.RiverbankErosion\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19390,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "90ce4f64d8b5ac27b1f14c64e2705f33464cfc6726475c32162bd006dee5e9dc",
+         "time" : 1737735950,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/housecollapse"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 10121,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "9c6524ca7ffd113fbe782770f8fc9861b8596061467c6fabb9205e31626fb0b9",
+         "time" : 1705477527.38655,
+         "title" : "家屋崩壊",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=housecollapse"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "兵庫県 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "家屋崩壊",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/housecollapse"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=housecollapse",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 29511,
+   "mirrorzip" : {
+      "length" : 10988,
+      "set" : "nonfree-1",
+      "sha256" : "eccd64dbee1272fe4ab86711a549e18023e1a60b4dcceab6c1bcf5a426820f0e"
+   },
+   "package" : {
+      "author" : "兵庫県",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=housecollapse",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/housecollapse",
+      "tags" : [
+         "兵庫県",
+         "加古川市"
+      ],
+      "time" : 1705477527.38655,
+      "title" : "家屋崩壊"
+   },
+   "ref_key_text" : "6\u001Cec703cfb16093988a2705ad84d3d61257e10ccd1857acfcba08b30de9f00fa49\u001Cunknown\u001C0\u001C0"
+}
