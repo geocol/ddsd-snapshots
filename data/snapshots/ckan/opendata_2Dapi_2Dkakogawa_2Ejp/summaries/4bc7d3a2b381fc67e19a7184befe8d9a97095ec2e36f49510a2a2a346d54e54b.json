@@ -1,0 +1,146 @@
+{
+   "files" : {
+      "file:id:1747f743-ee02-4d34-830d-2b9826acf6df" : {
+         "desc" : "",
+         "file_name" : "加古川市のイベント情報.ttl",
+         "length" : 13925,
+         "mime" : "text/turtle",
+         "sha256" : "3b7ea3134a7e9f6556b70fc8675b5df5e61671e2b11559f004d122887e6107a1",
+         "time" : 1737726032,
+         "title" : "加古川市のイベント情報.ttl",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/e1739098-1514-458e-bc9e-840ce000ef98/resource/1747f743-ee02-4d34-830d-2b9826acf6df/download/rename.ttl"
+      },
+      "file:id:43b54cf0-3cb6-44b4-af8c-574eeee5de10" : {
+         "desc" : "",
+         "file_name" : "加古川市のイベント情報.csv",
+         "length" : 4548,
+         "mime" : "text/csv",
+         "sha256" : "e8855137e93867b7da70d9d7c55726d985cb1b62ff151967632a7676a8361e55",
+         "time" : 1737726031,
+         "title" : "加古川市のイベント情報.csv",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/e1739098-1514-458e-bc9e-840ce000ef98/resource/43b54cf0-3cb6-44b4-af8c-574eeee5de10/download/rename.csv"
+      },
+      "file:id:fa90541a-a903-4081-b4db-bc5ff45df416" : {
+         "desc" : "",
+         "file_name" : "rename.jsonld",
+         "length" : 14166,
+         "mime" : "application/octet-stream",
+         "sha256" : "84d2e5da937db291f15829193214d9154cfb2baf3897da9ac8101fdd0a6fd03e",
+         "time" : 1737726033,
+         "title" : "加古川市のイベント情報.jsonld",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/e1739098-1514-458e-bc9e-840ce000ef98/resource/fa90541a-a903-4081-b4db-bc5ff45df416/download/rename.jsonld"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 32362,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "8bc13a3d239c40d76acbf3feb5c46ffd07b5ae5428b481e3cec5fb91076b6b3c",
+         "time" : 1737726035,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/event"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6982,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "3452a8355d8e4181a7d92c8e788420f5a42eaa3ffd8b445f06a4b128c88a8123",
+         "time" : 1737666046.30183,
+         "title" : "加古川市のイベント情報",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=event"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "政策企画課 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市のイベント情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/event"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=event",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 71983,
+   "mirrorzip" : {
+      "length" : 21526,
+      "set" : "nonfree-1",
+      "sha256" : "1c51c8f770c01b8b3cbcce839b3420565263fdcdfd83e5f1061db45b7ab96fc6"
+   },
+   "package" : {
+      "author" : "政策企画課",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=event",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/event",
+      "tags" : [
+         "政策企画課",
+         "加古川市",
+         "その他",
+         "子育て・教育",
+         "市政情報",
+         "環境",
+         "福祉・健康",
+         "観光・文化",
+         "道路・交通",
+         "防災･安全",
+         "イベント"
+      ],
+      "time" : 1737666046.30183,
+      "title" : "加古川市のイベント情報"
+   },
+   "ref_key_text" : "6\u001C96d243e59da296cfbeaaba44b86fb91bca406336d76c7e697381bfce667abbbe\u001Cunknown\u001C0\u001C0"
+}
