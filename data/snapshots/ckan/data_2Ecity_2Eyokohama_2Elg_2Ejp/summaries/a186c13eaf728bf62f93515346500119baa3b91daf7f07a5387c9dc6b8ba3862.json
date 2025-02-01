@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:7b063e17-caf5-434d-863e-f0f47ec7e785" : {
+         "desc" : "",
+         "file_name" : "0637_20230424.txt",
+         "length" : 31484,
+         "mime" : "text/plain",
+         "sha256" : "e09fd55eee6af52063a92c0458fed1c72c982965598b6eec29fdbbb15f98abeb",
+         "time" : 1738417512,
+         "title" : "テキストデータ",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/izumi/kusei/koho/koho_izumi/2023/koyoko202305.files/0637_20230424.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15702,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "998e45ee53bb550f11c03fff79bf452b900a4bcb16439a9520c73772f43b6ed6",
+         "time" : 1738417511,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/izumi_koyoko202305"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2602,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "40886406bb775352d1687c98f9202c619fc4749197a24ea311f5ae7938629a08",
+         "time" : 1727771211.2277,
+         "title" : "2023（令和5）年5月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202305"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "泉区",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2023（令和5）年5月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202305"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202305",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2023（令和5）年5月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202305"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 49788,
+   "mirrorzip" : {
+      "length" : 25670,
+      "set" : "free-3",
+      "sha256" : "04eafd8e824beaac0e1c91701a7436fca7bc1c62cd88a2f07588048c4b46a636"
+   },
+   "package" : {
+      "author" : "泉区",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202305",
+      "desc" : "",
+      "org" : "泉区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202305",
+      "tags" : [
+         "泉区",
+         "区政情報",
+         "刊行物_広報"
+      ],
+      "time" : 1727771211.2277,
+      "title" : "2023（令和5）年5月号"
+   },
+   "ref_key_text" : "6\u001C035bbf2e4c3bcf8f766bd343d7ea0418273e7969524ff59ed864798da4bd4627\u001Cfree\u001C0\u001C0"
+}
