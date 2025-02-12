@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:5db81740-612f-4014-9e58-df1dbcee17ca" : {
+         "desc" : "",
+         "file_name" : "rodo-kyujin.csv",
+         "length" : 1332,
+         "mime" : "text/csv",
+         "sha256" : "7ff10eae7a3a60cf70042cb13a342815a2f6678c8181dfe20f24597fff408c66",
+         "time" : 1739368569,
+         "title" : "有効求人倍率（平成2年度から令和5年度）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/rodo-kyujin.files/rodo-kyujin.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 16569,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9e99b933a4ed5736b6a44efaf78fc09f44c43319cb866d863a623699b0e5e36c",
+         "time" : 1739368568,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_rodo-kyujin"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2675,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "45ac722a36bdc006498e0437e87c0ea84b36dd2f1e8cdd1ebec6eed849155e80",
+         "time" : 1736471091.97307,
+         "title" : "有効求人倍率",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_rodo-kyujin"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "有効求人倍率",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_rodo-kyujin"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_rodo-kyujin",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "有効求人倍率",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_rodo-kyujin"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 20576,
+   "mirrorzip" : {
+      "length" : 11858,
+      "set" : "free-3",
+      "sha256" : "8e00e831d79371e38849cf467dc3f991442b023ccd7272d4455df83b34a8d51b"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_rodo-kyujin",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_rodo-kyujin",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政",
+         "統計"
+      ],
+      "time" : 1736471091.97307,
+      "title" : "有効求人倍率"
+   },
+   "ref_key_text" : "6\u001Ca4aab857825ab55b48d1562250f4efe0925ad3872b3d157176193f2acf14ae51\u001Cfree\u001C0\u001C0"
+}
