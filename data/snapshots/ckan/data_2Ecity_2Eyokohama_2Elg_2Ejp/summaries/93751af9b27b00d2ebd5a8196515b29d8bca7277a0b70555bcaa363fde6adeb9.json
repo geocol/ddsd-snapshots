@@ -1,0 +1,160 @@
+{
+   "files" : {
+      "file:id:afc19d2e-7d44-4efa-9f3b-70dc4f40aa0e" : {
+         "desc" : "",
+         "file_name" : "keisatushobo-kyukyu.csv",
+         "length" : 1174,
+         "mime" : "text/csv",
+         "sha256" : "1375181d44eca7e89585cde9914e432ec0cf79785fa7c5d54c4bf8ef5705d426",
+         "time" : 1739377829,
+         "title" : "救急出場件数と搬送人員（昭和60年から令和５年）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/kyukyu.files/keisatushobo-kyukyu.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 16654,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4da4355e89c75f109bdf77b3ca4ce14e5e3a2fea5b05fcaea8e4a177cda6d9e3",
+         "time" : 1739377828,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_kyukyu"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2894,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "550ef8a950ff28aa2bb33b6f8a496bb3ff73aefa2d1c4c6b222ddadf5d5b7ffc",
+         "time" : 1731027879.84325,
+         "title" : "救急出場件数と搬送人員",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kyukyu"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "救急出場件数と搬送人員",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kyukyu"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kyukyu",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "救急出場件数と搬送人員",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kyukyu"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 20722,
+   "mirrorzip" : {
+      "length" : 11883,
+      "set" : "free-3",
+      "sha256" : "fdfeb9d6f83e4eee3ead1f57c6553e2c759c3acd22aa39d22b2319d7ea480bf5"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kyukyu",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kyukyu",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政",
+         "消防_救急",
+         "統計"
+      ],
+      "time" : 1731027879.84325,
+      "title" : "救急出場件数と搬送人員"
+   },
+   "ref_key_text" : "6\u001C43a384301e11a1ff3762e96e3e12fd41a5895c2620b82ad01f8513930fb0444c\u001Cfree\u001C0\u001C0"
+}
