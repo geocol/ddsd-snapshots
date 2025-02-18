@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:3c9df1c2-aa07-45ff-8190-0121bb73937f" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62338,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3b774a975fe2f6d2147b52b6560374fe6cc4699baf1205dfbe87a909e07c3b1f",
+         "time" : 1739856096,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:5891f977-1971-4ccf-aeee-4aab6ac630dd" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba000001.xml",
+         "length" : 3544,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3b31ee7f02cfcfe3e24d609c779d6094bb8ad9d9d25dab1a6d6f8acc4fdb6352",
+         "time" : 1739856700,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000001.xml"
+      },
+      "file:id:b535cd16-b477-4e5d-81c8-1eb116c97b2f" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの全マスターデータをまとめたデータセットです。",
+         "file_name" : "address_all.csv.zip",
+         "length" : 516876039,
+         "mime" : "application/zip",
+         "sha256" : "7953a61e82cd9e3dcf2580934f89c5112c218e407e050e06fcb2ea529f3a625e",
+         "time" : 1739856677,
+         "title" : "全アドレスデータ",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/address_all.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 28497,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d8867629456ed6fc124750c8eba0bc9a8e52c461eee528ffd46feaaa371aa32f",
+         "time" : 1739856675,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba000001"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5746,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "5962d5ac20bde3a35a8431ddf54e78fa1c6e8afd19353370a635ae69aec23fab",
+         "time" : 1723665764.80467,
+         "title" : "全アドレスデータ",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000001"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全国",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全アドレスデータ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000001"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000001",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "全アドレスデータ",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000001"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全アドレスデータ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000001"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 516976164,
+   "mirrorzip" : {
+      "length" : 516982124,
+      "set" : "free-l36",
+      "sha256" : "dd97320d5cc68c52eaac82f55f92f04446351588e6d389916571b52dc59e248f"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000001",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの全マスターデータをまとめたデータセットです。\u000D\u000A\u000D\u000A地番マスター、地番マスター位置参照拡張のデータセットについて、本データセットには含まれませんので、それぞれのデータセットから個別にダウンロードしてください。",
+      "org" : "全国",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000001",
+      "tags" : [
+         "全国",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1723665764.80467,
+      "title" : "全アドレスデータ"
+   },
+   "ref_key_text" : "6\u001C2b7576af9b9be532c642464a2236a34b9e1c26f5e0d157182db46f5ed4576c45\u001Cfree\u001C0\u001C0"
+}
