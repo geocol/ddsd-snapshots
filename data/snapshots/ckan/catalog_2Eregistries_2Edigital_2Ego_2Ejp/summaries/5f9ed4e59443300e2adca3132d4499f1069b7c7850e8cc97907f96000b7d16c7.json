@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:28e13afb-4fb5-48d5-9ae5-e9dd0d49351d" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 63067,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "590418db607a351db6b68fe5f3aeb7bb21622013ac0b77373f8cf3213b6304ec",
+         "time" : 1740759685,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:4555f240-d6bc-4865-88f0-d8feb7c7c662" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-422118_g2-000004.xml",
+         "length" : 3476,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "7906262c03ca43994659dfc13c2e1bbf3236a138a55323af9bf47e5fe311de66",
+         "time" : 1740846122,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-422118_g2-000004.xml"
+      },
+      "file:id:b8a0bd28-fd95-479a-916e-a4f121ecb861" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_blk_city422118.csv.zip",
+         "length" : 1723,
+         "mime" : "application/zip",
+         "sha256" : "590aac79916721a722687ac6a99d9b7608d5737bb7128de602959df82fae7e25",
+         "time" : 1740846121,
+         "title" : "長崎県 五島市 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city422118.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11230,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ce8ee3ffe03f8024c51c4d869e6ea48a0bfa105e2bf3d9c9909b71bd2a7ae60a",
+         "time" : 1740846119,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-422118_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5567,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "272a8b31832252e0899ddec3022b88c2a3a48bce55472ab8e8e14323fa01ee4c",
+         "time" : 1710317340.89559,
+         "title" : "長崎県 五島市 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-422118_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長崎県 五島市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-422118_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-422118_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "長崎県 五島市 住居表示-街区マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-422118_g2-000004"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長崎県 五島市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-422118_g2-000004"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 85063,
+   "mirrorzip" : {
+      "length" : 31391,
+      "set" : "free-3",
+      "sha256" : "8adc1e0e3815db291f99b1edd3f12d1d8971e1d5d828ad2925bf29d606e8a752"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-422118_g2-000004",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+      "org" : "長崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-422118_g2-000004",
+      "tags" : [
+         "長崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710317340.89559,
+      "title" : "長崎県 五島市 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001C7a40b64f25ec4b7953b7c4d4fa024d0d42cc417f71e9530510cde39613c57fea\u001Cfree\u001C0\u001C0"
+}
