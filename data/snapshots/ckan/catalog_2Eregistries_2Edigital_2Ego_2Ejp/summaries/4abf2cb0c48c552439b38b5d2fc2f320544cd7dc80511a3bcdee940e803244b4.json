@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:41ab7249-56d3-4cd2-bbe5-b0b8c8643656" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 63067,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "590418db607a351db6b68fe5f3aeb7bb21622013ac0b77373f8cf3213b6304ec",
+         "time" : 1741358329,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:99cf27a0-02ca-4542-80ce-661c94b80fc9" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスター位置参照拡張データセットです。",
+         "file_name" : "mt_city_pos_pref20.csv.zip",
+         "length" : 1183,
+         "mime" : "application/zip",
+         "sha256" : "fb72ee2e03964db707595a5dc6dcfb381a45fa0aec484ae069cff87c3e6b70d6",
+         "time" : 1741555565,
+         "title" : "長野県 市区町村マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_city_pos_pref20.csv.zip"
+      },
+      "file:id:af38a144-d9e7-4cc2-a678-9ce58ef27b21" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-200000_g2-000013.xml",
+         "length" : 3494,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "75e5d2edcaafcf4ae61924bc4b2419f14b8c03b2721efe5fbeb7aa6080317e80",
+         "time" : 1741555566,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-200000_g2-000013.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9167,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e76cd27061125e036733463550bf7b061bf1509f77ac1624972d47a725753d27",
+         "time" : 1741555563,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-200000_g2-000013"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5618,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "045ae4b8fa5ccc52cc312f300713c305cfc848e8415a52bf95d0740428036b69",
+         "time" : 1710227222.75543,
+         "title" : "長野県 市区町村マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-200000_g2-000013"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 市区町村マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-200000_g2-000013"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-200000_g2-000013",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "長野県 市区町村マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-200000_g2-000013"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 市区町村マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-200000_g2-000013"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 82529,
+   "mirrorzip" : {
+      "length" : 30830,
+      "set" : "free-3",
+      "sha256" : "7be512f59aaa9fb273a89b2f53d44b43445f9206c8d0d59e6b854d59d16ec44c"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-200000_g2-000013",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスター位置参照拡張データセットです。",
+      "org" : "長野県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-200000_g2-000013",
+      "tags" : [
+         "長野県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710227222.75543,
+      "title" : "長野県 市区町村マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C3499ddddff6f6c02221856804a8a645b5856a991b0745e7a3cd7876db0e468ca\u001Cfree\u001C0\u001C0"
+}
