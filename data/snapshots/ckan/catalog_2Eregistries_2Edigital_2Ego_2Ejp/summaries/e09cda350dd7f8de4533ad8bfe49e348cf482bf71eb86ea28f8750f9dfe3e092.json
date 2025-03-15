@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:4d25b517-3fb9-470d-9666-2de72834509e" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 63067,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "590418db607a351db6b68fe5f3aeb7bb21622013ac0b77373f8cf3213b6304ec",
+         "time" : 1741959216,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:af072598-e188-432a-9f39-dd979937aae0" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+         "file_name" : "mt_town_fullset_city111058.csv.zip",
+         "length" : 1587,
+         "mime" : "application/zip",
+         "sha256" : "8965d82e2725d13ffa3ad102c768db8826a9c1e2e7ebb0ab3605a095c60709d2",
+         "time" : 1742016642,
+         "title" : "埼玉県 さいたま市 中央区 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city111058.csv.zip"
+      },
+      "file:id:b987fed4-cf2d-4f4c-9f66-a8a924be5630" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-111058_g2-000009.xml",
+         "length" : 3565,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "67730f0834f135126adf407eea141ff83143051a910f1cab5e21a711713b1bb5",
+         "time" : 1742016643,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-111058_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9279,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "355f158c90e38c596cec00438bb285150dd1b4df61e674befbe3818d68209dd5",
+         "time" : 1742016640,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-111058_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5746,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "29df044710124e4275c583f1844138a53319fa5fb7f89743818d249337eadc7e",
+         "time" : 1710260447.30205,
+         "title" : "埼玉県 さいたま市 中央区 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-111058_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県 さいたま市 中央区 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-111058_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-111058_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "埼玉県 さいたま市 中央区 町字マスター（フルセット） データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-111058_g2-000009"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県 さいたま市 中央区 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-111058_g2-000009"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 83244,
+   "mirrorzip" : {
+      "length" : 31336,
+      "set" : "free-3",
+      "sha256" : "944ab108d26cb1bdd2f3ce98f2dba882f3ffd57d3b7ed13a7b95dd11ac2e3987"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-111058_g2-000009",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+      "org" : "埼玉県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-111058_g2-000009",
+      "tags" : [
+         "埼玉県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710260447.30205,
+      "title" : "埼玉県 さいたま市 中央区 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001Cce32ae06548bd3b6e41dffd69809fecb4662bef479d21d2e6904fb2c75e74cef\u001Cfree\u001C0\u001C0"
+}
