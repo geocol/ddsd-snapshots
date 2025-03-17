@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:54cdc023-d45d-4f87-bea3-b1151da915b0" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 63085,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bf245da72aa16c00f4a85c7e37aba6a311b4f030a21fc1dcb6ffaf7efa109e35",
+         "time" : 1742218684,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:5c1f4eb9-8dbc-4903-9ce9-377eb26703b7" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-122033_g2-000009.xml",
+         "length" : 3517,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "4831a3230f5724f8cb17251e0697e4d1510ed12e183e71e78fd3a51d51bf726b",
+         "time" : 1742247128,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-122033_g2-000009.xml"
+      },
+      "file:id:b9e46561-0da8-4fd5-a079-4f9db0a170ed" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+         "file_name" : "mt_town_fullset_city122033.csv.zip",
+         "length" : 4289,
+         "mime" : "application/zip",
+         "sha256" : "d9e0b67ae2474bb5399b6f9d39b0ac14d6a01fefafaed7dfa441d4445d822872",
+         "time" : 1742247126,
+         "title" : "千葉県 市川市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city122033.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9199,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bcf64eb4cf210ba761a18dbbe1be6db1feeb1c9988e0ea1367592b844e1fa2e1",
+         "time" : 1742247125,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-122033_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5653,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "94f33f932412f20e9b9510eb27c1d286f1565e874d6572753f72f06e0960d7e8",
+         "time" : 1710264387.44136,
+         "title" : "千葉県 市川市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-122033_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "千葉県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "千葉県 市川市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-122033_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-122033_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "千葉県 市川市 町字マスター（フルセット） データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-122033_g2-000009"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "千葉県 市川市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-122033_g2-000009"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 85743,
+   "mirrorzip" : {
+      "length" : 33928,
+      "set" : "free-3",
+      "sha256" : "12e8fa90a6208731f3b77bcaf212ee476da5883fc225bb67b758ab15e9902b86"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-122033_g2-000009",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+      "org" : "千葉県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-122033_g2-000009",
+      "tags" : [
+         "千葉県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710264387.44136,
+      "title" : "千葉県 市川市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001Cdcbad6b8ee3b9e545c5778f52a40a54e385590c4c9272448620daebf1f772e4c\u001Cfree\u001C0\u001C0"
+}
