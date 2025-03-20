@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:3fc2c86a-260d-428d-a40a-9c9a3e3edb6c" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd9f419df6974cf5e894d42a17eed9d1089b46a8e3fcf203f0702a93457bcfb3",
+         "time" : 1742395204,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c99f6020-b44b-4036-acbf-8afa21a9845b" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスターデータセットです。",
+         "file_name" : "mt_city_pref22.csv.zip",
+         "length" : 1470,
+         "mime" : "application/zip",
+         "sha256" : "12f5a915289005d3feac2cf6bc31d40be92a8e59fd407bb184c444c8f079b56a",
+         "time" : 1742487767,
+         "title" : "静岡県 市区町村マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_city_pref22.csv.zip"
+      },
+      "file:id:cc6fa3ad-a223-49c4-a7b9-e10a3c39abff" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-220001_g2-000002.xml",
+         "length" : 3400,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "39d6ba147a4f9e2bff96e7c3c7afc6fd23a85af2968996d3125316982d7d0fc0",
+         "time" : 1742487768,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-220001_g2-000002.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11081,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ccac5ba885eb457f0ca2023c869659c688b9f96b8275184f6f9cda994627cf93",
+         "time" : 1742487765,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-220001_g2-000002"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5434,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "f5dc6abdc50d4e34ea6d8e79b368d82e628e132444f9984dfad3a5de2649a0db",
+         "time" : 1710227416.51609,
+         "title" : "静岡県 市区町村マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-220001_g2-000002"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県 市区町村マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-220001_g2-000002"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-220001_g2-000002",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "静岡県 市区町村マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-220001_g2-000002"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県 市区町村マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-220001_g2-000002"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 84015,
+   "mirrorzip" : {
+      "length" : 30996,
+      "set" : "free-3",
+      "sha256" : "f0364e96ab8cfb91cff067dc0c189ba13d375afa7a571f6e9f99a53654d33bfb"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-220001_g2-000002",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスターデータセットです。",
+      "org" : "静岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-220001_g2-000002",
+      "tags" : [
+         "静岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710227416.51609,
+      "title" : "静岡県 市区町村マスター データセット"
+   },
+   "ref_key_text" : "6\u001C6cd0dfaf5a2c3a4e72df0e0d7f5d8dde95d7d9bb7037c43114fad5f8adc080f7\u001Cfree\u001C0\u001C0"
+}
