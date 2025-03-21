@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:1d29941d-096a-4149-a263-364b03264d81" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd9f419df6974cf5e894d42a17eed9d1089b46a8e3fcf203f0702a93457bcfb3",
+         "time" : 1742419771,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:d9949f7c-5fe0-4951-993d-c1f8e77a3043" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+         "file_name" : "mt_town_city112399.csv.zip",
+         "length" : 2821,
+         "mime" : "application/zip",
+         "sha256" : "47a98971a26bbb75f05fa06e9b34049c85d058bae3a6a5fbb98bf1fe635061e2",
+         "time" : 1742535123,
+         "title" : "埼玉県 坂戸市 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_city112399.csv.zip"
+      },
+      "file:id:e1a5fa34-25e3-463b-adb2-0bc1987396f3" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-112399_g2-000003.xml",
+         "length" : 3404,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "191fd9526fd74282ac9ad8cd4920381a879495ddab27a3f4d6c0f5742180b622",
+         "time" : 1742535124,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112399_g2-000003.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11787,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5d83ff984c4730d6aaf76ec3d357d72fd6fa988e56ae89aa55442e61dbf9144b",
+         "time" : 1742535121,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-112399_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5435,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a54d3dff8ed78bea3606d8c1ef3a4135a306041498d4c905244ea1ab02d2fa05",
+         "time" : 1719991679.25476,
+         "title" : "埼玉県 坂戸市 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-112399_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県 坂戸市 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112399_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-112399_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "埼玉県 坂戸市 町字マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112399_g2-000003"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "埼玉県 坂戸市 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112399_g2-000003"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 86077,
+   "mirrorzip" : {
+      "length" : 32434,
+      "set" : "free-3",
+      "sha256" : "14823be747069cde90ea48ce37f1bfcc7231649b36bb52fae0e4c5a59f8cf4db"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-112399_g2-000003",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+      "org" : "埼玉県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-112399_g2-000003",
+      "tags" : [
+         "埼玉県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1719991679.25476,
+      "title" : "埼玉県 坂戸市 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001C697cc6b705699094223b38f73cd465fbd51304b9c143b60bc155aedbfa435d8d\u001Cfree\u001C0\u001C0"
+}

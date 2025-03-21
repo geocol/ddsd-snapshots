@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:0b26f181-1e77-4fbf-ba3e-82da78c59888" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd9f419df6974cf5e894d42a17eed9d1089b46a8e3fcf203f0702a93457bcfb3",
+         "time" : 1742419771,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c7f08b31-5e42-479d-8d44-966a4875231e" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+         "file_name" : "mt_town_city212032.csv.zip",
+         "length" : 11429,
+         "mime" : "application/zip",
+         "sha256" : "11086fb8654007eaeb9e25ad669f0a12e4a8adad9a1d4b8986f2d3793d144f40",
+         "time" : 1742535235,
+         "title" : "岐阜県 高山市 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_city212032.csv.zip"
+      },
+      "file:id:e658ecb5-4385-4424-be05-a1b1df093839" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-212032_g2-000003.xml",
+         "length" : 3404,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "b095dbf5031647bc57b5bdb34b2f5fb5e100f95a4dc890a2b0339798ea7c9936",
+         "time" : 1742535236,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212032_g2-000003.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12468,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd00e8d1b4badede6fd6817a7c93023a87c318d55279049dab77c5e406e5738c",
+         "time" : 1742535233,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-212032_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5435,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "001f6910655d230a95f6d7c7e9f01e52ebed526cd833c5c6542f0596da80bf4e",
+         "time" : 1723515479.26247,
+         "title" : "岐阜県 高山市 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-212032_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岐阜県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岐阜県 高山市 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212032_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-212032_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "岐阜県 高山市 町字マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212032_g2-000003"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岐阜県 高山市 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212032_g2-000003"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 95366,
+   "mirrorzip" : {
+      "length" : 41057,
+      "set" : "free-3",
+      "sha256" : "e3ab69df752ed54f52e10a2cfd2901e6cef100595119f69c9b217d012da7d387"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-212032_g2-000003",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+      "org" : "岐阜県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-212032_g2-000003",
+      "tags" : [
+         "岐阜県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1723515479.26247,
+      "title" : "岐阜県 高山市 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001C869f154ee34bd7c35fa77a7f9781a8fe09bbc411019c69f6d1c6364fa0c61f48\u001Cfree\u001C0\u001C0"
+}
