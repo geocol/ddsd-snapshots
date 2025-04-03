@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:4fd6cd87-6948-4e58-913e-e707c5df42ef" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd9f419df6974cf5e894d42a17eed9d1089b46a8e3fcf203f0702a93457bcfb3",
+         "time" : 1743658219,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:552c6be1-2a5e-4ede-b9b4-d4864c2192d2" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+         "file_name" : "mt_town_fullset_city342050.csv.zip",
+         "length" : 8576,
+         "mime" : "application/zip",
+         "sha256" : "3a0af5a151d73ba4699017c6af850dd03051695bf98f78a86778788a3b6921a2",
+         "time" : 1743658248,
+         "title" : "広島県 尾道市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city342050.csv.zip"
+      },
+      "file:id:93cb1f8c-56b1-4d24-9b01-4a709d954399" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-342050_g2-000009.xml",
+         "length" : 3517,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "edb57c1a7019cd06bdf03d72048f48bd7361305f694906d27a50a882dd61f63c",
+         "time" : 1743658249,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342050_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 10602,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "fc2df6f39131e27cc1e41b877b438accd8134da09f330444d2ec4c5e2a5b47b0",
+         "time" : 1743658246,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-342050_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5710,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "cf34f9550398a8d888f38e5d1a9dea6d6885f6d5cf263de05a52b646559d378f",
+         "time" : 1723528746.0006,
+         "title" : "広島県 尾道市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-342050_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県 尾道市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342050_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-342050_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "広島県 尾道市 町字マスター（フルセット） データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342050_g2-000009"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県 尾道市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342050_g2-000009"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 91035,
+   "mirrorzip" : {
+      "length" : 38252,
+      "set" : "free-4",
+      "sha256" : "3ad6b7869b3c155c42d58684eb19f8bd3cf5baf2b7a9ca1940f65bfefee30532"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-342050_g2-000009",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+      "org" : "広島県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342050_g2-000009",
+      "tags" : [
+         "広島県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1723528746.0006,
+      "title" : "広島県 尾道市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001Cd1375e256bc84b5f233f55c23f4b6c6b57d1e57578f1871f59be212bbaae8df2\u001Cfree\u001C0\u001C0"
+}
