@@ -1,0 +1,222 @@
+{
+   "files" : {
+      "file:id:44c2c7ee-15ed-4afd-8a3d-eb1e28544702" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 62630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd9f419df6974cf5e894d42a17eed9d1089b46a8e3fcf203f0702a93457bcfb3",
+         "time" : 1743783655,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:7066b604-386c-4acb-986a-9b9448607c7c" : {
+         "desc" : "",
+         "file_name" : "ba-o1-412015_g2-000011.xml",
+         "length" : 4198,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "17e9e27564ec57d30c89a570a106cf81a66c7afe6cece283d549912e33438e02",
+         "time" : 1743783925,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412015_g2-000011.xml"
+      },
+      "file:id:9b2a9f04-c863-4274-b19a-087088dda0a6" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city412015.csv.zip",
+         "length" : 5457199,
+         "mime" : "application/zip",
+         "sha256" : "b3a96342601f73c59065ff4d90867572bc7d32a74cb2d107ea13d7f400d37065",
+         "time" : 1743783922,
+         "title" : "佐賀県 佐賀市 地番マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_parcel_pos_city412015.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12946,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "764a271a715703eab4fe2046e74821e31e5891dd1a22064da66c3e33d4ae416c",
+         "time" : 1743783921,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-412015_g2-000011"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6889,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8d93460168250469617926d599bcc6944a99847bc127dab21eabce7c07abd6d9",
+         "time" : 1714154069.61323,
+         "title" : "佐賀県 佐賀市 地番マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412015_g2-000011"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "佐賀県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "佐賀県 佐賀市 地番マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412015_g2-000011"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412015_g2-000011",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスター位置参照拡張データセットです。地番マスター位置参照拡張は「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-ckan-package",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスター位置参照拡張データセットです。地番マスター位置参照拡張は「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412015_g2-000011",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "佐賀県 佐賀市 地番マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412015_g2-000011"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "佐賀県 佐賀市 地番マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412015_g2-000011"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 5543862,
+   "mirrorzip" : {
+      "length" : 5448281,
+      "set" : "nonfree-3",
+      "sha256" : "8824d9134466195afb131f29b37a551696db362602e54ca2e41302f858a8e3e5"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-412015_g2-000011",
+      "desc" : "",
+      "org" : "佐賀県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-412015_g2-000011",
+      "tags" : [
+         "佐賀県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1714154069.61323,
+      "title" : "佐賀県 佐賀市 地番マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C6a878c6abf3ea01c4106dc8a41c4101d5746c878d1dd476029b988ce53243c43\u001Cunknown\u001C0\u001C0"
+}
