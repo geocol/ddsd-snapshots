@@ -1,0 +1,160 @@
+{
+   "files" : {
+      "file:id:a7477654-6f87-4e74-b12b-ac1595156d64" : {
+         "desc" : "",
+         "file_name" : "totikiko-tenki.csv",
+         "length" : 11028,
+         "mime" : "text/csv",
+         "sha256" : "e2c52280c1772058fde78a910d02cab19d2835a0fd8e48edc5e772044e4aa542",
+         "time" : 1744321909,
+         "title" : "月別平均気温と降水量（平成12年１月から令和７年３月）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/kion-kosui.files/totikiko-tenki.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27645,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4e415baa844ad75610ae0c9c4df74ca99b24e5d71309cb28f318a52214238526",
+         "time" : 1744321908,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_kion-kosui"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2888,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "5ef5e613e0d0f6998fecd2841e45e231cc1613a2d0b7bd1e90774cd20c373f0e",
+         "time" : 1743987875.31217,
+         "title" : "月別平均気温と降水量",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kion-kosui"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "月別平均気温と降水量",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kion-kosui"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kion-kosui",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "月別平均気温と降水量",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kion-kosui"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 41561,
+   "mirrorzip" : {
+      "length" : 14672,
+      "set" : "free-4",
+      "sha256" : "727c8b23248ba4aa1744b9d878cc0c757045a3dff6e3d71e5b569dbc223c382c"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kion-kosui",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kion-kosui",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政",
+         "環境",
+         "統計"
+      ],
+      "time" : 1743987875.31217,
+      "title" : "月別平均気温と降水量"
+   },
+   "ref_key_text" : "6\u001C2f0ea5e4296031a9b31349b0b97dc89cc88a782b704ac645d79d793018e714ab\u001Cfree\u001C0\u001C0"
+}

@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:1eb4448d-1fd3-48f5-9de4-eeedb0b94597" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62630,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "dd9f419df6974cf5e894d42a17eed9d1089b46a8e3fcf203f0702a93457bcfb3",
+         "time" : 1744268940,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:4a68a8fc-9cba-4c1f-87df-9610a0c17ac3" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-住居マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_rsdt_city132039.csv.zip",
+         "length" : 142751,
+         "mime" : "application/zip",
+         "sha256" : "f0f27a5ecb2d2545c30836e0adaef7f337eec34f104754f2d2de29e44830c82a",
+         "time" : 1744320568,
+         "title" : "東京都 武蔵野市 住居表示-住居マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_city132039.csv.zip"
+      },
+      "file:id:93d0a082-0e07-4a08-aefd-0e20896ddf16" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-132039_g2-000005.xml",
+         "length" : 3486,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "8f0e38521b8da9502e39de3cef63e3bd71035a0f8011c268040384f95be3025c",
+         "time" : 1744320570,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132039_g2-000005.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11254,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "785c8c606e08273f133b8c777c9601fae08fbdf742d0016320cdc9c8257c0ca1",
+         "time" : 1744320566,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-132039_g2-000005"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5586,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "23ff13caae9e90c66acb1ec9cd026f8d7ab149e4189142db3d0967afebf418c9",
+         "time" : 1710268295.57592,
+         "title" : "東京都 武蔵野市 住居表示-住居マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-132039_g2-000005"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 武蔵野市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132039_g2-000005"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-132039_g2-000005",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "東京都 武蔵野市 住居表示-住居マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132039_g2-000005"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 武蔵野市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132039_g2-000005"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 225707,
+   "mirrorzip" : {
+      "length" : 134193,
+      "set" : "free-4",
+      "sha256" : "9c9c694fa1be6d43a559c75661a8d8c93996c4f685c5564fb0f65e352a7f7b7e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-132039_g2-000005",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-住居マスターデータセットです。",
+      "org" : "東京都",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132039_g2-000005",
+      "tags" : [
+         "東京都",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710268295.57592,
+      "title" : "東京都 武蔵野市 住居表示-住居マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cc5ea2944d9859c9803125ebbcde150bdf39926549f579dd0f6a26d56b0f47278\u001Cfree\u001C0\u001C0"
+}
