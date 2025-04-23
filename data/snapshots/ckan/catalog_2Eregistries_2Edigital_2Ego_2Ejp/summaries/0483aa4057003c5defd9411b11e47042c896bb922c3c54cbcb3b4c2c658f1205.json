@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:276e2ee2-e1ca-4950-b04b-68f72ba9a646" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1745415590,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:7b00caa9-5a34-4bd5-95cc-fe3fc03a4dcc" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+         "file_name" : "mt_town_fullset_city012106.csv.zip",
+         "length" : 10972,
+         "mime" : "application/zip",
+         "sha256" : "33a5f0b996f1e24a772a96fb07612466d700df5cc1cf961c132070928fb9da03",
+         "time" : 1745425378,
+         "title" : "北海道 岩見沢市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city012106.csv.zip"
+      },
+      "file:id:b4fd6b9c-5349-4612-910b-f8511e6ebcef" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-012106_g2-000009.xml",
+         "length" : 3526,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "b9028aba7f2ba886af078ebb389c685fdbd905d9763f6a9297eb608a632ce2ca",
+         "time" : 1745425380,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-012106_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9214,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "494fc3028d073e679fb5ea49b0ef22dfdd18d06e9fe03984c3f646a9ef8b3f86",
+         "time" : 1745425377,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-012106_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5671,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "20139558a8c9fde7c8de77dcc8da5fce5059963de6f0e1df697fbea4d7605850",
+         "time" : 1710237714.94243,
+         "title" : "北海道 岩見沢市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-012106_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "北海道",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "北海道 岩見沢市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-012106_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-012106_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "北海道 岩見沢市 町字マスター（フルセット） データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-012106_g2-000009"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "北海道 岩見沢市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-012106_g2-000009"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 91986,
+   "mirrorzip" : {
+      "length" : 40356,
+      "set" : "free-4",
+      "sha256" : "cab8412a7c8dd5652e4e77a0b80ad3aeb994e46bb3fb9ea1b77fa931478912ae"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-012106_g2-000009",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+      "org" : "北海道",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-012106_g2-000009",
+      "tags" : [
+         "北海道",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710237714.94243,
+      "title" : "北海道 岩見沢市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C62b988423019271b7c787be10c45542ef81dbd0ed519f883e448f45b0df3e8e2\u001Cfree\u001C0\u001C0"
+}

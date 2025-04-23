@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:275db48a-1374-42cd-afc8-6f8da0a91d78" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1745415590,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:3db07882-3f2e-4c06-ac2a-29dc0b503c10" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-162094_g2-000005.xml",
+         "length" : 3486,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "ed2742bb7ad24ab61112951295fec5cc51c87b7903e5f33fb1df00f62f98d1b6",
+         "time" : 1745425516,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-162094_g2-000005.xml"
+      },
+      "file:id:7f7c83e7-13cf-4ed9-b958-308a81d3308a" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-住居マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_rsdt_city162094.csv.zip",
+         "length" : 38743,
+         "mime" : "application/zip",
+         "sha256" : "65a362101e8f8bdd30f310907926033dc877f581e5975465af32f3d83ae3603d",
+         "time" : 1745425515,
+         "title" : "富山県 小矢部市 住居表示-住居マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_city162094.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11254,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "d6ac158f7bfe27bb179e3612a082cbb84c1ff45010b764c4fab1bf666e20a0b4",
+         "time" : 1745425513,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-162094_g2-000005"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5586,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4b06650f3acef17813569bc03c7619b1dd0147af86d68f2473d5b2d2c93808f5",
+         "time" : 1710275595.5515,
+         "title" : "富山県 小矢部市 住居表示-住居マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-162094_g2-000005"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "富山県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "富山県 小矢部市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-162094_g2-000005"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-162094_g2-000005",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "富山県 小矢部市 住居表示-住居マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-162094_g2-000005"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "富山県 小矢部市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-162094_g2-000005"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 121672,
+   "mirrorzip" : {
+      "length" : 52908,
+      "set" : "free-4",
+      "sha256" : "a98d06ac33fc5417a86450012d199ecd3106e6f161fa4c6e6d1a7e615d0fc85c"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-162094_g2-000005",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-住居マスターデータセットです。",
+      "org" : "富山県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-162094_g2-000005",
+      "tags" : [
+         "富山県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710275595.5515,
+      "title" : "富山県 小矢部市 住居表示-住居マスター データセット"
+   },
+   "ref_key_text" : "6\u001C8697b398770fa0f6a352168dff200a16f1589834201be24af9e0433fd1e47669\u001Cfree\u001C0\u001C0"
+}
