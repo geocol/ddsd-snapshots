@@ -1,0 +1,155 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:056b1c37-4608-4bbe-8d67-ea6b2bfcd506" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524806783.06866,
+         "title" : "高潮浸水予測防潮施設機能",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=TideHazardMap&idPattern=\u005C.BochoShisetsu\u005C."
+      },
+      "file:id:2658f131-bbea-44ff-9fbc-eddad6bf4831" : {
+         "desc" : "",
+         "file_name" : "entities-3",
+         "set_type" : "fiware-ngsi",
+         "time" : 1705476111.62133,
+         "title" : "高潮浸水想定区域",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=TideHazardMap&idPattern=\u005C.StormSurge\u005C."
+      },
+      "file:id:9ec14e08-1a53-4d49-81ca-e28f370ea9ad" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1524807895.84033,
+         "title" : "高潮浸水予測防潮施設機能しない",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=TideHazardMap&idPattern=\u005C.BochoShisetsuNashi\u005C."
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 27819,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "48a91035273e19ab1c12ac3d5d012bff0b3bb7639098a96f15c8e747f85866f1",
+         "time" : 1745473525,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/tidehazardmap"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "insecure" : 1,
+         "length" : 15797,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "df770e6ec1812ecb0b755bd8236c0bdf79052c659643fccdd66264a1efddbad3",
+         "time" : 1705476111.60124,
+         "title" : "高潮ハザードマップ",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tidehazardmap"
+      }
+   },
+   "insecure" : 1,
+   "legal" : {
+      "insecure" : 1,
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "insecure" : 1,
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "高潮ハザードマップ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/tidehazardmap"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tidehazardmap",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-insecure",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示の一部または全部は非保安輸送路によって転送された情報に基づいています。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 43616,
+   "mirrorzip" : {
+      "length" : 12015,
+      "set" : "nonfree-4",
+      "sha256" : "6198b1dee8b93d598bab264ddf75950961d4bc574c968f641b8090cdfbd31268"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=tidehazardmap",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/tidehazardmap",
+      "tags" : [
+         "加古川市",
+         "防災･安全",
+         "ハザード",
+         "高潮"
+      ],
+      "time" : 1705476111.60124,
+      "title" : "高潮ハザードマップ"
+   },
+   "ref_key_text" : "6\u001C911057c4799776951e80156ab1d8d94877cac3bb97800f91a96cf5ca58a5a9f8\u001Cunknown\u001C1\u001C0"
+}
