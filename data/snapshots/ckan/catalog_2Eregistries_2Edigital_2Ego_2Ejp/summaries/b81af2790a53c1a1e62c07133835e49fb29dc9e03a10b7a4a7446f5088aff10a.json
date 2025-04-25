@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:3c7040ab-e83c-40bd-8dc2-d5684e80c02e" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1745588234,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:9c044e3c-2a94-411c-a9ee-5fd51d9c34f6" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-222216_g2-000004.xml",
+         "length" : 3476,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "dbcb6e96721d2aebe78de6d0f02d68589b3086ee513eb767db4e6664950b7a74",
+         "time" : 1745588424,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-222216_g2-000004.xml"
+      },
+      "file:id:e10eb5d5-88cc-4675-89d9-4c04d105af42" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_blk_city222216.csv.zip",
+         "length" : 1357,
+         "mime" : "application/zip",
+         "sha256" : "2479f2d2ca31ada868e599e19ddffdd14f46ba39930813d5d81c32a23dc42b0a",
+         "time" : 1745588422,
+         "title" : "静岡県 湖西市 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city222216.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11230,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6a052a2f67d380dedcf2155b2c68a706ebad735f9e63642704a303a8ed9b7060",
+         "time" : 1745588421,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-222216_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5567,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "74486cddfbfb9fe69c74e406aebb575090a1c964b287424fd722b028aee35f20",
+         "time" : 1710285042.46425,
+         "title" : "静岡県 湖西市 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-222216_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県 湖西市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-222216_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-222216_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "静岡県 湖西市 住居表示-街区マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-222216_g2-000004"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "静岡県 湖西市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-222216_g2-000004"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 84233,
+   "mirrorzip" : {
+      "length" : 30925,
+      "set" : "free-4",
+      "sha256" : "17a040179828693220d89b38d799ccef230215de845ca2b00e58027aa67e4ed6"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-222216_g2-000004",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+      "org" : "静岡県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-222216_g2-000004",
+      "tags" : [
+         "静岡県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710285042.46425,
+      "title" : "静岡県 湖西市 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001C82e8319d25a221221bc2fae4bce2b234be3dda2170467f3f4a06d842dbb33758\u001Cfree\u001C0\u001C0"
+}

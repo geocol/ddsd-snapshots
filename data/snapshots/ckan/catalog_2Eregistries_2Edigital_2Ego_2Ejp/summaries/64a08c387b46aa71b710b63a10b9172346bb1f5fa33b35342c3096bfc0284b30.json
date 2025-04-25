@@ -1,0 +1,222 @@
+{
+   "files" : {
+      "file:id:9f1e95db-e418-4620-8f16-070fe1d2fa53" : {
+         "desc" : "",
+         "file_name" : "ba-o1-204111_g2-000011.xml",
+         "length" : 4234,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "d3f93f7eb2191bc0715b16035223719a493d6795ca3d9a236fb5d10bc81aa18b",
+         "time" : 1745588410,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-204111_g2-000011.xml"
+      },
+      "file:id:b1940f40-9246-4894-b844-a27108071849" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1745588234,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c413ef8b-76c0-478d-9880-c5ed25a33900" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city204111.csv.zip",
+         "length" : 527835,
+         "mime" : "application/zip",
+         "sha256" : "eaf03c385ef41a526115e2f7bd4cc057b66d17d4cda775d3ef831d2a5df186a7",
+         "time" : 1745588408,
+         "title" : "長野県 下伊那郡下條村 地番マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_parcel_pos_city204111.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 13066,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2d3688f6b1887469ab99d6f91c05ff8830217303de7c012f0d7e82be5431e94d",
+         "time" : 1745588406,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-204111_g2-000011"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6961,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8ba804d057e9d8b242884da7b0891600256424a39b4afe83522ec456ead1a96b",
+         "time" : 1714144846.68167,
+         "title" : "長野県 下伊那郡下條村 地番マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-204111_g2-000011"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 下伊那郡下條村 地番マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-204111_g2-000011"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-204111_g2-000011",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスター位置参照拡張データセットです。地番マスター位置参照拡張は「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-ckan-package",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスター位置参照拡張データセットです。地番マスター位置参照拡張は「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-204111_g2-000011",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "長野県 下伊那郡下條村 地番マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-204111_g2-000011"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "長野県 下伊那郡下條村 地番マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-204111_g2-000011"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 614699,
+   "mirrorzip" : {
+      "length" : 552693,
+      "set" : "nonfree-4",
+      "sha256" : "ac201431e26213dba70f9a41c210e2cdde400cf505e76213494a3c78840f8d10"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-204111_g2-000011",
+      "desc" : "",
+      "org" : "長野県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-204111_g2-000011",
+      "tags" : [
+         "長野県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1714144846.68167,
+      "title" : "長野県 下伊那郡下條村 地番マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cfbc69477f7645c05dab414b87c74898e276e9bdc46d90cd4459eb03b34ae883d\u001Cunknown\u001C0\u001C0"
+}
