@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:3051ceaf-b8df-4096-b840-00fedfdd0779" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1746110292,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:b6c1230d-5700-45ee-894a-f17a512b1678" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-271454_g2-000004.xml",
+         "length" : 3488,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "6e77cd63392c1d23e2cadcdb69d2ab6ec96dacfed15ae0180381e4cc19af847e",
+         "time" : 1746116614,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271454_g2-000004.xml"
+      },
+      "file:id:e096c05b-540b-48c0-a89c-68579e17a7aa" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_blk_city271454.csv.zip",
+         "length" : 10162,
+         "mime" : "application/zip",
+         "sha256" : "78247d647b778170861c7fcd2e29a853e62967ce82def0dbc02e6e65c725aacc",
+         "time" : 1746116613,
+         "title" : "大阪府 堺市 南区 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city271454.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11262,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3a0cb19a6fae9dabd3e1d597073a902788a8c47b3b5272bbf8d4709246159fb5",
+         "time" : 1746116611,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-271454_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5588,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4b8ba6e3c9ce31914233e395ea581879f9f29a9bbf9c4b01df8ced41a85fce72",
+         "time" : 1710294463.24083,
+         "title" : "大阪府 堺市 南区 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-271454_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大阪府",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大阪府 堺市 南区 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271454_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-271454_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "大阪府 堺市 南区 住居表示-街区マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271454_g2-000004"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "大阪府 堺市 南区 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271454_g2-000004"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 93103,
+   "mirrorzip" : {
+      "length" : 37361,
+      "set" : "free-4",
+      "sha256" : "d8a76428e94b19d0ba4f62b3f4b2e2ffe43de390b8da517d70078ba66dea2c71"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-271454_g2-000004",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+      "org" : "大阪府",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-271454_g2-000004",
+      "tags" : [
+         "大阪府",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710294463.24083,
+      "title" : "大阪府 堺市 南区 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001C31046a60cb1a8f8a03d7c45a2a26d3885adc6e601737228afde46c31b5b9c824\u001Cfree\u001C0\u001C0"
+}
