@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:1b254f25-7a78-4ca0-9e98-d27926888512" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1746336721,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:2f261a35-d22c-46e0-944d-17418b297399" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+         "file_name" : "mt_town_pos_city394246.csv.zip",
+         "length" : 1433,
+         "mime" : "application/zip",
+         "sha256" : "6c967d67850205a2f5398b824c59182b8df860be2542211d9495c887f2dd5bce",
+         "time" : 1746394265,
+         "title" : "高知県 幡多郡大月町 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city394246.csv.zip"
+      },
+      "file:id:4972ce7f-f958-40cb-9d1c-7b4f78d2d2b2" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-394246_g2-000006.xml",
+         "length" : 3525,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "9faae9151619f8d2157bcb63c1ab91b67576768596be83fd724d084c5cd3085c",
+         "time" : 1746394266,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-394246_g2-000006.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11341,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "126bc9a88b14c7e7cdd560cc53254774ff7f948cb680e66db145e41255ec7013",
+         "time" : 1746394263,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-394246_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5673,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "152722d75cb3d231376fffce9e67ce7af5142a4b232db6dce1c13674095d90ce",
+         "time" : 1710312323.83494,
+         "title" : "高知県 幡多郡大月町 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-394246_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "高知県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "高知県 幡多郡大月町 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-394246_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-394246_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "高知県 幡多郡大月町 町字マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-394246_g2-000006"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "高知県 幡多郡大月町 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-394246_g2-000006"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 84575,
+   "mirrorzip" : {
+      "length" : 31172,
+      "set" : "free-4",
+      "sha256" : "f4b1f9c855e0ce9b20e07d8fce22352f50aefeb3d388fbe88503fa1030992bb3"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-394246_g2-000006",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+      "org" : "高知県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-394246_g2-000006",
+      "tags" : [
+         "高知県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710312323.83494,
+      "title" : "高知県 幡多郡大月町 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C7e63c5f9458636ca74279c4873aa9c7f8cc4d5ff53c546f6be05eadd5f9557e6\u001Cfree\u001C0\u001C0"
+}
