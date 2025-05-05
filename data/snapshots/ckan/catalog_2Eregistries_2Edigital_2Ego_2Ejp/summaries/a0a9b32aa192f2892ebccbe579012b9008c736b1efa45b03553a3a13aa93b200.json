@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:1c9606b0-96b4-461c-8324-5acf0dbe8a61" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1746168562,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:300d3120-3503-4235-af5f-edbcba1b172a" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+         "file_name" : "mt_town_pos_city042064.csv.zip",
+         "length" : 4137,
+         "mime" : "application/zip",
+         "sha256" : "472d1d6d446cca5914350414af4c5632ce108a5732fd1bd09a0a071bcf8377d7",
+         "time" : 1746462377,
+         "title" : "宮城県 白石市 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city042064.csv.zip"
+      },
+      "file:id:fac71d9d-b0c7-408c-b870-502a42cdfe16" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-042064_g2-000006.xml",
+         "length" : 3498,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "6e0b5def79aac1b65f5ef8eedc93fb1f11f4fd307106924d23ec5c56af7673e1",
+         "time" : 1746462379,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042064_g2-000006.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11269,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2ce4b7933f99740ecc4443bea601fbbe83ddf60be4a0d5bae6096adb1007c43f",
+         "time" : 1746462375,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-042064_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5619,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "492a5697ac7d1510719a424c68971fa2646d663a6df2c17217a0eb104d5abfc6",
+         "time" : 1710248567.017,
+         "title" : "宮城県 白石市 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042064_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県 白石市 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042064_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042064_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "宮城県 白石市 町字マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042064_g2-000006"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県 白石市 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042064_g2-000006"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 87126,
+   "mirrorzip" : {
+      "length" : 33815,
+      "set" : "free-4",
+      "sha256" : "34fb8f48fd77f738c1366bf10c9919b17e908b6a003b6ed2bf769edf7e2456e7"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042064_g2-000006",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+      "org" : "宮城県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042064_g2-000006",
+      "tags" : [
+         "宮城県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710248567.017,
+      "title" : "宮城県 白石市 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C69de690cbc55cd2090490e0c34c6ae2affeb28d4d13903a0a4e993bad732e663\u001Cfree\u001C0\u001C0"
+}

@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:933db002-6fbd-4134-a70e-1f959abd3ce5" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1746168562,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:eea79cfe-0b60-466a-9f25-13d2b2cd0507" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+         "file_name" : "mt_town_city313025.csv.zip",
+         "length" : 1747,
+         "mime" : "application/zip",
+         "sha256" : "df5b5557bc293d0c286689226a2b3711d29d40b79e9e5e61c7d6f5dfa9e07cbe",
+         "time" : 1746462279,
+         "title" : "鳥取県 岩美郡岩美町 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_city313025.csv.zip"
+      },
+      "file:id:fd6484c9-8dc0-4712-93f1-0a50f5d54d14" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-313025_g2-000003.xml",
+         "length" : 3431,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "daf70962857fb6d51458899551a46e672028a13b3b01ebf5c3d0379d526dd6be",
+         "time" : 1746462281,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313025_g2-000003.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11869,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1a60ea940013a6a4f24082c6984c80709f65b0c33275a1398a24b112441897cf",
+         "time" : 1746462278,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-313025_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5489,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6ccccb911af34bb66c964f08c117741025015cae3ccec7f188f4476151309978",
+         "time" : 1720056286.18329,
+         "title" : "鳥取県 岩美郡岩美町 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-313025_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鳥取県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鳥取県 岩美郡岩美町 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313025_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-313025_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "鳥取県 岩美郡岩美町 町字マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313025_g2-000003"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鳥取県 岩美郡岩美町 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313025_g2-000003"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 85139,
+   "mirrorzip" : {
+      "length" : 31375,
+      "set" : "free-4",
+      "sha256" : "6aa7cd09fb6994dfd6cba3b330d0d05229ab7cc7ca80aa3695a35a30fcb254b0"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-313025_g2-000003",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+      "org" : "鳥取県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-313025_g2-000003",
+      "tags" : [
+         "鳥取県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720056286.18329,
+      "title" : "鳥取県 岩美郡岩美町 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001C309181d971bdbb53b79d32aa294d01dc0687325055d10dc8730365c5f5a3412d\u001Cfree\u001C0\u001C0"
+}
