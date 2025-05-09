@@ -1,0 +1,138 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:1a70b9e0-1e5d-4beb-86ab-d29f5b6143ef" : {
+         "desc" : "",
+         "set_type" : "fiware-ngsi",
+         "time" : 1529384010.62224,
+         "title" : "かこがわウェルピーポイント加盟店",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=KakogawaWpoint&limit=1000"
+      },
+      "file:id:6a9a0829-c0bb-4fe9-8487-575c3df5982e" : {
+         "desc" : "",
+         "file_name" : "kakogawawpoint.json",
+         "length" : 203758,
+         "mime" : "application/json",
+         "sha256" : "22c1ce05e4e6a3808ee5db40c015bcba81a6d4835ac75de4b77cd3785edf7444",
+         "time" : 1746827430,
+         "title" : "かこがわウェルピーポイント加盟店",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/857cd2b8-033d-4ff1-95cf-652baa665ab8/resource/6a9a0829-c0bb-4fe9-8487-575c3df5982e/download/kakogawawpoint.json"
+      },
+      "file:id:d92be4d5-d8f0-488d-9bf4-cd4232d423a1" : {
+         "desc" : "",
+         "file_name" : "kakogawawpoint.csv",
+         "length" : 15428,
+         "mime" : "text/csv",
+         "sha256" : "5b93587301243390d7b604e69c899f88d437148472126ef77f6d169afaece13b",
+         "time" : 1746827431,
+         "title" : "かこがわウェルピーポイント加盟店",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/857cd2b8-033d-4ff1-95cf-652baa665ab8/resource/d92be4d5-d8f0-488d-9bf4-cd4232d423a1/download/kakogawawpoint.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 37216,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "460088d7bd2c78c63e6add7b3e53b782641666c40b1bf08208d4be2e1d4d75d1",
+         "time" : 1746827433,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/kakogawawpoint"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 13418,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "bd24c80667526658343d06024b20c0fddf345982df0046f894d29417788c2b2d",
+         "time" : 1746554125.44547,
+         "title" : "かこがわウェルピーポイント加盟店",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=kakogawawpoint"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "加古川市",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "かこがわウェルピーポイント加盟店",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/kakogawawpoint"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=kakogawawpoint",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 269820,
+   "mirrorzip" : {
+      "length" : 26983,
+      "set" : "nonfree-5",
+      "sha256" : "2d1b0b09331c37dc1b5513ee396e0fdd0101b280387ae9398ee80b8c663b2724"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=kakogawawpoint",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/kakogawawpoint",
+      "tags" : [
+         "加古川市",
+         "その他",
+         "かこがわウェルピーポイント利用店",
+         "ウェルピー",
+         "ウェルピーポイント"
+      ],
+      "time" : 1746554125.44547,
+      "title" : "かこがわウェルピーポイント加盟店"
+   },
+   "ref_key_text" : "6\u001Ca0ad7ddae46e4d307342a4be1cae9a30f9bf6610a8afc718634f3c7c67a7f043\u001Cunknown\u001C0\u001C0"
+}
