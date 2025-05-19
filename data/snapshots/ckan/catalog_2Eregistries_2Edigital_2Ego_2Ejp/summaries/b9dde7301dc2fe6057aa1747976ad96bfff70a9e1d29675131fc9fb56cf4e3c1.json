@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:2c8c2418-27f4-4e96-9c5a-15c358661295" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c818626b147c6e50648ebd0165ea15b9965ba2845419ad95a097023d699d872b",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:7ea71375-2b98-4078-a376-3a3048f82f06" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-430005_g2-000013.xml",
+         "length" : 3494,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "edb2f85a5074285d4bca0cce98a41f2ba73ec5af6031ccc3688fb72dd3f4f1a3",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-430005_g2-000013.xml"
+      },
+      "file:id:fdce8fb6-ecaf-4bb7-af1e-de28495418e5" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスター位置参照拡張データセットです。",
+         "file_name" : "mt_city_pos_pref43.csv.zip",
+         "length" : 845,
+         "mime" : "application/zip",
+         "sha256" : "d1d2111731e0e54b6cf4f557da56a3bdbb1c05565ddc17c56d2bc93586109760",
+         "time" : 1702431634,
+         "title" : "熊本県 市区町村マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_city_pos_pref43.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 9167,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bace1a0b02c6534c3f3eedab15fd6a41e319326d19872ba41e95228f38d17aec",
+         "time" : 1747690351,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-430005_g2-000013"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5618,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e124f43551e75ba1ee9c6f798a5272784b79807cf7fd296a08d7c69c9a421b64",
+         "time" : 1710227245.67632,
+         "title" : "熊本県 市区町村マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-430005_g2-000013"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "熊本県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "熊本県 市区町村マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-430005_g2-000013"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-430005_g2-000013",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "熊本県 市区町村マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-430005_g2-000013"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "熊本県 市区町村マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-430005_g2-000013"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 81727,
+   "mirrorzip" : {
+      "length" : 30359,
+      "set" : "free-4",
+      "sha256" : "34c0d209d243a50dd34659d7ad0ab8e9a4b1eddda5e8ca58927c9365a343011e"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-430005_g2-000013",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスター位置参照拡張データセットです。",
+      "org" : "熊本県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-430005_g2-000013",
+      "tags" : [
+         "熊本県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710227245.67632,
+      "title" : "熊本県 市区町村マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C44ecec7d37f56291ce368b7a6ca9d6d2932ae8b3ef75fa25eb39e03d32509c7f\u001Cfree\u001C0\u001C0"
+}
