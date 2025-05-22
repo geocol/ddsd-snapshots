@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:6f6b440f-6627-4c23-b8c8-4b997794a1c6" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "da390ba68a4db3df0b5c05f9e050cbd2c17d543d689621b3873710f746d238ff",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:91deffb8-7347-4ebc-b081-d13f754994cf" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-464686_g2-000003.xml",
+         "length" : 3440,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "b0f782d2639d9c92fa491cc19fc5b91ef228a089f8a0b1e01842940603b84896",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-464686_g2-000003.xml"
+      },
+      "file:id:cf47c4a6-ca20-423b-81ed-f62d6726e2c3" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+         "file_name" : "mt_town_city464686.csv.zip",
+         "length" : 2350,
+         "mime" : "application/zip",
+         "sha256" : "ed74ab2a316cfc0c574d0061c6e554d1d8fc9726481fafa3926713aa7e025a48",
+         "time" : 1720085332,
+         "title" : "鹿児島県 曽於郡大崎町 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_city464686.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11898,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3335c1aa6ee0de43c00924c862d5e903a5fa48bd5ec46ac124e469c9a2c0579c",
+         "time" : 1747930966,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-464686_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5513,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "f94df6d5faeb51e8acfeb59064185a3fa58f695e08d59cc7dc2ec9ccc6eaec09",
+         "time" : 1720085336.59878,
+         "title" : "鹿児島県 曽於郡大崎町 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-464686_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県 曽於郡大崎町 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-464686_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-464686_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "鹿児島県 曽於郡大崎町 町字マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-464686_g2-000003"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県 曽於郡大崎町 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-464686_g2-000003"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 85804,
+   "mirrorzip" : {
+      "length" : 32030,
+      "set" : "free-4",
+      "sha256" : "3f4b54e14bcb3f479309716c34a867c6ed5678a94fd6b0a87ebcce54d8b7320c"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-464686_g2-000003",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+      "org" : "鹿児島県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-464686_g2-000003",
+      "tags" : [
+         "鹿児島県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1720085336.59878,
+      "title" : "鹿児島県 曽於郡大崎町 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001C04465ffddb2e3fe52ccd37c5ebf4d749947e7d83f7137a0cd3f3b731d8b7d028\u001Cfree\u001C0\u001C0"
+}
