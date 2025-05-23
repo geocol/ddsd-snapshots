@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:97745041-d418-4286-978a-a368cf641771" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "da390ba68a4db3df0b5c05f9e050cbd2c17d543d689621b3873710f746d238ff",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:d212e527-39a0-46d7-86d9-0a92648e3778" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスターデータセットです。",
+         "file_name" : "mt_city_pref13.csv.zip",
+         "length" : 1836,
+         "mime" : "application/zip",
+         "sha256" : "825215ffd1a9b8bda4c6e85b41434bba2442331f28611dcd4e8407175617338b",
+         "time" : 1707885000,
+         "title" : "東京都 市区町村マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_city_pref13.csv.zip"
+      },
+      "file:id:e9514fd0-59bb-4986-a343-503c05113f10" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-130001_g2-000002.xml",
+         "length" : 3400,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3686b72fb2a2e4ef7c9839976c30a5254f263336996214f4106d7697ff5e68ea",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-130001_g2-000002.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11759,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c6ab0bb8f292f4070890d5a084afec4d544ed6bcc5fe3ac90fc8994a4e42848f",
+         "time" : 1747978621,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-130001_g2-000002"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5491,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "1fb40a4a1df6933680d5a0bd9178912e2b89fd9ac2eca3dc3a3e0a4cdd1f9e8e",
+         "time" : 1747905617.1223,
+         "title" : "東京都 市区町村マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-130001_g2-000002"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 市区町村マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-130001_g2-000002"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-130001_g2-000002",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "東京都 市区町村マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-130001_g2-000002"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 市区町村マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-130001_g2-000002"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 85089,
+   "mirrorzip" : {
+      "length" : 31406,
+      "set" : "free-4",
+      "sha256" : "57d4a7eed3060ea28e389365b329a57b455fb91cc0085118fc053621b0bfc545"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-130001_g2-000002",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの市区町村マスターデータセットです。",
+      "org" : "東京都",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-130001_g2-000002",
+      "tags" : [
+         "東京都",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1747905617.1223,
+      "title" : "東京都 市区町村マスター データセット"
+   },
+   "ref_key_text" : "6\u001C2b70b15cf4f8f9222a3231ee073ee0eb303398228c4e9e5d81e3b574744683c6\u001Cfree\u001C0\u001C0"
+}
