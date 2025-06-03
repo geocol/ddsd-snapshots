@@ -1,0 +1,77 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:r:page" : {
+         "desc" : "",
+         "file_name" : "1",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://data.city.ikoma.lg.jp/policy/"
+      },
+      "file:r:pdf" : {
+         "desc" : "",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://www.city.ikoma.lg.jp/cmsfiles/contents/0000024/24987/kiyaku.pdf"
+      },
+      "meta:packref.json" : {
+         "desc" : "",
+         "length" : 757,
+         "mime" : "text/plain; charset=utf-8",
+         "sha256" : "aca226a52cd862e3512b8ebdebb0b4d948a70ea99252e413c3d94a7f2892aac5",
+         "time" : 1748987152,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://raw.githubusercontent.com/geocol/ddsd-data/master/packref/legal/terms-data.city.ikoma.lg.jp.json"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "packref",
+            "source_url" : "https://data.city.ikoma.lg.jp/policy/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 757,
+   "mirrorzip" : {
+      "length" : 3513,
+      "set" : "nonfree-5",
+      "sha256" : "3fb422ccd7ab28842be165f94c8e01e7d61cb768158e7a0c2fa988ba7d3de868"
+   },
+   "package" : {
+      "author" : "生駒市",
+      "desc" : "",
+      "org" : "",
+      "tags" : [
+         "生駒市"
+      ],
+      "time" : 1748987152,
+      "title" : "ご利用について"
+   },
+   "ref_key_text" : "6\u001Ceee8081f22f43ca675091a7672583c22642a553d8842a4033a72b6a009e9b6a0\u001Cunknown\u001C0\u001C1"
+}
