@@ -1,0 +1,222 @@
+{
+   "files" : {
+      "file:id:04ff8909-ff90-4735-b805-cefc9d2e9c71" : {
+         "desc" : "",
+         "file_name" : "ba-o1-331015_g2-000011.xml",
+         "length" : 4219,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "61c9c287a614f1658925ca62db0d42bafa644f29abff3a73772684273a94d2e7",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-331015_g2-000011.xml"
+      },
+      "file:id:490f1002-8bde-472b-bece-a01bbe21418c" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 62621,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9233646930b24e0f96107c73b09891cdab0f7b8fc5d88e3384be79c164b92fed",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:6039088b-6b72-4ff7-babb-112cc6b697aa" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_pos_city331015.csv.zip",
+         "length" : 3921886,
+         "mime" : "application/zip",
+         "sha256" : "a8394d9dd2b80f605f6ab9860bb8678c939871e476da5ee95c0f81dff8f8e9fa",
+         "time" : 1714150792,
+         "title" : "岡山県 岡山市 北区 地番マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_parcel_pos_city331015.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 13016,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "44ee1cb2e8c9f350fed4417f0b30858bccc4aabe29c4c6af8e6ada9a0d4936b0",
+         "time" : 1749850254,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-331015_g2-000011"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6928,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "064526a43edf3d919c9ce1e98585d5d6a4b449fe45ea0769158617cb0550dcac",
+         "time" : 1714150801.03473,
+         "title" : "岡山県 岡山市 北区 地番マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-331015_g2-000011"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岡山県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岡山県 岡山市 北区 地番マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-331015_g2-000011"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-331015_g2-000011",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスター位置参照拡張データセットです。地番マスター位置参照拡張は「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-ckan-package",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスター位置参照拡張データセットです。地番マスター位置参照拡張は「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-331015_g2-000011",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "岡山県 岡山市 北区 地番マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-331015_g2-000011"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "岡山県 岡山市 北区 地番マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-331015_g2-000011"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 4008670,
+   "mirrorzip" : {
+      "length" : 3918555,
+      "set" : "nonfree-6",
+      "sha256" : "d8bc5cbdc353fb929ef470f089b03e8ad532abab7401edb486e45f71dde7b6c0"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-331015_g2-000011",
+      "desc" : "",
+      "org" : "岡山県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-331015_g2-000011",
+      "tags" : [
+         "岡山県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1714150801.03473,
+      "title" : "岡山県 岡山市 北区 地番マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001C411727a02c0ab3f2e6202227bb98af600f7c41bc81cfdc3135854bc48903ab5b\u001Cunknown\u001C0\u001C0"
+}
