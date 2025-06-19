@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:a8acb64b-edea-4c82-9376-635a4a8f2479" : {
+         "desc" : "横浜市のごみと資源物の出し方を一覧にしたもの",
+         "file_name" : "0140_20250612.csv",
+         "length" : 243643,
+         "mime" : "text/csv",
+         "sha256" : "ec07cdaed057a8fb7610286eb40ffa4532973d483bf57174c6741ff12db6a06a",
+         "time" : 1749805449.19939,
+         "title" : "ごみと資源物の出し方一覧表（令和７年６月更新）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/dashikata.files/0140_20250612.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 22101,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "655910ece89b5ba99d277048e7d7f9ff1ebbdf64b45200078c65d96ed6d735ea",
+         "time" : 1750341042,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/shigen_dashikata"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2900,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "56d382d53680f998a0e5661ae271b70659e0fd09ccc3850d72d15964b8006cf7",
+         "time" : 1749805449.18445,
+         "title" : "ごみの分別を調べる",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shigen_dashikata"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "３Ｒ推進課 (資源循環局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "ごみの分別を調べる",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/shigen_dashikata"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shigen_dashikata",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "ごみの分別を調べる",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/shigen_dashikata"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 268644,
+   "mirrorzip" : {
+      "length" : 66145,
+      "set" : "free-5",
+      "sha256" : "4fcd63a5db985e99a75a606d1596f29503cc30dc6f3c9d629c70bd7a4af72898"
+   },
+   "package" : {
+      "author" : "３Ｒ推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shigen_dashikata",
+      "desc" : "",
+      "org" : "資源循環局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/shigen_dashikata",
+      "tags" : [
+         "３Ｒ推進課",
+         "資源循環局",
+         "住まい・くらし",
+         "環境"
+      ],
+      "time" : 1749805449.18445,
+      "title" : "ごみの分別を調べる"
+   },
+   "ref_key_text" : "6\u001Cb23d26d83b614c1934c40d6df0f44794a41991834a30fb680f448daa9d793699\u001Cfree\u001C0\u001C0"
+}
