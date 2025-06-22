@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:a8de8cfb-6b08-40ac-9d10-bcb365344709" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 62603,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "5fe1c4277f643d8aebd5b70bcd233311a44011f89bc747158e72b78977bc3b7f",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c433a87f-b0af-4241-8ab0-938d6be5c800" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-100005_g2-000006.xml",
+         "length" : 3464,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "d37fd2e1238cb40275df65c377cbe67bf594f99ddb6b3fe2c626685d8837b01e",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-100005_g2-000006.xml"
+      },
+      "file:id:e9f11313-24a6-4d67-b246-bf54d42d4ceb" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+         "file_name" : "mt_town_pos_pref10.csv.zip",
+         "length" : 55559,
+         "mime" : "application/zip",
+         "sha256" : "6a36de6f0cf2cd0a2ef78f95b64d4562eab78495b10a0f5083d3ae0c34476736",
+         "time" : 1743421666,
+         "title" : "群馬県 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_pref10.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11878,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f1d14d88577ab0e45e6a5c459b789fced4c2e559edc4d803378bdae17416e1ff",
+         "time" : 1750599473,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-100005_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5558,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a56fe1d7f83871580ff88b3e42eeed963c55bc9226000fcdcb7de7c9e2d59aa5",
+         "time" : 1743421672.97296,
+         "title" : "群馬県 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-100005_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "群馬県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "群馬県 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-100005_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-100005_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "群馬県 町字マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-100005_g2-000006"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "群馬県 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-100005_g2-000006"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 139062,
+   "mirrorzip" : {
+      "length" : 84776,
+      "set" : "free-5",
+      "sha256" : "f13bfc8d16720987dd12ac165fea53ce9f12b5a972c310dca2652ac5afe93f61"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-100005_g2-000006",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+      "org" : "群馬県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-100005_g2-000006",
+      "tags" : [
+         "群馬県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1743421672.97296,
+      "title" : "群馬県 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cdacaea6cf4c178b215d848741a2c6a7a631d69ef815c63d07090eeb8639b8304\u001Cfree\u001C0\u001C0"
+}
