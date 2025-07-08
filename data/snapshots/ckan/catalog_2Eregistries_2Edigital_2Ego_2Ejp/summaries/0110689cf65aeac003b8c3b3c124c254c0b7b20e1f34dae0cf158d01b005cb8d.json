@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:a572fd21-b503-4613-ab3f-2127bb80a22d" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6fcbe4872dd34ab6efd5f5f37d15e74754bf294c672046045a1a14dcfad408ba",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:b891dd74-f701-4a6b-a33a-86635481a54b" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+         "file_name" : "mt_town_fullset_city462225.csv.zip",
+         "length" : 2912,
+         "mime" : "application/zip",
+         "sha256" : "b1facceac5c21145b38ea41b66644b63656a04ee0e5480fc9839466732332b94",
+         "time" : 1748439860,
+         "title" : "鹿児島県 奄美市 町字マスター（フルセット） データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_fullset_city462225.csv.zip"
+      },
+      "file:id:c3afaff8-9556-449c-a95e-5bca014d4fef" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-462225_g2-000009.xml",
+         "length" : 3526,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "2a40d506142469c878ccd13f28c5213c55125f61918795b78785c4704928ca09",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462225_g2-000009.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11327,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1d26df441e8ddddf6eb2bd91d883e6fb703fe070134a1e2aa0af9703a2f76a0f",
+         "time" : 1751953150,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-462225_g2-000009"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5734,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "cfe6eb81e94f4a4d9cdf9ad106628fa249a83bb465eb108df1f135731308cb55",
+         "time" : 1748439866.0413,
+         "title" : "鹿児島県 奄美市 町字マスター（フルセット） データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-462225_g2-000009"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県 奄美市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462225_g2-000009"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-462225_g2-000009",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "鹿児島県 奄美市 町字マスター（フルセット） データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462225_g2-000009"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "鹿児島県 奄美市 町字マスター（フルセット） データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462225_g2-000009"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 93014,
+   "mirrorzip" : {
+      "length" : 36319,
+      "set" : "free-5",
+      "sha256" : "db0b651ea2bc85a4b03acdb00a3c63c09081ce5711bdfc4c993fbd75711ba59a"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-462225_g2-000009",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター（フルセット）データセットです。",
+      "org" : "鹿児島県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-462225_g2-000009",
+      "tags" : [
+         "鹿児島県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1748439866.0413,
+      "title" : "鹿児島県 奄美市 町字マスター（フルセット） データセット"
+   },
+   "ref_key_text" : "6\u001C926d627a65a1d82a0870aab7b7266d7e38c025927c0dec0fc9eed4f64d46917c\u001Cfree\u001C0\u001C0"
+}

@@ -1,0 +1,222 @@
+{
+   "files" : {
+      "file:id:2f64784a-0fc3-4d15-ad7a-cf788802bfb6" : {
+         "desc" : "",
+         "file_name" : "ba-o1-452025_g2-000010.xml",
+         "length" : 4068,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "fc075f1e3c98c7fe5cdaaf89cea6ac9358cd54be51767fc23cf38b2730197cdf",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000010.xml"
+      },
+      "file:id:6b887663-76a6-41bc-a3bb-649547425229" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_city452025.csv.zip",
+         "length" : 2808177,
+         "mime" : "application/zip",
+         "sha256" : "0ed845bf510d49deec5e6186edf93e830be090df95dba822b9c6ba37ba557082",
+         "time" : 1714155556,
+         "title" : "宮崎県 都城市 地番マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_parcel_city452025.csv.zip"
+      },
+      "file:id:a9bc3579-3067-45d5-929e-a9bd708d7125" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6fcbe4872dd34ab6efd5f5f37d15e74754bf294c672046045a1a14dcfad408ba",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12730,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e9cb0b75ffdafc0d223549d9c3c62603e1353b023ea9153e6df1a79a8be6c3d7",
+         "time" : 1751953005,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-452025_g2-000010"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6633,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "707200d83228d2321fc4dcf40c44ef3afed4f877925dd89818e52e08221525a7",
+         "time" : 1714155563.72492,
+         "title" : "宮崎県 都城市 地番マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000010"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県 都城市 地番マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000010"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000010",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスターデータセットです。地番マスターは「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-ckan-package",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスターデータセットです。地番マスターは「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000010",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "宮崎県 都城市 地番マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000010"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮崎県 都城市 地番マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000010"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 2901123,
+   "mirrorzip" : {
+      "length" : 2563830,
+      "set" : "nonfree-7",
+      "sha256" : "18fdc1d9284b522df6d9fc9b10941b575da29df22cc166220b685ebb3265f836"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-452025_g2-000010",
+      "desc" : "",
+      "org" : "宮崎県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-452025_g2-000010",
+      "tags" : [
+         "宮崎県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1714155563.72492,
+      "title" : "宮崎県 都城市 地番マスター データセット"
+   },
+   "ref_key_text" : "6\u001C4af2f8b325a369b4a0bc7eedc5d8a3d000aa4ddd12272f223d9b32c5de3298fa\u001Cunknown\u001C0\u001C0"
+}
