@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:33594908-f600-42cb-9066-ec76da7b461a" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "6fcbe4872dd34ab6efd5f5f37d15e74754bf294c672046045a1a14dcfad408ba",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:4ed7e761-3ee1-4c1d-a836-613ca26da60d" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+         "file_name" : "mt_town_pos_city252069.csv.zip",
+         "length" : 2383,
+         "mime" : "application/zip",
+         "sha256" : "23749ad754d57a4a7f30971aa5fec2c0a4d382cc1a1ada3ca49ccb07c6f6848f",
+         "time" : 1710290594,
+         "title" : "滋賀県 草津市 町字マスター位置参照拡張 データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_city252069.csv.zip"
+      },
+      "file:id:5c00d40f-f217-45ef-9c5a-90d0f6e47314" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-252069_g2-000006.xml",
+         "length" : 3498,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "8ede6f58be554d7888c62f127c07ce7534970b3fa63a28bdadeeb31cd24f39e9",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252069_g2-000006.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11269,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9757cf08d9cefd492da155d5c458ddc4f31b625b1254b137101b4fcfb741e437",
+         "time" : 1752039441,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-252069_g2-000006"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5619,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "e0f4d7cac186c7671fed564ac28c20670c66bbef3e7e1093f75d219e87f736e7",
+         "time" : 1710290600.09739,
+         "title" : "滋賀県 草津市 町字マスター位置参照拡張 データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-252069_g2-000006"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県 草津市 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252069_g2-000006"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-252069_g2-000006",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "滋賀県 草津市 町字マスター位置参照拡張 データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252069_g2-000006"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県 草津市 町字マスター位置参照拡張 データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252069_g2-000006"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 92284,
+   "mirrorzip" : {
+      "length" : 35772,
+      "set" : "free-5",
+      "sha256" : "f2d0ab80e5dc159e522b3280d5007fa7f6f1dd35365018a731b3e75777ebc4b1"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-252069_g2-000006",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+      "org" : "滋賀県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-252069_g2-000006",
+      "tags" : [
+         "滋賀県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710290600.09739,
+      "title" : "滋賀県 草津市 町字マスター位置参照拡張 データセット"
+   },
+   "ref_key_text" : "6\u001Cd85248a8ef3ee33cb6178f4b95c4871349b7c73fdec18e29ad9a9b6ce35244ba\u001Cfree\u001C0\u001C0"
+}
