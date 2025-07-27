@@ -1,0 +1,148 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:43d5f024-595f-4518-bbe2-3b41e6394d48" : {
+         "desc" : "クーリングシェルターに指定されている施設情報APIです。  \u000D\u000AAPIの利用方法は[こちら](https://obsta-1.cloud-iaas.nec.com/paperwork/API%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95.pdf)をご参照ください。\u000D\u000A\u000D\u000A##エンティティパラメータ\u000D\u000Aエンティティタイプ：Coolingshelter\u000D\u000AエンティティID：jp.kakogawa.Coolingshelter.[連番]\u000D\u000A\u000D\u000A##属性\u000D\u000A名称 , タイプ , 説明\u000D\u000Aname , Text , 施設の名称\u000D\u000Alocation , geo:json , 位置情報\u000D\u000ApostCode , Text , 郵便番号\u000D\u000Aaddress , Text , 住所\u000D\u000Acapacity , Text , 施設収容人数\u000D\u000Aparking , Text , 駐車場有無\u000D\u000AaccessibleToilet , Text , バリアフリートイレ有無\u000D\u000AopeningHours , Text , 開館時間\u000D\u000AavailableDayOfWeek , Text , 開館曜日\u000D\u000Aremarks , Text , 備考\u000D\u000AmunicipalCode , Text , 都道府県コード又は市区町村コード\u000D\u000Aprefecture , Text , 都道府県名称\u000D\u000Acity , Text , 市区町村名称\u000D\u000AupdateDateTime , DateTime , 更新日時\u000D\u000A",
+         "set_type" : "fiware-ngsi",
+         "time" : 1752905701.51213,
+         "title" : "クーリングシェルター",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=Coolingshelter&limit=1000"
+      },
+      "file:id:739a5142-0fe3-410f-b12e-b64bfa472dda" : {
+         "desc" : "クーリングシェルターに指定されている施設情報です。",
+         "file_name" : "kakogawa_coolingshelter.csv",
+         "length" : 17985,
+         "mime" : "text/csv",
+         "sha256" : "b5cf4a52fdec1790361d9df9021653e93f7913a04a87bf184892fdcfe5796009",
+         "time" : 1752906164.92398,
+         "title" : "クーリングシェルター",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/437b9948-1b9e-44dc-ada9-0053c024c358/resource/739a5142-0fe3-410f-b12e-b64bfa472dda/download/kakogawa_coolingshelter.csv"
+      },
+      "file:id:7d5a9ea5-fb34-442b-a24a-844086745ba4" : {
+         "desc" : "クーリングシェルターに指定されている施設情報です。",
+         "file_name" : "kakogawa_coolingshelter.json",
+         "length" : 75479,
+         "mime" : "application/json",
+         "sha256" : "4288eab371726708fa42827ee8e05031075e42348a9b482ed02998218f0a8068",
+         "time" : 1752904951.45827,
+         "title" : "クーリングシェルター",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/437b9948-1b9e-44dc-ada9-0053c024c358/resource/7d5a9ea5-fb34-442b-a24a-844086745ba4/download/kakogawa_coolingshelter.json"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 21945,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "29fa07aee1da9d90ca9ec1d3dbed2aaa492a883af2aed6b2b6867ae3467f3449",
+         "time" : 1753596001,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/coolingshelter"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 7240,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "0ad5439845db498f2071852d91eb549f1333e8dbb57154b573c761c0bf2eadc1",
+         "time" : 1752906166.22058,
+         "title" : "クーリングシェルター",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=coolingshelter"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "防災対策課 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "クーリングシェルター",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/coolingshelter"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=coolingshelter",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "full_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "is_free" : "neutral",
+            "key" : "-ddsd-terms-opendata-api-kakogawa.jp",
+            "label" : "加古川市オープンデータカタログサイト利用規約 (令和元年6月3日に適用)",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "このサービスは、「加古川市オープンデータカタログサイト」のAPI機能を使用していますが、サービスの内容は加古川市によって保証されたものではありません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 122649,
+   "mirrorzip" : {
+      "length" : 22368,
+      "set" : "free-5",
+      "sha256" : "50d2b977b4ee51f611e2dd1465fedc951c55ea82c2862d2a5744c160ba6204dc"
+   },
+   "package" : {
+      "author" : "防災対策課",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=coolingshelter",
+      "desc" : "クーリングシェルターに指定されている施設情報です。\u000D\u000A※クーリングシェルター開放期間は、環境省の熱中症警戒アラート運用期間としています。",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/coolingshelter",
+      "tags" : [
+         "防災対策課",
+         "加古川市",
+         "クーリングシェルター",
+         "指定暑熱避難施設",
+         "熱中症"
+      ],
+      "time" : 1752906166.22058,
+      "title" : "クーリングシェルター"
+   },
+   "ref_key_text" : "6\u001Cef2985b7b0f02462ce67a60dd83efc8af8383188a984a44fbd292f30d57a5ced\u001Cfree\u001C0\u001C0"
+}
