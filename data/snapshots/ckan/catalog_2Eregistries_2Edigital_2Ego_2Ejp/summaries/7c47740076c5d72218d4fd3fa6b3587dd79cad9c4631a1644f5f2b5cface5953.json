@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:311a0e54-c011-403a-bf5a-cd4d0e0bb4c1" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+         "file_name" : "mt_town_pos_all.csv.zip",
+         "length" : 4240043,
+         "mime" : "application/zip",
+         "sha256" : "07ed285a69a5aa850331efaf7186916cf08b49ebc360c22df37f51a70520c724",
+         "time" : 1743451302,
+         "title" : "町字マスター位置参照拡張（全国）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pos_all.csv.zip"
+      },
+      "file:id:d2f3e219-9113-4b75-8074-3c8a89f8dfcd" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f0eea7668279958a1890d51bfcd09ce89b8c646d2998c2fcf33e4c21f70605fc",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:fb40c69f-9990-4812-ade7-a32b02d0cf5c" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba000004.xml",
+         "length" : 3386,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "359c04c0b02fc6e3cf17efe0f1232d9673890c8605e05c95be3eaa75fbef137b",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000004.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 29697,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "e5efbeba0697290fe919b790fbf251ae94f7d68956ebc78ae6146b0a1f0b9233",
+         "time" : 1753883711,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5454,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c7ffff79038bf179ae3c73d6c5309614d9941ad454f82a83f2accad1243bb2c1",
+         "time" : 1743451302.51352,
+         "title" : "全国　町字マスター位置参照拡張　データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全国",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全国　町字マスター位置参照拡張　データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "全国　町字マスター位置参照拡張　データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000004"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "全国　町字マスター位置参照拡張　データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000004"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 4348095,
+   "mirrorzip" : {
+      "length" : 4271694,
+      "set" : "free-6",
+      "sha256" : "bc0d0237136a1c406b08a5af5f18e9e0ad8f271486960d4a6846714ae3b22d15"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba000004",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスター位置参照拡張データセットです。",
+      "org" : "全国",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba000004",
+      "tags" : [
+         "全国",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1743451302.51352,
+      "title" : "全国　町字マスター位置参照拡張　データセット"
+   },
+   "ref_key_text" : "6\u001Cb9bf3f57a343f2d40ee217794de51770a09c573d470ea718985566dc2ebc2fd9\u001Cfree\u001C0\u001C0"
+}
