@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:104db1f8-86ed-477c-a285-7b2ad918ab8f" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f0eea7668279958a1890d51bfcd09ce89b8c646d2998c2fcf33e4c21f70605fc",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:4d136399-ad9f-4caa-9f79-8b1d423bab59" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_blk_city132209.csv.zip",
+         "length" : 3993,
+         "mime" : "application/zip",
+         "sha256" : "dde00b01a370d028e073cd4afaf62a43f35d29fd63bd097ebc72e7be7c09a4ec",
+         "time" : 1710269058,
+         "title" : "東京都 東大和市 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city132209.csv.zip"
+      },
+      "file:id:ffe08d8b-8b9a-4f5b-b493-544d7ac2b8e4" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-132209_g2-000004.xml",
+         "length" : 3485,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "441003737533ebb8c258a4393a07afd03e817fc85004d4618c60c3980cbbcae5",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132209_g2-000004.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11254,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "48b7a78b06e73d8eca8fa9171a40b8ac8eea295a57085fcd9f8a6242604b7925",
+         "time" : 1754027082,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-132209_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5585,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "29ebd0036510bec1d102609c86ba3ef820f5553a06c5ab214af5e53b94c9b4e7",
+         "time" : 1710269064.60268,
+         "title" : "東京都 東大和市 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-132209_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 東大和市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132209_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-132209_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "東京都 東大和市 住居表示-街区マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132209_g2-000004"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 東大和市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132209_g2-000004"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 93832,
+   "mirrorzip" : {
+      "length" : 36618,
+      "set" : "free-6",
+      "sha256" : "192cdf705be49fb08d69df35b25cdbc518b11fbe5ee5b735a0830af2074334e3"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-132209_g2-000004",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+      "org" : "東京都",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-132209_g2-000004",
+      "tags" : [
+         "東京都",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710269064.60268,
+      "title" : "東京都 東大和市 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001C48ee4ff1d0d35b21ca1603c9d3f0bb69e664151df3c30f6030f0984a04258f13\u001Cfree\u001C0\u001C0"
+}
