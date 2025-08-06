@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:182ffce3-773a-4cd8-b6aa-9cb7775d28b2" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f0eea7668279958a1890d51bfcd09ce89b8c646d2998c2fcf33e4c21f70605fc",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:1840d02d-f480-4a79-86bb-c40424b13a20" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+         "file_name" : "mt_town_pref25.csv.zip",
+         "length" : 122225,
+         "mime" : "application/zip",
+         "sha256" : "c5d5f5fe84513d1e9a53791953415ac17e1e878255dfba2cfb4792ceb7a98717",
+         "time" : 1748424344,
+         "title" : "滋賀県 町字マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_town_pref25.csv.zip"
+      },
+      "file:id:88102a12-092a-41a5-bb52-807b89872528" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-250007_g2-000003.xml",
+         "length" : 3370,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "bdee8ca0eb6cc3de51c7d753740920e09b3f5df7d478d251575ee8c209d421c5",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-250007_g2-000003.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 29054,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "aa4652350a011cb4d85000dfb7e51ee707f5a9d0f299eff05171b2b519f70b31",
+         "time" : 1754497471,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-250007_g2-000003"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5374,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "395fd03625085a6703b61f4389aa1e14b614b03930723a82002e3a13056e3b34",
+         "time" : 1748424350.45201,
+         "title" : "滋賀県 町字マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-250007_g2-000003"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-250007_g2-000003"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-250007_g2-000003",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "滋賀県 町字マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-250007_g2-000003"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "滋賀県 町字マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-250007_g2-000003"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 229538,
+   "mirrorzip" : {
+      "length" : 155349,
+      "set" : "free-6",
+      "sha256" : "b1140fcb17124ff8367d4d76cff871558a89634edb0b1991c9f7ea77d36fb572"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-250007_g2-000003",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの町字マスターデータセットです。",
+      "org" : "滋賀県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-250007_g2-000003",
+      "tags" : [
+         "滋賀県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1748424350.45201,
+      "title" : "滋賀県 町字マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cec08b8a440586b6af0d41652ecd0b68cd125233c6969a06a604bd2242d6da182\u001Cfree\u001C0\u001C0"
+}
