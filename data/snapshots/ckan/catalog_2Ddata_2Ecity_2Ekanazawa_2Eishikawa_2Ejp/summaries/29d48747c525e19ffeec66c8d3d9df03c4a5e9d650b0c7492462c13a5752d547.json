@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:adaf102e-c256-4b3d-9891-9c91f677e4ef" : {
+         "desc" : "",
+         "file_name" : "173614_school_district.csv",
+         "length" : 5020,
+         "mime" : "text/csv",
+         "sha256" : "34e05126368e34ac7d70bf6ef672bb2806b065073f2ac47b5d5379041d9eacae",
+         "time" : 1754456042.9622,
+         "title" : "173614_school_district.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/448ef0cc-3fba-4710-badd-8455ce7886f8/resource/adaf102e-c256-4b3d-9891-9c91f677e4ef/download/173614_school_district.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12475,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "4e0b48281f051452e9bb51e97dca1a6961c3e496f8ad3d494a55ef9c83abc546",
+         "time" : 1754662805,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/173614_school_zone"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 1987,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2b0a87db76f668f2dd1140cdbfdba5f4f8eb00ae76e58fd39bbe3395861e2da4",
+         "time" : 1754456042.97845,
+         "title" : "津幡町 小中学校通学区域",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=173614_school_zone"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "津幡町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "津幡町 小中学校通学区域",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_school_zone"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=173614_school_zone",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "津幡町 小中学校通学区域",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_school_zone"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917",
+                  "label" : "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "津幡町 小中学校通学区域",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_school_zone"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917",
+            "label" : "金沢市オープンデータポータル 利用規約 (令和６年９月 17 日から施行)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 19482,
+   "mirrorzip" : {
+      "length" : 12200,
+      "set" : "free-6",
+      "sha256" : "3fb0da6a8f6a81a5748f18dfb6109fd467a41b05eff5a810636ce1ea063a4295"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=173614_school_zone",
+      "desc" : "",
+      "org" : "津幡町",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_school_zone",
+      "tags" : [
+         "津幡町"
+      ],
+      "time" : 1754456042.97845,
+      "title" : "津幡町 小中学校通学区域"
+   },
+   "ref_key_text" : "6\u001C08abe98afed728ed024d239f6303116cbc456b8c65b58b28ec2c686b23baf134\u001Cfree\u001C0\u001C0"
+}

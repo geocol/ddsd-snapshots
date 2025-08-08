@@ -1,0 +1,214 @@
+{
+   "files" : {
+      "file:id:402d962e-f002-45d8-8037-a959b43604b8" : {
+         "desc" : "",
+         "file_name" : "173614_equipment.csv",
+         "length" : 1173,
+         "mime" : "text/csv",
+         "sha256" : "0450cef050bbf8188129119b36702acf1debf8ab5ebea23ba2959456103e58c5",
+         "time" : 1754454939.81426,
+         "title" : "173614_equipment.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/89ceec67-c6c7-4441-beff-af03f38fca13/resource/402d962e-f002-45d8-8037-a959b43604b8/download/173614_equipment.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12461,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "c33fc07cdef208cd2e7994ed8a98f2ea15e0fa1188977a9b8ccfdf41b0e7fe6f",
+         "time" : 1754662853,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/173614_equipment"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 1973,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "fb65e6b65608de0dfd3d6e9e89047b61c8afd7f15ebb180cac2b5a08c332aef8",
+         "time" : 1754454939.82979,
+         "title" : "津幡町 コミュニティ備品",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=173614_equipment"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "津幡町",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "津幡町 コミュニティ備品",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_equipment"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=173614_equipment",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "津幡町 コミュニティ備品",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_equipment"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917",
+                  "label" : "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "津幡町 コミュニティ備品",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_equipment"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917",
+            "label" : "金沢市オープンデータポータル 利用規約 (令和６年９月 17 日から施行)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 15607,
+   "mirrorzip" : {
+      "length" : 10940,
+      "set" : "free-6",
+      "sha256" : "81f5218ce8a4fe2c56dafde230e0a00b9b5802fe6b5d6cb80167b7ce25983cb8"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=173614_equipment",
+      "desc" : "",
+      "org" : "津幡町",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/173614_equipment",
+      "tags" : [
+         "津幡町"
+      ],
+      "time" : 1754454939.82979,
+      "title" : "津幡町 コミュニティ備品"
+   },
+   "ref_key_text" : "6\u001Cb9687867761f32c1bae966d7800868f7e254e3127a36d71fe2571c077826e84a\u001Cfree\u001C0\u001C0"
+}
