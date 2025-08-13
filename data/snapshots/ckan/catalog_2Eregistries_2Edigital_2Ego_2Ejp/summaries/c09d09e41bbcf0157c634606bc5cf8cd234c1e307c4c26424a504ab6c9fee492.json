@@ -1,0 +1,222 @@
+{
+   "files" : {
+      "file:id:4c77247b-a99d-4dfd-b50d-d069cb803f28" : {
+         "desc" : "",
+         "file_name" : "base_registry_address",
+         "length" : 69515,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "f0eea7668279958a1890d51bfcd09ce89b8c646d2998c2fcf33e4c21f70605fc",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:c525f07e-828f-4f88-8fae-07d51cc6810c" : {
+         "desc" : "",
+         "file_name" : "mt_parcel_city131075.csv.zip",
+         "length" : 442005,
+         "mime" : "application/zip",
+         "sha256" : "21ae2c83cc7765c1dc5e20cc7473548f15adeabb85b15a77c9739d7d6f2eeb52",
+         "time" : 1714141394,
+         "title" : "東京都 墨田区 地番マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_parcel_city131075.csv.zip"
+      },
+      "file:id:e73f8c44-b195-4b46-8179-3c4183445899" : {
+         "desc" : "",
+         "file_name" : "ba-o1-131075_g2-000010.xml",
+         "length" : 4068,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "dca5fc3fa2e3eeed0b67b0e30e8757991f292a7cf9957c605fe6a37760f86e17",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131075_g2-000010.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 12730,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "8bfa6032ddc69d42d9af8f6a99f84a672b0833b12d9cd77eeae40784e9f635e1",
+         "time" : 1755063503,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-131075_g2-000010"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6633,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "dce5f6fde8fd58340ba76190299099510a806b14cbb65991793477f4ee660e27",
+         "time" : 1714141400.38259,
+         "title" : "東京都 墨田区 地番マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131075_g2-000010"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 墨田区 地番マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131075_g2-000010"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131075_g2-000010",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスターデータセットです。地番マスターは「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "site",
+            "source_url" : "https://www.digital.go.jp/policies/base_registry_address_tos",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "extracted_url" : "https://www.geospatial.jp/ckan/dataset/houmusyouchizu-riyoukiyaku/resource/47871bf1-4c85-48f7-a8fe-b27c6643c1c5",
+            "is_free" : "unknown",
+            "key" : "-ddsd-ckan-package",
+            "lang" : "ja",
+            "notes" : "アドレス（住所・所在地）ベース・レジストリの地番マスターデータセットです。地番マスターは「登記所備付地図データ」（法務省）を加工してデジタル庁で作成しています。コンテンツ利用に当たっては、[アドレス・ベース・レジストリの利用規約](https://www.digital.go.jp/policies/base_registry_address_tos)に同意したものとみなします。",
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131075_g2-000010",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "東京都 墨田区 地番マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131075_g2-000010"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "東京都 墨田区 地番マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131075_g2-000010"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 534951,
+   "mirrorzip" : {
+      "length" : 400818,
+      "set" : "nonfree-8",
+      "sha256" : "c0c162a9d96fa2d1145130b0b4efe521051e753bd1a3634866788a5ed2b1078a"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-131075_g2-000010",
+      "desc" : "",
+      "org" : "東京都",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-131075_g2-000010",
+      "tags" : [
+         "東京都",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1714141400.38259,
+      "title" : "東京都 墨田区 地番マスター データセット"
+   },
+   "ref_key_text" : "6\u001C38040df0ec45dde9c959c5407e38773bae53793672c293ca94393593a85ce3ce\u001Cunknown\u001C0\u001C0"
+}
