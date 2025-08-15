@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:0e8c2bd9-3258-46df-b529-f1db334f2dcc" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 70903,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a9f4f863b12a4fdbafb40f0afed6f04d3c735bfaf9d00b0cd5e68d690085b241",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:44803029-9e35-4eae-afdf-5594ddcbc40a" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_blk_city342076.csv.zip",
+         "length" : 42068,
+         "mime" : "application/zip",
+         "sha256" : "3e5d40a7a22368acb44d27a28ad02d5a2a8e589ecc96768076d3387cf1733d5a",
+         "time" : 1710306282,
+         "title" : "広島県 福山市 住居表示-街区マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_blk_city342076.csv.zip"
+      },
+      "file:id:4c77d41c-916b-4896-9deb-7770e86656a3" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-342076_g2-000004.xml",
+         "length" : 3476,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "085f5e094cdd4aab5eb58962755e9aa68ec3a792e029f5cca8d6e1db89194df1",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342076_g2-000004.xml"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11230,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "3e723b55afbb90cfbf1a551c234dfeaf7184bc43ac78bb23d5cf69278caec0fe",
+         "time" : 1755275129,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-342076_g2-000004"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5567,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "a52415251c4d8ed189a58862c191673022468798455550915aeb31f81a6d3fb4",
+         "time" : 1710306288.1702,
+         "title" : "広島県 福山市 住居表示-街区マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-342076_g2-000004"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県 福山市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342076_g2-000004"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-342076_g2-000004",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "広島県 福山市 住居表示-街区マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342076_g2-000004"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "広島県 福山市 住居表示-街区マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342076_g2-000004"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 133244,
+   "mirrorzip" : {
+      "length" : 69323,
+      "set" : "free-6",
+      "sha256" : "8885162dca97fdb7140a145e49da733c2e854171442bdbc99df9a232f0f66177"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-342076_g2-000004",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-街区マスターデータセットです。",
+      "org" : "広島県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-342076_g2-000004",
+      "tags" : [
+         "広島県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710306288.1702,
+      "title" : "広島県 福山市 住居表示-街区マスター データセット"
+   },
+   "ref_key_text" : "6\u001Cafaf0f0fb6a793896e8376e0b654d90f6ae03308cdd76e06490393cb80b32c55\u001Cfree\u001C0\u001C0"
+}
