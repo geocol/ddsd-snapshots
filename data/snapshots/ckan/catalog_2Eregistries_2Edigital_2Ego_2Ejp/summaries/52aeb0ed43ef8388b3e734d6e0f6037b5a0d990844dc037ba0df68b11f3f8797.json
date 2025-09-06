@@ -1,0 +1,198 @@
+{
+   "files" : {
+      "file:id:0bfd26a5-320d-494c-9eb6-f0f59864be7d" : {
+         "desc" : "ベース・レジストリ（アドレス）のリソース定義です。（外部サイトが開きます）",
+         "file_name" : "base_registry_address",
+         "length" : 71714,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "07c8faf731d6ecf6557313dbd57ad2126bbfc1925c8924fcfebee591332238a1",
+         "time" : 1674777600,
+         "title" : "リソース定義",
+         "type" : "file",
+         "url" : "https://www.digital.go.jp/policies/base_registry_address"
+      },
+      "file:id:3da8653f-6c64-49ad-bf77-ef442ca52255" : {
+         "desc" : "メタデータをXML形式でダウンロードします。",
+         "file_name" : "ba-o1-042099_g2-000005.xml",
+         "length" : 3486,
+         "mime" : "application/rdf\u002Bxml",
+         "sha256" : "3824b7d8c115991fe9d2121ceefff104e5666146197de22b416a53df4eb2587e",
+         "time" : 1674777600,
+         "title" : "メタデータ（詳細）",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042099_g2-000005.xml"
+      },
+      "file:id:da5e776f-3cb7-4d1b-9f57-4ef9b8963923" : {
+         "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-住居マスターデータセットです。",
+         "file_name" : "mt_rsdtdsp_rsdt_city042099.csv.zip",
+         "length" : 155020,
+         "mime" : "application/zip",
+         "sha256" : "2484475970b015c98271dcd9c3b4f12284002ef3a7c6a2d201dc254f59664ab2",
+         "time" : 1710248734,
+         "title" : "宮城県 多賀城市 住居表示-住居マスター データセット",
+         "type" : "file",
+         "url" : "https://catalog.registries.digital.go.jp/rsc/address/mt_rsdtdsp_rsdt_city042099.csv.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 11254,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1316ff2dd9d19a70ac41af9defd3b507a173fbac40087d3203bb0c9d19408ae6",
+         "time" : 1757175979,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/dataset/activity/ba-o1-042099_g2-000005"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5586,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "ef0f41257ec2a0cfe629452be879992b9581d8a87e1573ad6c1499c3a4aa497f",
+         "time" : 1710248740.8012,
+         "title" : "宮城県 多賀城市 住居表示-住居マスター データセット",
+         "type" : "meta",
+         "url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042099_g2-000005"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県 多賀城市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042099_g2-000005"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042099_g2-000005",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "ja",
+                        "value" : "デジタル庁",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "宮城県 多賀城市 住居表示-住居マスター データセット",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042099_g2-000005"
+                  },
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-catalog.registries.digital.go.jp",
+            "label" : "利用規約 - レジストリカタログ",
+            "lang" : "ja",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "デジタル庁",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "template_not_modified" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "レジストリカタログ（{url}）",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "宮城県 多賀城市 住居表示-住居マスター データセット",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042099_g2-000005"
+            },
+            "source_type" : "site",
+            "source_url" : "https://catalog.registries.digital.go.jp/rc/terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 247060,
+   "mirrorzip" : {
+      "length" : 124310,
+      "set" : "free-6",
+      "sha256" : "165858d112911ec465b6a93e7a8bb6bd175e271e127fb28c1403655742977656"
+   },
+   "package" : {
+      "author" : "",
+      "ckan_api_url" : "https://catalog.registries.digital.go.jp/rc/api/action/package_show?id=ba-o1-042099_g2-000005",
+      "desc" : "アドレス（住所・所在地）・ベース・レジストリの住居表示-住居マスターデータセットです。",
+      "org" : "宮城県",
+      "page_url" : "https://catalog.registries.digital.go.jp/rc/dataset/ba-o1-042099_g2-000005",
+      "tags" : [
+         "宮城県",
+         "土地・地図",
+         "住所情報",
+         "市区町村",
+         "都道府県"
+      ],
+      "time" : 1710248740.8012,
+      "title" : "宮城県 多賀城市 住居表示-住居マスター データセット"
+   },
+   "ref_key_text" : "6\u001Caf686b4051f849d632a255fe749e13dba9f85b4248a404bad62be4a94dfcf8df\u001Cfree\u001C0\u001C0"
+}
