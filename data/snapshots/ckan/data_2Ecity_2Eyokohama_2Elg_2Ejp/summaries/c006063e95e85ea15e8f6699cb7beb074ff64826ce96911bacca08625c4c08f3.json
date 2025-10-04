@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:ca0be048-9229-4bbb-914c-89f199650bb1" : {
+         "desc" : "",
+         "file_name" : "20250901.csv",
+         "length" : 59996,
+         "mime" : "text/csv",
+         "sha256" : "bfcc42c65d08b6c2c07535e1b3dd9974e833545fabe2036a212e4230812ad306",
+         "time" : 1759244679.27681,
+         "title" : "（３）歯科技工所名簿（ＣＳＶファイル）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/iryo/anzenshien/iryomeibo/gikousyomeibo.files/20250901.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 14905,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9c5bdfb23a25380b9e719595ac4d1a596886df369497986cc1d0397220ded546",
+         "time" : 1759585081,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/iryo_gikousyomeibo"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2732,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d512598f8ddbe4acaf8a0df190cd8a22e6ee9eca225ab4e2dd5ccaab8d67499f",
+         "time" : 1759244679.27519,
+         "title" : "横浜市内の歯科技工所名簿",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=iryo_gikousyomeibo"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "医療安全課 (医療局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "横浜市内の歯科技工所名簿",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/iryo_gikousyomeibo"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=iryo_gikousyomeibo",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "横浜市内の歯科技工所名簿",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/iryo_gikousyomeibo"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 77633,
+   "mirrorzip" : {
+      "length" : 31281,
+      "set" : "free-6",
+      "sha256" : "ba2b21054fe0f7f0e76b6662619821ab5fdcc59341326f7b1908986a4ddeb6fc"
+   },
+   "package" : {
+      "author" : "医療安全課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=iryo_gikousyomeibo",
+      "desc" : "歯科技工所一覧（令和７年９月１日時点）",
+      "org" : "医療局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/iryo_gikousyomeibo",
+      "tags" : [
+         "医療安全課",
+         "医療局",
+         "健康・医療"
+      ],
+      "time" : 1759244679.27519,
+      "title" : "横浜市内の歯科技工所名簿"
+   },
+   "ref_key_text" : "6\u001C2f0ed658f6cf5e6a3faad60e91adbbbc338b30e8e57714956031085ea46c5bf2\u001Cfree\u001C0\u001C0"
+}
