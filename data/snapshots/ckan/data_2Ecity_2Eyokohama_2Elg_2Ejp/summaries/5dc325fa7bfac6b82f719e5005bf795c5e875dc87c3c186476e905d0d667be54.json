@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:5a777eb4-aa2f-4b6b-9c18-d20f9e5fce0a" : {
+         "desc" : "",
+         "file_name" : "0916_20250627.txt",
+         "length" : 29419,
+         "mime" : "text/plain",
+         "sha256" : "ff47d9ce1ab7332b9d959f3a7654e565a54660ab66e0eb35daa7557ee74b2db6",
+         "time" : 1759468750.53314,
+         "title" : "テキストデータ",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/izumi/kusei/koho/koho_izumi/2025/koyoko202507.files/0916_20250627.txt"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15705,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "2d108e032c0c1649729a8dbf20efc2df41e0722bb55cef6f57b523d1152202b2",
+         "time" : 1760028465,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/izumi_koyoko202507"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2635,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "624c2d27c84586bffdaeceffba78d720027c1d9e9dedea10a67bfb09cbf3fec2",
+         "time" : 1759468750.51033,
+         "title" : "2025（令和7）年7月号",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202507"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (泉区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "2025（令和7）年7月号",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202507"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202507",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "2025（令和7）年7月号",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202507"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 47759,
+   "mirrorzip" : {
+      "length" : 25191,
+      "set" : "free-6",
+      "sha256" : "db790e0a9ef2a0a32165d6885f295321eaca9a97d316a3c2956ec9085d134187"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=izumi_koyoko202507",
+      "desc" : "",
+      "org" : "泉区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/izumi_koyoko202507",
+      "tags" : [
+         "区政推進課",
+         "泉区",
+         "区政情報",
+         "刊行物_広報"
+      ],
+      "time" : 1759468750.51033,
+      "title" : "2025（令和7）年7月号"
+   },
+   "ref_key_text" : "6\u001C7b4e19814161d79a58673100bf17ca20a839051b5cb79a0c8cc660b83b719daf\u001Cfree\u001C0\u001C0"
+}
