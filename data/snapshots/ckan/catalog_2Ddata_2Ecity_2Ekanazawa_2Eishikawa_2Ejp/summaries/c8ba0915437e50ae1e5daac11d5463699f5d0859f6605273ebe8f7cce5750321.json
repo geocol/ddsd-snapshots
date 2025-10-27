@@ -1,0 +1,216 @@
+{
+   "files" : {
+      "file:id:3afcebc5-815f-4e4f-a948-108b4a3e00d4" : {
+         "desc" : "",
+         "file_name" : "金沢市休日当番医情報.csv",
+         "length" : 15164,
+         "mime" : "text/csv",
+         "sha256" : "eb356799ac0fade630cfed35ea3ebd4dd9947a15fe7d899e14f0cd691b2ec8b8",
+         "time" : 1761186378.73324,
+         "title" : "金沢市休日当番医情報.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/a65a835b-428c-4ca4-bb20-31259fafcf71/resource/3afcebc5-815f-4e4f-a948-108b4a3e00d4/download/kyujitutoubani.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 30948,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "211e53f2aa83d48c41c113d6b5077ab9cdee1f791069845d1cd4d2d976f4af07",
+         "time" : 1761601329,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-toubani"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3197,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "8a478f41ca418b08d7ed4d96209bd0e868574af2bb7ba1e85861e08d21593f47",
+         "time" : 1761186378.75813,
+         "title" : "金沢市 休日当番医情報",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-toubani"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "健康政策課 (金沢市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金沢市 休日当番医情報",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-toubani"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-toubani",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 休日当番医情報",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-toubani"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917",
+                  "label" : "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 休日当番医情報",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-toubani"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917",
+            "label" : "金沢市オープンデータポータル 利用規約 (令和６年９月 17 日から施行)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 49309,
+   "mirrorzip" : {
+      "length" : 15936,
+      "set" : "free-6",
+      "sha256" : "a92ddd1f597a4936b51ffb42ede68fd53febf2ac2bf4df64a7a99bed5c0d99e3"
+   },
+   "package" : {
+      "author" : "健康政策課",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-toubani",
+      "desc" : "　・2025年10月21日時点の予定表です。\u000D\u000A\u000D\u000A　・急遽変更・休診する場合がありますので、受診の際は事前に医療機関へお問い合わせ下さい。\u000D\u000A\u000D\u000A　・当番医は午前９時から午後６時までです。昼の休憩時間については医療機関にご確認下さい。\u000D\u000A\u000D\u000A　・スマートフォン等から当番医を閲覧する場合は、医師会等のリンク先をご確認下さい。\u000D\u000A\u000D\u000Ahttps://www4.city.kanazawa.lg.jp/soshikikarasagasu/kenkoseisakuka/gyomuannai/2/1/7272.html",
+      "org" : "金沢市",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-toubani",
+      "tags" : [
+         "健康政策課",
+         "金沢市",
+         "福祉_健康"
+      ],
+      "time" : 1761186378.75813,
+      "title" : "金沢市 休日当番医情報"
+   },
+   "ref_key_text" : "6\u001C92a9faa6bc9348958a284e2af65cd13d22306cd3a2e7424a771957e6d3b59ba3\u001Cfree\u001C0\u001C0"
+}
