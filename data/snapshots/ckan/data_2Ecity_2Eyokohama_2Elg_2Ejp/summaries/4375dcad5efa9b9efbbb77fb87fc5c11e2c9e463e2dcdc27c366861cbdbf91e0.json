@@ -1,0 +1,171 @@
+{
+   "files" : {
+      "file:id:534066c0-5222-4db7-bcac-874e72ceca6f" : {
+         "desc" : "",
+         "file_name" : "eiseikankyo-gomitosigen.csv",
+         "length" : 16542,
+         "mime" : "text/csv",
+         "sha256" : "bb2aff0b2490a9f2e1d2a95f8487c50a629f870c3a4c77f33d4ab06a36d79d68",
+         "time" : 1764896702.97017,
+         "title" : "ごみと資源の収集処理量（平成21年度から令和6年度）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/gomi.files/eiseikankyo-gomitosigen.csv"
+      },
+      "file:id:ee01a0a5-28b4-42ce-94d7-8ce4ae302260" : {
+         "desc" : "",
+         "file_name" : "eiseikankyo-gomi.csv",
+         "length" : 2380,
+         "mime" : "text/csv",
+         "sha256" : "168295e7f2f7a7ff6d0c75cdb457ba514dbdb010ecffd3335cdbd26eb5c22de8",
+         "time" : 1764896702.97017,
+         "title" : "ごみ収集量の推移（昭和54年度から令和3年度）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/gomi.files/eiseikankyo-gomi.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 17470,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "49fb3a17f567b84e5c151e564eac34cedc720287094021a916a216fd0abe76b6",
+         "time" : 1765172693,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_gomi"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 3713,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "d23b8ef8e7d9c18c75b640e4b24753358746a705ca4dba7b2acf5af6a6841c02",
+         "time" : 1764896702.95237,
+         "title" : "ごみと資源の総量",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_gomi"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "ごみと資源の総量",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_gomi"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_gomi",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "ごみと資源の総量",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_gomi"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 40105,
+   "mirrorzip" : {
+      "length" : 15705,
+      "set" : "free-7",
+      "sha256" : "db538aca50b3460e7b25d32fb0cf734cb3fd2a6e3a7321522c6b60e44f417f24"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_gomi",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_gomi",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政",
+         "環境",
+         "統計"
+      ],
+      "time" : 1764896702.95237,
+      "title" : "ごみと資源の総量"
+   },
+   "ref_key_text" : "6\u001C4063aefca2d78819d4b18321e24b9353f672e4db8551dec5a86bb92f360bae19\u001Cfree\u001C0\u001C0"
+}
