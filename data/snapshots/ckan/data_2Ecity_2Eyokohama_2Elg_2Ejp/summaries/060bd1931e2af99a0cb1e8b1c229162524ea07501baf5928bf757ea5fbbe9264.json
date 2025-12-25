@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:c3ee1b08-8110-4a4c-915f-eed98b83c8cf" : {
+         "desc" : "",
+         "file_name" : "0029_20251218.csv",
+         "length" : 23055,
+         "mime" : "text/csv",
+         "sha256" : "4ce1718d2a6aeda90b729434640251e5e89d202f1dba4d5f85a6334e0e36f605",
+         "time" : 1766037880.41065,
+         "title" : "親と子のつどいの広場住所一覧（オープンデータ用）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kosodate-kyoiku/kosodateshien/asobiba/tsudoi/tsudoinohiroba.files/0029_20251218.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 20357,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a3fb1e9cf8f5df56c74018d7210ee7779d88d99e790612d369227ab8219b05b1",
+         "time" : 1766671092,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/kodomo_tsudoinohiroba"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2698,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "19bbaec3a5eb77c0d79d833a922c65d0db8ebc2a90b67035d0e30c98ebd211dd",
+         "time" : 1766037880.39695,
+         "title" : "親と子のつどいの広場",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kodomo_tsudoinohiroba"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "地域子育て支援課 (こども青少年局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "親と子のつどいの広場",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/kodomo_tsudoinohiroba"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kodomo_tsudoinohiroba",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "親と子のつどいの広場",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/kodomo_tsudoinohiroba"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 46110,
+   "mirrorzip" : {
+      "length" : 16962,
+      "set" : "free-7",
+      "sha256" : "a2dac16200247fe22beb06446330d2ef955e9c4023372c9e94e7f730b522ddf5"
+   },
+   "package" : {
+      "author" : "地域子育て支援課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kodomo_tsudoinohiroba",
+      "desc" : "",
+      "org" : "こども青少年局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/kodomo_tsudoinohiroba",
+      "tags" : [
+         "地域子育て支援課",
+         "こども青少年局",
+         "子育て・教育"
+      ],
+      "time" : 1766037880.39695,
+      "title" : "親と子のつどいの広場"
+   },
+   "ref_key_text" : "6\u001C7f9f0130ff4429abb54420c1387b13d835fb2c4b47b415b7dc0b98e223994122\u001Cfree\u001C0\u001C0"
+}
