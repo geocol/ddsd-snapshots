@@ -1,0 +1,159 @@
+{
+   "files" : {
+      "file:id:9524abd8-d5df-4189-b69f-4793da7d83d5" : {
+         "desc" : "",
+         "file_name" : "keisatushobo-jiko.csv",
+         "length" : 1457,
+         "mime" : "text/csv",
+         "sha256" : "97d369da09e0d82e535d89fe1b31bba76f7b9273467d404fcdac20715e2673d6",
+         "time" : 1772154322.28118,
+         "title" : "自動車台数と交通事故発生件数（平成11年から令和6年）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/city-info/yokohamashi/tokei-chosa/portal/opendata/kotsujiko.files/keisatushobo-jiko.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 18596,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "cf765b953f31cf8e224ac3bf5335b0dc5000e1618be902c75334c62d00ed03f8",
+         "time" : 1772634478,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/seisaku_kotsujiko"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2760,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "6b272bdbec169156eff26ed379a2101deb8bd7766e22f23f20f26da68844035f",
+         "time" : 1772154322.26849,
+         "title" : "自動車台数と交通事故発生件数",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kotsujiko"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "統計情報課 (政策経営局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "自動車台数と交通事故発生件数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kotsujiko"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kotsujiko",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "自動車台数と交通事故発生件数",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kotsujiko"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 22813,
+   "mirrorzip" : {
+      "length" : 12229,
+      "set" : "free-7",
+      "sha256" : "369d89a3893bb1f42bf06dc3ada7f1e48f505fa39f206b50ea3276c95071e0e6"
+   },
+   "package" : {
+      "author" : "統計情報課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=seisaku_kotsujiko",
+      "desc" : "",
+      "org" : "政策経営局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/seisaku_kotsujiko",
+      "tags" : [
+         "統計情報課",
+         "政策経営局",
+         "市政",
+         "統計"
+      ],
+      "time" : 1772154322.26849,
+      "title" : "自動車台数と交通事故発生件数"
+   },
+   "ref_key_text" : "6\u001C9d331ae5fd235a7a6a2d45a25cd37e4021a6b4706c1307744fd463ff17d08ecc\u001Cfree\u001C0\u001C0"
+}
