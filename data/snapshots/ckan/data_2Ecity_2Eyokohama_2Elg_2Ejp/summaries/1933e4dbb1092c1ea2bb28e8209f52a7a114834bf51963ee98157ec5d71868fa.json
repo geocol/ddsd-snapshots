@@ -1,0 +1,128 @@
+{
+   "files" : {
+      "file:id:9b7f1260-7e87-476a-bfd5-9296082e25d6" : {
+         "desc" : "",
+         "file_name" : "20240801_shikimeguri.zip",
+         "length" : 8059,
+         "mime" : "application/zip",
+         "sha256" : "0e11c7346567a40bc9243545c3c52061b49794f34913d00c298ed39c6275f4b4",
+         "time" : 1776730696.69863,
+         "title" : "標準的なバス情報フォーマット（バス停、時刻表、ルート等）【2024年8月1日現在】",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kotsu/chiikikokyo/huyasu/torikumitiku/asahichuo/asahi-bus.files/20240801_shikimeguri.zip"
+      },
+      "file:id:afbbfb7a-12db-40f5-9ca1-1d91ef5279ac" : {
+         "desc" : "",
+         "file_name" : "0026_20250801.zip",
+         "length" : 8063,
+         "mime" : "application/zip",
+         "sha256" : "4ee6da13d23dd21b917086201396952387df042c94a4b21f7fa912c159afab46",
+         "time" : 1776730696.69862,
+         "title" : "標準的なバス情報フォーマット（バス停、時刻表、ルート等）【2025年8月1日現在】",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/kotsu/chiikikokyo/huyasu/torikumitiku/asahichuo/asahi-bus.files/0026_20250801.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 16710,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "a632ca414bbf587dfedc13382b1e1f3c1167bd28c17d01ad44fef7772fd2dfe8",
+         "time" : 1780045776,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/toshi_asahi-bus"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4341,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "181d8bab4c7581bf1dd79eef1b4ca3933191dd4b6a852255c9cc9564401c2e44",
+         "time" : 1776730696.68013,
+         "title" : "旭中央地区「四季めぐり号」",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=toshi_asahi-bus"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "地域交通推進課 (都市整備局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "旭中央地区「四季めぐり号」",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/toshi_asahi-bus"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=toshi_asahi-bus",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 37173,
+   "mirrorzip" : {
+      "length" : 26210,
+      "set" : "nonfree-10",
+      "sha256" : "e47819581fa0439ff6cf76a748bca5952f218c2ef251ca64f2ee02ca8dc9a5f3"
+   },
+   "package" : {
+      "author" : "地域交通推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=toshi_asahi-bus",
+      "desc" : "",
+      "org" : "都市整備局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/toshi_asahi-bus",
+      "tags" : [
+         "地域交通推進課",
+         "都市整備局",
+         "環境・交通・まちづくり",
+         "バス_鉄道_道路"
+      ],
+      "time" : 1776730696.68013,
+      "title" : "旭中央地区「四季めぐり号」"
+   },
+   "ref_key_text" : "6\u001C9411418fc8525be40a2cf2d8cd2ea23e42eaa09890efe3fa86e0c46e8f189a05\u001Cunknown\u001C0\u001C0"
+}
