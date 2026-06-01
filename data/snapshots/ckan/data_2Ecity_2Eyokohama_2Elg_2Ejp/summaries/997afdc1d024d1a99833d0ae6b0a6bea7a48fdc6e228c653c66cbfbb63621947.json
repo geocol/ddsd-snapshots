@@ -49,7 +49,7 @@
          "length" : 26545,
          "mime" : "text/html; charset=utf-8",
          "sha256" : "841521ba6d6b7905c406f92360501b629431524e11d3907c7fef6d3775792f19",
-         "time" : 1780331771,
+         "time" : 1780339834,
          "title" : "",
          "type" : "meta",
          "url" : "https://data.city.yokohama.lg.jp/dataset/activity/tsurumi_5ainet"
@@ -66,7 +66,7 @@
       }
    },
    "legal" : {
-      "is_free" : "free",
+      "is_free" : "unknown",
       "legal" : [
          {
             "desc_url" : "https://opendefinition.org/licenses/cc-by/",
@@ -97,51 +97,9 @@
             "writing_mode" : "horizontal-tb"
          },
          {
-            "alt" : [
-               {
-                  "dir" : "ltr",
-                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
-                  "is_free" : "free",
-                  "key" : "CC-BY-4.0",
-                  "label" : "Creative Commons Attribution 4.0 International",
-                  "lang" : "en",
-                  "notice" : {
-                     "holder" : {
-                        "dir" : "ltr",
-                        "lang" : "en",
-                        "value" : "神奈川県横浜市",
-                        "writing_mode" : "horizontal-tb"
-                     },
-                     "need_modified_flag" : 1,
-                     "template" : {
-                        "dir" : "ltr",
-                        "lang" : "en",
-                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
-                        "writing_mode" : "horizontal-tb"
-                     },
-                     "template_not_modified" : {
-                        "dir" : "ltr",
-                        "lang" : "en",
-                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
-                        "writing_mode" : "horizontal-tb"
-                     },
-                     "title" : {
-                        "dir" : "auto",
-                        "lang" : "ja",
-                        "value" : "第５期鶴見区地域福祉保健計画（鶴見・あいねっと）",
-                        "writing_mode" : "horizontal-tb"
-                     },
-                     "url" : "https://data.city.yokohama.lg.jp/dataset/tsurumi_5ainet"
-                  },
-                  "type" : "fallback_license",
-                  "writing_mode" : "horizontal-tb"
-               }
-            ],
-            "dir" : "ltr",
-            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "dir" : "auto",
             "is_free" : "unknown",
-            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
-            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "key" : "-ddsd-unknown",
             "lang" : "ja",
             "source_type" : "site",
             "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
@@ -169,9 +127,9 @@
    },
    "length" : 529443,
    "mirrorzip" : {
-      "length" : 308626,
-      "set" : "free-8",
-      "sha256" : "c1d6dab196391ec67299b6e90e00743e07169912061edbbca4af0128946da03b"
+      "length" : 307944,
+      "set" : "nonfree-10",
+      "sha256" : "dcf730406efefce1b4d082e684794028c7cf345f29eef78af5f956fbb2831cf7"
    },
    "package" : {
       "author" : "福祉保健課",
@@ -187,5 +145,5 @@
       "time" : 1779337116.2875,
       "title" : "第５期鶴見区地域福祉保健計画（鶴見・あいねっと）"
    },
-   "ref_key_text" : "6\u001C3481edfccf75cc1aa6355a0b7ead60d06864194f991221f2711c5d6d8690209b\u001Cfree\u001C0\u001C0"
+   "ref_key_text" : "6\u001C3481edfccf75cc1aa6355a0b7ead60d06864194f991221f2711c5d6d8690209b\u001Cunknown\u001C0\u001C0"
 }
