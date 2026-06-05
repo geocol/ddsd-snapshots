@@ -1,0 +1,139 @@
+{
+   "files" : {
+      "file:id:1c5cd9bf-0b86-4a8a-ac1d-ea3deae5009d" : {
+         "desc" : "",
+         "file_name" : "list.csv",
+         "length" : 15372,
+         "mime" : "text/csv",
+         "sha256" : "ad27191eb8c175292d362c6ecd8225ff8e37d286d6f42c5d147ff8862063ec0c",
+         "time" : 1727771180.01016,
+         "title" : "戸塚フォトコレクション全データ　リスト",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/totsukafuoto/download.files/list.csv"
+      },
+      "file:id:a523335c-f328-439f-a0ff-2a77cd03c01d" : {
+         "desc" : "",
+         "file_name" : "all.zip",
+         "length" : 19893958,
+         "mime" : "application/zip",
+         "sha256" : "2dbaf64b33f6655038e3eac590d689e257935eec6cf7e161943a285395be5dac",
+         "time" : 1727771180.01017,
+         "title" : "戸塚フォトコレクション全データ",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/totsukafuoto/download.files/all.zip"
+      },
+      "file:id:f5f3c6a2-9255-4dfe-bcba-a179bacae369" : {
+         "desc" : "",
+         "file_name" : "list.xlsx",
+         "length" : 29696,
+         "mime" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+         "sha256" : "d59376c06953c990cfbd653e1de0b9e613247306176830932338a6bb6ba7054a",
+         "time" : 1727771180.01016,
+         "title" : "戸塚フォトコレクション全データ　リスト",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/totsuka/shokai/gaiyo/totsukafuoto/download.files/list.xlsx"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15670,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "37d24f28d4b097c9b514ffc5ef3aaeea232b45fc6edb679975d09cd260fa6661",
+         "time" : 1780699190,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/totsuka_download"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 4318,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "c1d8bf8bfecb92b7a468e9d72fff53c120fee6ce9623a489428348abf8ce0aa7",
+         "time" : 1727771179.99624,
+         "title" : "一括ダウンロード",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=totsuka_download"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "区政推進課 (戸塚区)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "一括ダウンロード",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/totsuka_download"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=totsuka_download",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 19959014,
+   "mirrorzip" : {
+      "length" : 19926321,
+      "set" : "nonfree-l18",
+      "sha256" : "02a1fa47179e44ad471cbc5bf1c504776ee9ff814602dee8845c7aa82d64c654"
+   },
+   "package" : {
+      "author" : "区政推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=totsuka_download",
+      "desc" : "",
+      "org" : "戸塚区",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/totsuka_download",
+      "tags" : [
+         "区政推進課",
+         "戸塚区",
+         "区政情報",
+         "画像_映像"
+      ],
+      "time" : 1727771179.99624,
+      "title" : "一括ダウンロード"
+   },
+   "ref_key_text" : "6\u001Cb36e20a48ff1a0abc70657788b6f44f268085a74c0304c57eaff77a7c2d4ef13\u001Cunknown\u001C0\u001C0"
+}
