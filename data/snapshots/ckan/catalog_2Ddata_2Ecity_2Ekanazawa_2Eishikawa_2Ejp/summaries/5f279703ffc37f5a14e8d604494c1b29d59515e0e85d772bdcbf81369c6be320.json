@@ -1,0 +1,216 @@
+{
+   "files" : {
+      "file:id:dedfd09b-ec8f-475b-bd9e-1069c2562c50" : {
+         "desc" : "",
+         "file_name" : "金沢市_年齢別人口・世帯数.csv",
+         "length" : 170317,
+         "mime" : "text/csv",
+         "sha256" : "2b245e10704e83b37258ea298a819ded7d4d1a9c118780e5bef3ea16cabe07bd",
+         "time" : 1778810232.94291,
+         "title" : "金沢市 年齢別人口・世帯数.csv",
+         "type" : "file",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/5d298788-ca04-4b31-bd09-3e142176603e/resource/dedfd09b-ec8f-475b-bd9e-1069c2562c50/download/172014-nenrei-setai.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 30734,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "1b9a50e15fc73b0ed02be3f73b5872668f203a94592af14d3a6d1d0f8d0bb9e4",
+         "time" : 1780733758,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/activity/172014-nenrei-setai"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2229,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "3b8c765cd3572b53142f2a142cb1b04ef7b6336700dc00b036b96881b8d72864",
+         "time" : 1778810232.97095,
+         "title" : "金沢市 年齢別人口・世帯数",
+         "type" : "meta",
+         "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-nenrei-setai"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "調査統計室 (金沢市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "金沢市 年齢別人口・世帯数",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-nenrei-setai"
+            },
+            "source_type" : "package",
+            "source_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-nenrei-setai",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "conditional" : [
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "金沢市",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder}）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 年齢別人口・世帯数",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-nenrei-setai"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/pdf/opendata_rule.pdf",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-kanazawashi-r060917",
+                  "label" : "金沢市オープンデータ利用規約 (令和６年９月 17 日から施行)",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               },
+               {
+                  "alt" : [
+                     {
+                        "dir" : "ltr",
+                        "is_free" : "sometimes",
+                        "key" : "-ddsd-cc",
+                        "label" : "Creative Commons",
+                        "lang" : "en",
+                        "notice" : {
+                           "holder" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "石川中央都市圏オープンデータ ",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）を加工して作成",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "template_not_modified" : {
+                              "dir" : "ltr",
+                              "lang" : "en",
+                              "value" : "「{title}」（{holder} https://portal-data.city.kanazawa.ishikawa.jp）（{url}）",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "title" : {
+                              "dir" : "auto",
+                              "lang" : "ja",
+                              "value" : "金沢市 年齢別人口・世帯数",
+                              "writing_mode" : "horizontal-tb"
+                           },
+                           "url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-nenrei-setai"
+                        },
+                        "type" : "fallback_license",
+                        "writing_mode" : "horizontal-tb"
+                     }
+                  ],
+                  "dir" : "ltr",
+                  "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+                  "is_free" : "unknown",
+                  "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-ishikawachuuoutoshiken-r060917",
+                  "label" : "石川中央都市圏オープンデータ",
+                  "lang" : "ja",
+                  "type" : "license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-portal-data.city.kanazawa.ishikawa.jp-r060917",
+            "label" : "金沢市オープンデータポータル 利用規約 (令和６年９月 17 日から施行)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://portal-data.city.kanazawa.ishikawa.jp/#terms",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 203280,
+   "mirrorzip" : {
+      "length" : 78922,
+      "set" : "free-8",
+      "sha256" : "9b99c4304685544e4d505268479050652dd8b615bea822ff38c46436541a8c35"
+   },
+   "package" : {
+      "author" : "調査統計室",
+      "ckan_api_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/api/action/package_show?id=172014-nenrei-setai",
+      "desc" : "",
+      "org" : "金沢市",
+      "page_url" : "https://catalog-data.city.kanazawa.ishikawa.jp/dataset/172014-nenrei-setai",
+      "tags" : [
+         "調査統計室",
+         "金沢市",
+         "統計"
+      ],
+      "time" : 1778810232.97095,
+      "title" : "金沢市 年齢別人口・世帯数"
+   },
+   "ref_key_text" : "6\u001C8f0069e2addb17909bfe64e46d4f7254e629f1ccc443a1fc9c4fed3ed42bc5f6\u001Cfree\u001C0\u001C0"
+}
