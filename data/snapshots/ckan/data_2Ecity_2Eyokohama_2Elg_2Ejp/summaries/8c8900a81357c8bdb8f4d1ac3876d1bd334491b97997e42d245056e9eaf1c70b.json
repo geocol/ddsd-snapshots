@@ -1,0 +1,141 @@
+{
+   "files" : {
+      "file:id:095de5c3-6347-4e12-96f4-1872e3dc2313" : {
+         "desc" : "",
+         "file_name" : "ryokuchi.csv",
+         "length" : 672,
+         "mime" : "text/csv",
+         "sha256" : "b5070db71cefeaaae9f600b542d2ce49e969651b6f9efe96ec75f8e6d25e625b",
+         "time" : 1727771233.17809,
+         "title" : "敷地面積に対する緑地面積の割合",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/business/keizai/horei/horitsu/ritti/rittiopendata.files/ryokuchi.csv"
+      },
+      "file:id:14783c1a-1f25-47ad-aee3-6168c3cc1878" : {
+         "desc" : "",
+         "file_name" : "kankyosisetu.csv",
+         "length" : 676,
+         "mime" : "text/csv",
+         "sha256" : "a0f6412bd6e5b0ee98b757c13fb02b0f0f2e58bef34b022d921f7141701853b2",
+         "time" : 1727771233.17809,
+         "title" : "敷地面積に対する環境施設（含む緑地）面積の割合",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/business/keizai/horei/horitsu/ritti/rittiopendata.files/kankyosisetu.csv"
+      },
+      "file:id:b934f3b0-e0ff-417c-8d11-cffce61fac84" : {
+         "desc" : "",
+         "file_name" : "seisansisetu.csv",
+         "length" : 891,
+         "mime" : "text/csv",
+         "sha256" : "3156c0231a2132075112e650c201635c59540b604e0d054336b739f2957bedf4",
+         "time" : 1727771233.17809,
+         "title" : "敷地面積に対する生産施設面積の割合",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/business/keizai/horei/horitsu/ritti/rittiopendata.files/seisansisetu.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 15781,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "bafeba59fcaf4174264a680cae325451cab427533cc93fdeae526772f14d0b4b",
+         "time" : 1780995777,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/keizai_rittiopendata"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5285,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "2bdb5108a4982a8aaeeabe51479169a1a7246f3e96a467b125ed15f310e3919d",
+         "time" : 1727771233.16139,
+         "title" : "工場立地法オープンデータ",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=keizai_rittiopendata"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "企業投資促進課 (経済局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "工場立地法オープンデータ",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/keizai_rittiopendata"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=keizai_rittiopendata",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 23305,
+   "mirrorzip" : {
+      "length" : 14098,
+      "set" : "nonfree-10",
+      "sha256" : "02d96871b6ccb62435ff957aae487383451617e34d9db3c833c3f51a7c4174eb"
+   },
+   "package" : {
+      "author" : "企業投資促進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=keizai_rittiopendata",
+      "desc" : "",
+      "org" : "経済局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/keizai_rittiopendata",
+      "tags" : [
+         "企業投資促進課",
+         "経済局",
+         "経済・産業",
+         "施設",
+         "経済",
+         "統計"
+      ],
+      "time" : 1727771233.16139,
+      "title" : "工場立地法オープンデータ"
+   },
+   "ref_key_text" : "6\u001C9f64a033720b4bd195c835015e12916cf4a084e337ff137878ab89971bd92e71\u001Cunknown\u001C0\u001C0"
+}
