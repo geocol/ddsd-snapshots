@@ -1,0 +1,158 @@
+{
+   "files" : {
+      "file:id:0a5234c2-ca3c-4a36-914c-a20cfe1f0f32" : {
+         "desc" : "",
+         "file_name" : "0022_20260605.csv",
+         "length" : 18695,
+         "mime" : "text/csv",
+         "sha256" : "29eb95a3638b34519b1050365e8c7ce23eab2a8362f939f0f1546d392437ebd6",
+         "time" : 1780622353.49328,
+         "title" : "横浜市公衆トイレ一覧",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/shinyo/toilet.files/0022_20260605.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 19331,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "ff07377b083f596255872c5ecb03ca6c6f05b35f4d06e2c006b0e27d6811e256",
+         "time" : 1781944991,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/shigen_toilet"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 2595,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "67a38b02af1b1b37bf3ab51af1f48dbd4a9926e3e162652dac69876bb50c8fa7",
+         "time" : 1780622353.47996,
+         "title" : "公衆トイレについて",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shigen_toilet"
+      }
+   },
+   "legal" : {
+      "is_free" : "free",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "喫煙対策・美化推進課 (資源循環局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "公衆トイレについて",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/shigen_toilet"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shigen_toilet",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "alt" : [
+               {
+                  "dir" : "ltr",
+                  "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+                  "is_free" : "free",
+                  "key" : "CC-BY-4.0",
+                  "label" : "Creative Commons Attribution 4.0 International",
+                  "lang" : "en",
+                  "notice" : {
+                     "holder" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "神奈川県横浜市",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "need_modified_flag" : 1,
+                     "template" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "この著作物は、以下の著作物を改変して利用しています。\u000A{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "template_not_modified" : {
+                        "dir" : "ltr",
+                        "lang" : "en",
+                        "value" : "{title}、{holder}\u000Aクリエイティブ・コモンズ・ライセンス 表示4.0 国際\u000A（https://creativecommons.org/licenses/by/4.0/deed.ja）",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "title" : {
+                        "dir" : "auto",
+                        "lang" : "ja",
+                        "value" : "公衆トイレについて",
+                        "writing_mode" : "horizontal-tb"
+                     },
+                     "url" : "https://data.city.yokohama.lg.jp/dataset/shigen_toilet"
+                  },
+                  "type" : "fallback_license",
+                  "writing_mode" : "horizontal-tb"
+               }
+            ],
+            "dir" : "ltr",
+            "full_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "is_free" : "unknown",
+            "key" : "-ddsd-terms-data.city.yokohama.lg.jp",
+            "label" : "横浜市オープンデータポータルサイト利用規約 (平成31（2019）年3月)",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 40621,
+   "mirrorzip" : {
+      "length" : 15787,
+      "set" : "free-8",
+      "sha256" : "eaf446b37e466dc936eaa85542c70f9cc8be843b1a79aa266ecb4b77730f04eb"
+   },
+   "package" : {
+      "author" : "喫煙対策・美化推進課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=shigen_toilet",
+      "desc" : "",
+      "org" : "資源循環局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/shigen_toilet",
+      "tags" : [
+         "喫煙対策・美化推進課",
+         "資源循環局",
+         "住まい・くらし"
+      ],
+      "time" : 1780622353.47996,
+      "title" : "公衆トイレについて"
+   },
+   "ref_key_text" : "6\u001C19965104989136c4ed78069fe47e5a145fdfa5b68dd5c34766f5b69ca4ef1b3a\u001Cfree\u001C0\u001C0"
+}
