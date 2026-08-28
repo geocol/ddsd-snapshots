@@ -1,0 +1,142 @@
+{
+   "files" : {
+      "file:id:2a6e07ae-c0d1-42f0-8250-e8f9f19af062" : {
+         "desc" : "",
+         "file_name" : "1013_20260731.csv",
+         "length" : 94119,
+         "mime" : "text/csv",
+         "sha256" : "a09a3a5a8dc5ae86753e59963f949f9a6086c12d549875676f1d2a691b992898",
+         "time" : 1785733481.10354,
+         "title" : "市内全区：受入可能数（８月１日時点・８月１日更新）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kosodate-kyoiku/hoiku-yoji/shisetsu/riyou/info/nyusho-jokyo.files/1013_20260731.csv"
+      },
+      "file:id:bfd3c300-3ff3-43fe-a226-5deb6427f742" : {
+         "desc" : "",
+         "file_name" : "202608-jidou.csv",
+         "length" : 99151,
+         "mime" : "text/csv",
+         "sha256" : "7426adb9f6936effc37e137d779cb75d8a747ed5f2f64f045b3a41c8f2b3aa48",
+         "time" : 1785733481.10354,
+         "title" : "市内全区：入所児童数（８月１日時点・８月１日更新）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kosodate-kyoiku/hoiku-yoji/shisetsu/riyou/info/nyusho-jokyo.files/202608-jidou.csv"
+      },
+      "file:id:e75e9e0c-d976-49ae-9a7d-0a313c871209" : {
+         "desc" : "",
+         "file_name" : "202608-machi.csv",
+         "length" : 94801,
+         "mime" : "text/csv",
+         "sha256" : "e036f8129cbda7080bf577d9779b1641d14b328fa6c9b55a721956435b165385",
+         "time" : 1785733481.10355,
+         "title" : "市内全区：入所待ち人数（８月１日時点・８月１日更新）",
+         "type" : "file",
+         "url" : "https://www.city.yokohama.lg.jp/kosodate-kyoiku/hoiku-yoji/shisetsu/riyou/info/nyusho-jokyo.files/202608-machi.csv"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 17689,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "9d8e0b3c4d43155e0a232d1cf345f3a5552da0f397191a355a7c14cbf4ba3696",
+         "time" : 1787959192,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/dataset/activity/kodomo_nyusho-jokyo"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 5299,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "acbbb4d873c7a6899bad24d64af6862f56f0d677d62f701951086041b57d13cb",
+         "time" : 1785733481.07881,
+         "title" : "保育所等の入所状況",
+         "type" : "meta",
+         "url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kodomo_nyusho-jokyo"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "保育・教育認定課 (こども青少年局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "auto",
+                  "lang" : "ja",
+                  "value" : "保育所等の入所状況",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://data.city.yokohama.lg.jp/dataset/kodomo_nyusho-jokyo"
+            },
+            "source_type" : "package",
+            "source_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kodomo_nyusho-jokyo",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "auto",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://data.city.yokohama.lg.jp/terms.html",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 311059,
+   "mirrorzip" : {
+      "length" : 79976,
+      "set" : "nonfree-10",
+      "sha256" : "e343bb23d9399b6a21bcd21f313368243ae78939565a015ac04904fee481109a"
+   },
+   "package" : {
+      "author" : "保育・教育認定課",
+      "ckan_api_url" : "https://data.city.yokohama.lg.jp/api/action/package_show?id=kodomo_nyusho-jokyo",
+      "desc" : "",
+      "org" : "こども青少年局",
+      "page_url" : "https://data.city.yokohama.lg.jp/dataset/kodomo_nyusho-jokyo",
+      "tags" : [
+         "保育・教育認定課",
+         "こども青少年局",
+         "子育て・教育",
+         "保育",
+         "地域",
+         "施設",
+         "統計"
+      ],
+      "time" : 1785733481.07881,
+      "title" : "保育所等の入所状況"
+   },
+   "ref_key_text" : "6\u001C900596368d624c442d68452a69a72c1e596071e1a34be141efc7406859f9cbdf\u001Cunknown\u001C0\u001C0"
+}
