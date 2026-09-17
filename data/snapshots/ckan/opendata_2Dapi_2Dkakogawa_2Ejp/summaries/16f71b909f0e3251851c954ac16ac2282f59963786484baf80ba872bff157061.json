@@ -1,0 +1,151 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:08d838b0-cd5e-4bbb-9d37-6cb543f2f1e2" : {
+         "desc" : "",
+         "file_name" : "entities-2",
+         "set_type" : "fiware-ngsi",
+         "time" : 1526349718.52426,
+         "title" : "未供用路線",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=AuthorizedRoad&idPattern=\u005C.UnsharedRoute\u005C."
+      },
+      "file:id:2606645e-b9e1-4fd9-8fb0-cb4a884c2f5f" : {
+         "desc" : "",
+         "file_name" : "entities-1",
+         "set_type" : "fiware-ngsi",
+         "time" : 1526349615.35989,
+         "title" : "供用路線",
+         "type" : "dataset",
+         "url" : "https://api.opendata-api-kakogawa.jp/orion/v2/entities?type=AuthorizedRoad&idPattern=\u005C.SharedRoute\u005C."
+      },
+      "file:id:398efc4a-3049-4823-afcb-80cf0cb2143f" : {
+         "desc" : "",
+         "file_name" : "202603_authorizedroad_mikyouyourosen.zip",
+         "length" : 18390,
+         "mime" : "application/zip",
+         "sha256" : "767364bb5ed19d82701fa33044dd701b8fba1708836ed3be5bae1188ea13f480",
+         "time" : 1789350028.66616,
+         "title" : "令和８年３月未供用路線",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/91632ff6-7552-4050-9123-8c6eb154e6d8/resource/398efc4a-3049-4823-afcb-80cf0cb2143f/download/202603_authorizedroad_mikyouyourosen.zip"
+      },
+      "file:id:faa3b521-13fa-42f5-a362-4d03ff6627f4" : {
+         "desc" : "",
+         "file_name" : "202603_authorizedroad_kyouyoukaisizumi.zip",
+         "length" : 1671532,
+         "mime" : "application/zip",
+         "sha256" : "922f8159e25d3bbc6f7bc270470f3b7f2ccf7feb76a33eff030e2f4c3012e9fb",
+         "time" : 1789349982.93889,
+         "title" : "令和８年３月供用開始済み路線",
+         "type" : "file",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/91632ff6-7552-4050-9123-8c6eb154e6d8/resource/faa3b521-13fa-42f5-a362-4d03ff6627f4/download/202603_authorizedroad_kyouyoukaisizumi.zip"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 32770,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "b229e96f0ae946dac7275b4ed8d841eca3e6010a65e5345cd4e07606ee369489",
+         "time" : 1789602730,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/activity/authorizedroad"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 13617,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "b595e11ac1b47ec54e0f1397c32e64c78c982d630040892fdf5856ff7b2d86b4",
+         "time" : 1789350053.48905,
+         "title" : "市道認定道路線網図",
+         "type" : "meta",
+         "url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=authorizedroad"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "desc_url" : "https://opendefinition.org/licenses/cc-by/",
+            "dir" : "ltr",
+            "is_free" : "free",
+            "key" : "-ddsd-cc-by",
+            "label" : "Creative Commons Attribution",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "土木総務課 (加古川市)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "市道認定道路線網図",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://opendata-api-kakogawa.jp/ckan/dataset/authorizedroad"
+            },
+            "source_type" : "package",
+            "source_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=authorizedroad",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://opendata-api-kakogawa.jp/odp/tos/",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 1736309,
+   "mirrorzip" : {
+      "length" : 1634641,
+      "set" : "nonfree-11",
+      "sha256" : "258fa7fb83de5226acbd8fa67537a5b334f12d0f041004341d51d09b9aa142c9"
+   },
+   "package" : {
+      "author" : "土木総務課",
+      "ckan_api_url" : "https://opendata-api-kakogawa.jp/ckan/api/action/package_show?id=authorizedroad",
+      "desc" : "",
+      "org" : "加古川市",
+      "page_url" : "https://opendata-api-kakogawa.jp/ckan/dataset/authorizedroad",
+      "tags" : [
+         "土木総務課",
+         "加古川市",
+         "道路・交通",
+         "共用路線",
+         "市道",
+         "未共用路線",
+         "線網図",
+         "認定道路"
+      ],
+      "time" : 1789350053.48905,
+      "title" : "市道認定道路線網図"
+   },
+   "ref_key_text" : "6\u001Cb2d7cec52281b883d0335657920d2dcf5e9f6eaf11c791dc3c8ae9671fa91ade\u001Cunknown\u001C0\u001C0"
+}
