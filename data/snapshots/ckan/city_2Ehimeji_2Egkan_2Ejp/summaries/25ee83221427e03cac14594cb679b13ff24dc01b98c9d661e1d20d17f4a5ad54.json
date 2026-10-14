@@ -1,0 +1,140 @@
+{
+   "broken" : 1,
+   "files" : {
+      "file:id:20e4ab54-95e9-493e-bd13-68705009534c" : {
+         "desc" : "",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/923311e5-3686-4754-894b-9e81eaffcd6e/resource/20e4ab54-95e9-493e-bd13-68705009534c/download/282014_tohyojo.geojson"
+      },
+      "file:id:654d8624-67d6-424a-a17f-a4e3587a8b75" : {
+         "desc" : "",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/923311e5-3686-4754-894b-9e81eaffcd6e/resource/654d8624-67d6-424a-a17f-a4e3587a8b75/download/282014_kijituzen.csv"
+      },
+      "file:id:8e65b2d7-38cd-451e-9407-93d706f434e4" : {
+         "desc" : "",
+         "file_name" : "282014_tohyojo.csv",
+         "length" : 18429,
+         "mime" : "text/csv",
+         "sha256" : "1148e4dc9e37a48244470e6857d8d3ea27404b68ea0213b303faab17868ed467",
+         "time" : 1730355574.891,
+         "title" : "投票所",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/923311e5-3686-4754-894b-9e81eaffcd6e/resource/8e65b2d7-38cd-451e-9407-93d706f434e4/download/282014_tohyojo.csv"
+      },
+      "file:id:efc23604-1843-40c2-b795-61f30cf6d726" : {
+         "desc" : "",
+         "title" : "",
+         "type" : "file",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/923311e5-3686-4754-894b-9e81eaffcd6e/resource/efc23604-1843-40c2-b795-61f30cf6d726/download/282014_kijituzen.geojson"
+      },
+      "meta:activity.html" : {
+         "desc" : "",
+         "length" : 44131,
+         "mime" : "text/html; charset=utf-8",
+         "sha256" : "490b5abf763113c71eaac18f1d0ad20e5acb8fb2d7db82c9a30a669f32c77ed3",
+         "time" : 1791995888,
+         "title" : "",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/dataset/activity/touhyoujyo"
+      },
+      "meta:ckan.json" : {
+         "desc" : "",
+         "length" : 6755,
+         "mime" : "application/json;charset=utf-8",
+         "sha256" : "4d2b4a6d7e54bdc9d0e4051f7f3aa13dcf12db5be9ad56518d3270229dd75e79",
+         "time" : 1730423702.8129,
+         "title" : "投票所",
+         "type" : "meta",
+         "url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=touhyoujyo"
+      }
+   },
+   "legal" : {
+      "is_free" : "unknown",
+      "legal" : [
+         {
+            "dir" : "ltr",
+            "full_url" : "https://creativecommons.org/licenses/by/4.0/",
+            "is_free" : "free",
+            "key" : "CC-BY-4.0",
+            "label" : "Creative Commons Attribution 4.0 International",
+            "lang" : "en",
+            "notice" : {
+               "holder" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "選挙管理委員会事務局 (姫路市選挙管理委員会事務局)",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "need_modified_flag" : 1,
+               "title" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "投票所",
+                  "writing_mode" : "horizontal-tb"
+               },
+               "url" : "https://city.himeji.gkan.jp/gkan/dataset/touhyoujyo"
+            },
+            "source_type" : "package",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=touhyoujyo",
+            "type" : "license",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "unknown",
+            "key" : "-ddsd-unknown",
+            "lang" : "ja",
+            "source_type" : "site",
+            "source_url" : "https://city.himeji.gkan.jp/gkan/base/doc/Terms_of_use_260430.pdf",
+            "type" : "site_terms",
+            "writing_mode" : "horizontal-tb"
+         },
+         {
+            "dir" : "ltr",
+            "is_free" : "neutral",
+            "key" : "-ddsd-disclaimer",
+            "lang" : "ja",
+            "notice" : {
+               "template" : {
+                  "dir" : "ltr",
+                  "lang" : "ja",
+                  "value" : "これらの法的な表示はソフトウェアにより機械的に抽出・生成したものです。ソフトウェアの制作者はその正確性、完全性、その他を一切保証しません。",
+                  "writing_mode" : "horizontal-tb"
+               }
+            },
+            "source_type" : "sniffer",
+            "type" : "disclaimer",
+            "writing_mode" : "horizontal-tb"
+         }
+      ]
+   },
+   "length" : 69315,
+   "mirrorzip" : {
+      "length" : 18002,
+      "set" : "nonfree-11",
+      "sha256" : "4876c963d86839155ce004b9595a1674df7d558d38f838c4d3364fb1365ffcfc"
+   },
+   "package" : {
+      "author" : "選挙管理委員会事務局",
+      "ckan_api_url" : "https://city.himeji.gkan.jp/gkan/api/action/package_show?id=touhyoujyo",
+      "desc" : "",
+      "org" : "姫路市選挙管理委員会事務局",
+      "page_url" : "https://city.himeji.gkan.jp/gkan/dataset/touhyoujyo",
+      "tags" : [
+         "選挙管理委員会事務局",
+         "姫路市選挙管理委員会事務局",
+         "くらし",
+         "姫路市",
+         "位置情報",
+         "施設",
+         "選挙",
+         "選挙管理委員会"
+      ],
+      "time" : 1730423702.8129,
+      "title" : "投票所"
+   },
+   "ref_key_text" : "6\u001C1af012ea18968420b3c070fe0fc99c67e5dbdd8ae660f04495579033c12c010e\u001Cunknown\u001C0\u001C1"
+}
